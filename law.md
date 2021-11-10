@@ -57,14 +57,6 @@ sections:
         image: images/SVG/undraw_contact_us.svg
         content: >-
           Karin Hollah <br> E-Mail: K.Hollah@dil-ev.de <br> Tel.: 05431 183 193 <br><br> Alexander Märdian <br> E-Mail: A.Maerdian@dil-tec.de <br> Tel.: 05431 183 354 <br><br> 
-  - section_id: call-to-action
-    component: cta_block.html
-    type: ctablock
-    title: Jetzt Kontakt aufnehmen!
-    subtitle: mmmint.ai - building smart solutions. Wir sind gespannt auf Ihre Herausforderung
-    actions:
-      - label: Kontakt
-        url: mailto:info@mmmint.ai
 layout: features
 ---
 

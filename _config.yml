@@ -36,15 +36,15 @@ footer:
 
   nav_title: Company
   nav:
-    Home: "index"
+    Foodhyper: "foodhyper"
+    Hackathon: "hackathon"
+    Bootcamp: "bootcamp"
+    Law: "law"
     Blog: "blog"
-    Infos: "info"
-    FAQ: "faq"
-    Partner: "partner"
 
   has_subscribe: true
-  subscribe_title: "Subscribe"
-  subscribe_content: "Melden Sie sich jetzt bei unserem Newsletter an und bleiben Sie immer auf dem neuesten Stand."
+  subscribe_title: "Interesse?"
+  subscribe_content: "Hier Kontakt aufnehmen"
 
 defaults:
   -
