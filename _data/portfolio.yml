@@ -1,0 +1,24 @@
+- title: Teilkasko
+  image:
+    link: images/pic02.jpg
+    alt: test
+  description:  Egal ob Diebstahl, Glasbruch, Wildschaden oder Brand. Wir übernehmen für Sie das fiktiv abrechnen.
+  link: /teilkasko
+
+- name: Vollkasko
+  image:
+    link: images/pic03.jpg
+    alt: test
+  description: Lorem ipsum dolor sit amet sit veroeros sed amet blandit consequat
+        veroeros lorem blandit adipiscing et feugiat phasellus tempus
+        dolore ipsum lorem dolore.
+  link: /feature2
+
+- name: Haftpflicht
+  image:
+    link: images/pic04.jpg
+    alt: test
+  description: Lorem ipsum dolor sit amet sit veroeros sed amet blandit consequat
+        veroeros lorem blandit adipiscing et feugiat phasellus tempus
+        dolore ipsum lorem dolore.
+  link: /feature3

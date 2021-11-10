@@ -1,0 +1,80 @@
+title: PitchForGood.de | KFZ Gutachter | KFZ Sachverständige | Online Wertgutachten anfordern
+baseurl: /
+permalink: "/:year/:month/:day/:title/"
+collections:
+  posts:
+    permalink: "/blog/:year/:month/:day/:title/"
+
+header:
+  title: CheckMyCrash
+  logo_img: images/logo.png
+  has_nav: true
+  nav:
+    Home: "index"
+    Info: "info"
+    FAQ: "faq"
+    Blog: "blog"
+  palette: blue
+  menu:
+    actions:
+      - label: Sign Up
+        url: /signup
+footer:
+  logo_img: images/logo.png
+  tagline: PitchForGood.de | KFZ Gutachter | KFZ Sachverständige | Jetzt online Wertgutachten anfordern
+  content: "&copy; MMM Intelligence UG (haftungsbeschränkt). All rights reserved."
+  links:
+    - text: Impressum
+      url: "/impressum"
+      new_window: false
+    - text: Datenschutz
+      url: "/datenschutz"
+      new_window: false
+
+  social_title: Community
+
+  nav_title: Company
+  nav:
+    Home: "index"
+    Blog: "blog"
+    Infos: "info"
+    FAQ: "faq"
+    Partner: "partner"
+
+  has_subscribe: true
+  subscribe_title: "Subscribe"
+  subscribe_content: "Melden Sie sich jetzt bei unserem Newsletter an und bleiben Sie immer auf dem neuesten Stand."
+
+defaults:
+  -
+    scope:
+      path:            "drafts/**"
+    values:
+      sitemap:         false
+  -
+    scope:
+      path:            "images/**"
+    values:
+      sitemap:         false
+
+sass:
+  indentWidth: 4
+  style: nested
+  precision: 10
+plugins:
+  - jekyll-menus
+  - jekyll-sitemap
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - ssg-build.sh
+  - LICENSE.md
+  - README.md
+  - netlify.toml
+  - stackbit-build.sh
+  - stackbit-pull.js

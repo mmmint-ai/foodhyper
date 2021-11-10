@@ -1,0 +1,15 @@
+- name: Twitter
+  link: https://twitter.com/mr_fiktiv
+  class: brands fa-twitter
+- name: Facebook
+  link: https://facebook.com/mrfiktiv
+  class: brands fa-facebook-square
+- name: LinkedIn
+  link: https://linkedin.com/company/mrfiktiv
+  class: brands fa-linkedin
+- name: Instagram
+  link: https://instagram.com/mrfiktiv
+  class: brands fa-instagram
+- name: Email
+  link: mailto:info@mrfiktiv.com
+  class: solid fa-envelope
