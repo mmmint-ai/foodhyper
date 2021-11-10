@@ -1,4 +1,4 @@
-title: PitchForGood.de | KFZ Gutachter | KFZ Sachverständige | Online Wertgutachten anfordern
+title: Foodhyper
 baseurl: /
 permalink: "/:year/:month/:day/:title/"
 collections:
@@ -6,13 +6,14 @@ collections:
     permalink: "/blog/:year/:month/:day/:title/"
 
 header:
-  title: CheckMyCrash
+  title: Foodhyper
   logo_img: images/logo.png
   has_nav: true
   nav:
-    Home: "index"
-    Info: "info"
-    FAQ: "faq"
+    Foodhyper: "foodhyper"
+    Hackathon: "hackathon"
+    Bootcamp: "bootcamp"
+    Law: "law"
     Blog: "blog"
   palette: blue
   menu:
@@ -21,7 +22,7 @@ header:
         url: /signup
 footer:
   logo_img: images/logo.png
-  tagline: PitchForGood.de | KFZ Gutachter | KFZ Sachverständige | Jetzt online Wertgutachten anfordern
+  tagline: 
   content: "&copy; MMM Intelligence UG (haftungsbeschränkt). All rights reserved."
   links:
     - text: Impressum
