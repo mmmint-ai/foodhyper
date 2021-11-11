@@ -1,0 +1,13 @@
+<div class="social-block">
+  <div class="header">
+    <h1>Stay in touch</h1>
+  </div>
+  <div class="icon-wrapper">
+    {% for item in site.data.social %} {% assign link_is_not_empty = item.link |
+    is_not_empty %} {% if link_is_not_empty %}
+    <a href="{{ item.link }}" target="_blank" rel="noopener"
+      ><img src="{{ item.image }}" alt="check"/>
+	</a>
+	{% endif %} {% endfor %}
+  </div>
+</div>

@@ -35,14 +35,14 @@ sections:
       - title: Bewerbung
         image: images/SVG/undraw_fill_form.svg
         content: >-
-          Für die Sprechstunde füllt einfach den Bewerbungsbogen mit eurer speziellen Fragestellung aus und schickt diese an Karin Hollah (k.hollah@dil-ev.de).Wir prüfen die Anfrage und informieren euch im Vorfeld, ob ihr teilnehmen könnt. Die Plätze werden nach Eingang der Bewerbungen vergeben
+          Für die Sprechstunde füllt einfach den Bewerbungsbogen mit eurer speziellen Fragestellung aus und schickt diese an Karin Hollah (k.hollah@dil-ev.de).<br>Wir prüfen die Anfrage und informieren euch im Vorfeld, ob ihr teilnehmen könnt. Die Plätze werden nach Eingang der Bewerbungen vergeben
         actions:
           - label: Jetzt bewerben!
             url: /solutions/fahrzeugscheinscanner
       - title: Was sonst noch wichtig
         image: images/SVG/undraw_work_chat.svg
         content: >-
-          Die Lebensmittelrechtliche Sprechstunde wird angeboten von der DIL Technologie GmbH im Auftrag von Startup Niedersachsen. Die DIL Technologie GmbH, Seedhouse Accelerator GmbH und die Innovate GmbH bieten gemeinsam ein Programm zur Foodtech-Startup Förderung unter dem Namen FOODHYPER an. Bei den Terminen sind wir vom FOODHYPER-Team vor Ort und können euch weitere Informationen zu Angeboten der Food-Startup-Förderung geben. Ihr könnt euch dort direkt mit anderen Startups austauschen und vernetzen. Für das leibliche Wohl wird natürlich auch gesorgt. Bis Ende 2022 wird es noch weitere Sprechstunden geben. Bei Interesse meldet euch bei uns und wir informieren euch rechtzeitig über anstehende Termine.  
+          Die Lebensmittelrechtliche Sprechstunde wird angeboten von der DIL Technologie GmbH im Auftrag von Startup Niedersachsen. Die DIL Technologie GmbH, Seedhouse Accelerator GmbH und die Innovate GmbH bieten gemeinsam ein Programm zur Foodtech-Startup Förderung unter dem Namen FOODHYPER an. <br> Bei den Terminen sind wir vom FOODHYPER-Team vor Ort und können euch weitere Informationen zu Angeboten der Food-Startup-Förderung geben. Ihr könnt euch dort direkt mit anderen Startups austauschen und vernetzen. Für das leibliche Wohl wird natürlich auch gesorgt. Bis Ende 2022 wird es noch weitere Sprechstunden geben.<br> Bei Interesse meldet euch bei uns und wir informieren euch rechtzeitig über anstehende Termine.  
         actions:
           - label: Learn More
             url: /solutions/ainonymizer
@@ -56,7 +56,7 @@ sections:
       - title: Ansprechpartner
         image: images/SVG/undraw_contact_us.svg
         content: >-
-          Karin Hollah <br> E-Mail: K.Hollah@dil-ev.de <br> Tel.: 05431 183 193 <br><br> Alexander Märdian <br> E-Mail: A.Maerdian@dil-tec.de <br> Tel.: 05431 183 354 <br><br> 
+          Karin Hollah <br> E-Mail: K.Hollah@dil-ev.de <br> Tel.: 05431 183 193 <br><br> Alexander Märdian <br> E-Mail: A.Maerdian@dil-tec.de <br> Tel.: 05431 183 354 <br><br> Die Lebensmittelrechtliche Sprechstunde wird organisiert von der DIL Technologie GmbH im Auftrag von Startup Niedersachsen.   
 layout: features
 ---
 

@@ -1,8 +1,7 @@
 ---
 title: Foodhyper
 subtitle: >-
-  mmmint.ai ist die Osnabrücker Talentschmiede für Künstliche Intelligenz und Digitales.
-  Sie möchten Prozesse und Workflows digitalisieren und haben bereits konkrete Ideen? Wir entwickeln gemeinsam mit Ihnen datenbasierte digitale Services. Maßgeschneiderte Lösungen mit modernster Technologie. Die Projekte werden gemeinsam erarbeitet. Sprechen Sie uns gerne an.
+  Der FoodHyper ist ein Programm zur Förderung von Food-Startups in Niedersachsen für Gründerinnen, Gründer und Gründungsinteressierte der Ernährungsbranche. Es bietet mit seinen unterschiedlichen Formaten sowohl für erste Ideen als auch frühphasige Startups Unterstützung bei Produkt, Geschäftsidee und Netzwerk. Eingebettet in das bestehende Ökosystem verknüpft der FoodHyper bestehende Programme und Akteure und bietet somit den optimalen Anlaufpunkt für Food-Startups.
 share-img: images/undraw_cloud_sync_2aph.svg.png
 sections:
   - section_id: mrfiktiv

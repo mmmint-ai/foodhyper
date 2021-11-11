@@ -18,8 +18,8 @@ header:
   palette: blue
   menu:
     actions:
-      - label: Sign Up
-        url: /signup
+      - label: Interesse?
+        url: /contact
 footer:
   logo_img: images/logo.png
   tagline: 

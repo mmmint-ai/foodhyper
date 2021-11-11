@@ -1,5 +1,5 @@
 ---
-title: Home
+title:
 subtitle: >-
   Wir vermitteln Ihnen bundesweit Gutachter und Sachverständige. Online und zum Bestpreis!
 share-image: images/logo.png
@@ -13,7 +13,7 @@ sections:
       Der FoodHyper ist ein Programm zur Förderung von Food-Startups in Niedersachsen für Gründerinnen, Gründer und Gründungsinteressierte der Ernährungsbranche.
     actions:
       - label: Interesse?
-        url: https://app.mrfiktiv.com/
+        url: /contact
   - section_id: Foodhyper
     component: features_block.html
     type: featuresblock
