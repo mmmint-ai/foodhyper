@@ -42,7 +42,7 @@ sections:
     subtitle: >-
 
     featureslist:
-    - title: Ansprechpartner für Fragen rundum die Events
+    - title:
       image: images/Felix.jpg
       content: >-
         Felix Willert <br><br> E-Mail: felix@innovate-os.de <br><br> Tel.: 0541 50798526
