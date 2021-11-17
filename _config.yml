@@ -15,7 +15,7 @@ header:
     Foodhyper: "foodhyper"
     Hackathon: "hackathon"
     Bootcamp: "bootcamp"
-    Law: "FoodLaw"
+    FoodLaw: "law"
     Blog: "blog"
   palette: blue
   menu:
