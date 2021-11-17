@@ -23,21 +23,7 @@
       </a>
     </noscript>
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script
-      type="text/plain"
-      cookie-consent="tracking"
-      async
-      src="https://www.googletagmanager.com/gtag/js?id=G-W1PBP2W25B"
-    ></script>
-    <script type="text/plain" cookie-consent="tracking">
-      window.dataLayer = window.dataLayer || [];
-      function gtag() {
-          dataLayer.push(arguments);
-      }
-      gtag("js", new Date());
-
-      gtag('config', 'G-4MM29SQSZG');
-    </script>
+    {% include analytics.html %}
 
     <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@latest/dist/js/splide.min.js" async></script>
     <link

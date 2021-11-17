@@ -1,6 +1,8 @@
 title: Foodhyper
 baseurl: /
 permalink: "/:year/:month/:day/:title/"
+# Google Analytics
+google_analytics: G-W1PBP2W25B
 collections:
   posts:
     permalink: "/blog/:year/:month/:day/:title/"
@@ -13,7 +15,7 @@ header:
     Foodhyper: "foodhyper"
     Hackathon: "hackathon"
     Bootcamp: "bootcamp"
-    Law: "law"
+    Law: "FoodLaw"
     Blog: "blog"
   palette: blue
   menu:

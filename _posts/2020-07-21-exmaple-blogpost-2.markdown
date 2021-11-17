@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Hackathon 13./14. Januar 2022"
 date:   2020-07-21 05:36:53 -0500
 categories: jekyll update
 ---

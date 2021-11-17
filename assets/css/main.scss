@@ -16,8 +16,8 @@ $palette: (
   meta: lighten(#4c5267, 20%),
   border: lighten(#4c5267, 58%),
   bg: #f7f9fb,
-  accent: #ddb500,
-  accent-alt: lighten(#ddb500, 20%),
+  accent: #b99700,
+  accent-alt: lighten(#b99700, 20%),
   accent-purple: #b5267b,
   accent-purple-alt: #632695,
   accent-green: #438945,
@@ -185,8 +185,7 @@ $palette: (
   -moz-transition: -moz-transform 0.3s 0.7s, opacity 0s 0.7s;
   transition: transform 0.3s 0.7s, opacity 0s 0.7s;
 }
-
-// Custom CSS for checkmycrash
+// Custom Styling
 
 .iconContainerLarge {
 	display: flex;
@@ -201,8 +200,11 @@ $palette: (
 
 .iconContainer {
 	display: flex;
-	margin-left: 30%;
 	align-items: center;
+}
+
+.last {
+	margin-bottom: 1em;
 }
 
 .iconContainer img {
@@ -218,3 +220,39 @@ $palette: (
 		margin-left: 20%;
 	}
 }
+
+.social-block {
+	margin-top: 3em;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	margin-bottom: 3em;
+  
+	.header {
+		margin-bottom: 2em;
+	}
+  
+	.icon-wrapper {
+	  display: flex;
+	  align-items: center;
+	  justify-content: space-evenly;
+	  width: 100%;
+	}
+  
+	a {
+	  border-bottom: none;
+	  
+	  img {
+		  width: 60px;
+		  height: 60px;
+	  }
+  
+	  @media only screen and (max-width: 600px) {
+		  img {
+			  width: 35px;
+			  height: 35px;
+		  }
+	  }
+	}
+  }

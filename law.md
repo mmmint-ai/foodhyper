@@ -1,62 +1,89 @@
 ---
-title: Law
+title: FoodLaw
 subtitle: >-
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 share-img: images/undraw_cloud_sync_2aph.svg.png
 sections:
-  - section_id: mrfiktiv
+  - section_id: Law
     component: features_block.html
     type: featuresblock
     bg: gray
-    title: 
+    title: FoodLaw
     subtitle: >-
+
     featureslist:
-      - title: Lebensmittelrechtliche Sprechstunde für Foodtech-Startups 
-        image: images/SVG/undraw_tasting.svg
+      - title: Hintergrund
+        image: images/SVG/undraw_education.svg
         content: >-
-          ​Junge Unternehmen und Forschungsteams aus Universitäten und Forschungseinrichtungen entwickeln neue Produkte, Technologien, Verfahren und Dienstleistungen rund um das Ernährungssystem. Oftmals unterliegen die geplanten Innovationen rechtlichen Rahmenbedingungen, die den Teams nicht bekannt sind oder noch nicht im Fokus stehen.<br> Diese fehlenden Kenntnisse können zu erheblichen Verzögerungen oder letztendlich zum Scheitern des gesamten Vorhabens führen. Dem kann mit einer frühzeitigen Einbindung einer rechtlichen Beratung entgegengewirkt werden
-        actions:
-          - label: Learn More
-            url: /solutions/landingpage
-      - title: Unser Angebot
-        image: images/SVG/undraw_interview.svg
+          Das Lebensmittelrecht ist umfangreich und dynamisch: Lebensmittelinformationsverordnung (LMIV), Novel Food Verordnung, Health Claims Verordnung, EU-Hygienepaket, Lebensmittel-, Bedarfsgegenstände- und Futtermittelgesetzbuch (LFGB), um einige zu nenne. Hinzu kommen für neue Entwicklungen Schutzrechte, insbesondere Patente und Gebrauchsmuster. 
+          Um hier nicht den Überblick zu verlieren, bieten wir für Gründerinnen, Gründer und Gründungsinteressierte in der Kategorie ‚Food Law‘ zwei Formate an: 
+          <br>1.	Öffentliche Veranstaltungen zu lebensmittelrechtlichen Themen, Patente und Gebrauchsmuster
+          <br>2.	Geschlossene Sprechstunden zur individuellen rechtlichen Beratung von Food Startups in Niedersachsen durch Prof. Dr. Markus Grube, Rechtsanwalt, Lebensmittel- und Verbrauchsgüterjurist
+      - title: Ziele
+        image: images/SVG/undraw_target.svg
         content: >-
-          Wir bietet eine lebensmittelrechtliche Sprechstunde für Gründungsinteressierte und junge Startups der Food-Branche an. <br>Die Sprechstunde wird durchgeführt von Prof. Dr. Markus Grube, Rechtsanwalt, Lebensmittel- und Verbrauchsgüterjurist. Die Beratung dauert ca. 50 Minuten und ist kostenlos.  
-        actions:
-          - label: Learn More
-            url: /solutions/digitaleschadensmeldung
-      - title: Termine
-        image: images/SVG/undraw_calendar.svg
-        content: >-
-          Hier Blogpost Verlinkung ​
-        actions:
-          - label: Learn More
-            url: /solutions/mrfiktiv
-      - title: Bewerbung
-        image: images/SVG/undraw_fill_form.svg
-        content: >-
-          Für die Sprechstunde füllt einfach den Bewerbungsbogen mit eurer speziellen Fragestellung aus und schickt diese an Karin Hollah (k.hollah@dil-ev.de).<br>Wir prüfen die Anfrage und informieren euch im Vorfeld, ob ihr teilnehmen könnt. Die Plätze werden nach Eingang der Bewerbungen vergeben
-        actions:
-          - label: Jetzt bewerben!
-            url: /solutions/fahrzeugscheinscanner
-      - title: Was sonst noch wichtig
+          Mit den Beratungsangeboten werden Food Startups und Gründungsinteressierte über rechtliche Themen informiert und die Etablierung eines innovativen Produktes oder einer innovativen Technologie auf dem Markt soll erleichtert werden. 
+      - title: Zielgruppe
         image: images/SVG/undraw_work_chat.svg
         content: >-
-          Die Lebensmittelrechtliche Sprechstunde wird angeboten von der DIL Technologie GmbH im Auftrag von Startup Niedersachsen. Die DIL Technologie GmbH, Seedhouse Accelerator GmbH und die Innovate GmbH bieten gemeinsam ein Programm zur Foodtech-Startup Förderung unter dem Namen FOODHYPER an. <br> Bei den Terminen sind wir vom FOODHYPER-Team vor Ort und können euch weitere Informationen zu Angeboten der Food-Startup-Förderung geben. Ihr könnt euch dort direkt mit anderen Startups austauschen und vernetzen. Für das leibliche Wohl wird natürlich auch gesorgt. Bis Ende 2022 wird es noch weitere Sprechstunden geben.<br> Bei Interesse meldet euch bei uns und wir informieren euch rechtzeitig über anstehende Termine.  
-        actions:
-          - label: Learn More
-            url: /solutions/ainonymizer
-      - title: Prof. Dr. Grube
-        image: images/markus-grube.jpg
+         Gründerinnen, Gründer und Gründungsinteressierte der Food Startup Szene, Junge Forscherteams aus Universitäten und Forschungseinrichtungen, die neue Produkte, Technologien, Verfahren oder Dienstleistungen rund um das Ernährungssystem entwickeln. ​
+      - title: Ablauf
+        image: images/SVG/undraw_timeline.svg
         content: >-
-          Prof. Dr. Markus Grube studierte Rechtswissenschaften an den Universitäten Bonn, Hamburg, Bilbao (Spanien) und Köln. Promotion zu Fragen der Verantwortlichkeit des Lebensmittelunternehmers (Lehrstuhl für Europarecht der Universität zu Köln).<br><br> Professur für Lebensmittelrecht an der Hochschule Osnabrück, Fachanwalt für Gewerblichen Rechtsschutz, Mitglied des Rechtsausschusses des Lebensmittelverbandes Deutschland e.V., Wissenschaftlicher Beirat der Forschungsstelle für Lebensmittelrecht und Futtermittelrecht an der Philipps-Universität Marburg, Mitglied des GRUR-Fachausschusses für Arznei- und Lebensmittelrecht, Gründer und Vorsitzender des Food Lawyers’ Network Worldwide e.V., Mitglied der Association Internationale des Juristes du Droit de la Vigne et du Vin (AIDV)/International Wine Law Association (IWLA).<br><br> Prof. Dr. Markus Grube publiziert regelmäßig zu lebensmittelrechtlichen Themen und ist häufig angefragter Referent und Moderator für Fachveranstaltungen zu Fragen des Lebensmittelrechts, Fragen der Qualitätssicherung und Risikobewertung von Lebensmitteln sowie des Gewerblichen Rechtsschutzes.
-        actions:
-          - label: Kontakt
-            url: /contact
-      - title: Ansprechpartner
-        image: images/SVG/undraw_contact_us.svg
+         Öffentliche Veranstaltung: Fachvorträge und Q&A Session. 
+         Die Termine finden an wechselnden Orten in Niedersachsen statt und werden auf dieser Webseite bekannt gegeben. Rechtliche Fragestellungen können im Vorfeld bei den Ansprechpartnern eingereicht werden. 
+         <br>Geschlossene Sprechstunde: 1:1 Gespräche mit Herrn Prof. Dr. Markus Grube (Link zum Profil: <a href="https://www.kwg.eu/anwaelte/dr-markus-grube/">https://www.kwg.eu/anwaelte/dr-markus-grube/</a>) 
+         <br>Die Termine finden an wechselnden Orten in Niedersachsen statt. Startups bewerben sich mit ihrer konkreten rechtlichen Fragestellung und werden von uns zur Festlegung des Zeitfensters kontaktiert. Die Beratung dauert ca. 50 Minuten und die Plätze werden nach Eingang der Anmeldungen vergeben. Am Veranstaltungstag sind wir vom FoodHyper Team vor Ort und stehen für Fragen rund um den FoodHyper und Angeboten für Startups zur Verfügung. 
+      - title: Anmeldung / Teilnahmebedingungen
+        image: images/SVG/undraw_subscriber.svg
         content: >-
-          Karin Hollah <br> E-Mail: K.Hollah@dil-ev.de <br> Tel.: 05431 183 193 <br><br> Alexander Märdian <br> E-Mail: A.Maerdian@dil-tec.de <br> Tel.: 05431 183 354 <br><br> Die Lebensmittelrechtliche Sprechstunde wird organisiert von der DIL Technologie GmbH im Auftrag von Startup Niedersachsen.   
+         Die Bewerbung zur Teilnahme an der geschlossenen Sprechstunde erfolgt mit einer konkreten Fragestellung über den Anmeldebogen (zum Anmeldeformular verlinken) 
+         <br>Der nächste Termin für die geschlossene Sprechstunde ist am 14./15. Dezember 2021 beim Seedhouse in Osnabrück, Marie-Curie-Str. 3, 49076 Osnabrück
+         Nach der Anmeldung nehmen wir mit euch Kontakt auf zur Absprache der Beratungszeit.
+         <br>Die Teilnahme an den Veranstaltungen ist kostenlos.
+  - section_id: ansprechpartner
+    component: features_block.html
+    type: featuresblock
+    bg: gray
+    title: Ansprechpartner
+    subtitle: >-
+
+    featureslist:
+      - title: 
+        image: images/avatar.png
+        content: >-
+          Karin Hollah <br><br> E-Mail: E-Mail: K.Hollah@dil-ev.de <br><br> Tel.: 05431 183 193
+      - title: 
+        image: images/Alexander.jpg
+        content: >-
+          Alexander Märdian <br><br> E-Mail: A.Maerdian@dil-tec.de <br><br> Tel.: 05431 183 354
+          
+  - section_id: faq
+    component: faq_block.html
+    type: faqblock
+    bg: gray
+    title: Häufig gestelle Fragen
+    subtitle: FAQ
+    faqitems:
+      - question: Wird meine Frage bei der geschlossenen Sprechstunde vertraulich behandelt? 
+        answer: >-
+          Ja, die Frage wird zur Vorbereitung an Herrn Prof. Grube weitergegeben. Er unterliegt der anwaltlichen Schweigepflicht. Die Inhalte der Beratung werden nicht weitergegeben.
+      - question: Was kostet die Teilnahme?
+        answer: >-
+         Die Teilnahme an den öffentlichen Veranstaltungen und der geschlossenen Sprechstunde ist kostenlos. Du musst nur zu dem entsprechenden Veranstaltungsort kommen.  
+         Das Programm wird organisiert von der DIL Technologie GmbH im Auftrag von Startup Niedersachsen.
+      - question: Ich schaffe es nicht zu dem Veranstaltungsort, kann ich auch online teilnehmen?
+        answer: >-
+          Die öffentlichen Veranstaltungen sollen nach Möglichkeit in Präsenz stattfinden, sodass auch ein Austausch mit anderen Gründern und Akteuren der Startup-Szene stattfinden kann.   
+          Die 1:1 Beratung können wir in Ausnahmefällen auch im online Format anbieten. Wir würden uns natürlich freuen möglichst viele Teams vor Ort zu begrüßen. Auch hier kann ein persönlicher Austausch mit dem FoodHyper-Team sowie mit anderen Startups stattfinden und euch neue Erkenntnisse und Kontakte bringen.
+      - question: Ich komme nicht aus Niedersachsen. Darf ich trotzdem teilnehmen?
+        answer: >-
+          Ja, die Teilnahme ist auch für Startups möglich, die nicht in Niedersachsen registriert sind. Jedoch sollte langfristig eine Gründung oder ein Sitz in Niedersachsen geplant sein.  
+      - question: Wie lange dauern die Veranstaltungen? 
+        answer: >-
+          Die öffentlichen Veranstaltungen dauern ca. drei Stunden. Dies beinhaltet auch eine umfangreiche Q&A Session.  
+          Für die 1:1 Beratungen stehen 50 Minuten zur Verfügung. Bei den Terminen ist das FoodHyper Team vor Ort und steht gerne für Fragen zu unseren Aktivitäten und Startup-Förderung in Niedersachsen zur Verfügung.    
+      - question: Dürfen wir auch mit mehreren Personen teilnehmen?   
+        answer: >-
+          Ihr könnt gerne auch als Team an den Veranstaltungen teilnehmen. Gebt uns für eine bessere Planung nur im Vorfeld Bescheid mit wie vielen Personen ihr vor Ort seid.    
 layout: features
 ---
-
