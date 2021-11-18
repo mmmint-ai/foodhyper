@@ -34,9 +34,9 @@ footer:
       url: "/datenschutz"
       new_window: false
 
-  social_title: Community
+  social_title: Social
 
-  nav_title: Company
+  nav_title: Navigation
   nav:
     Foodhyper: "foodhyper"
     Hackathon: "hackathon"
