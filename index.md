@@ -37,7 +37,7 @@ sections:
          <div class="iconContainer"><img src="./images/check.png" alt="check" width="40" height="40"> Law </div>
          <div class="iconContainer last"><img src="./images/check.png" alt="check" width="40" height="40"> Netzwerk </div>
         actions:
-          - label: Learn More
+          - label: Kontakt aufnehmen
             url: /contact
       - title: Wir suchen
         image: images/SVG/undraw_people_search.svg
@@ -46,7 +46,7 @@ sections:
          <div class="iconContainer"><img src="./images/questionmark.png" alt="check" width="40" height="40"> Akteure</div>
          <div class="iconContainer last"><img src="./images/questionmark.png" alt="check" width="40" height="40"> Ideen </div>
         actions:
-          - label: Learn More
+          - label: Kontakt aufnehmen
             url: /contact
   - section_id: recent-posts
     component: posts_block.html
