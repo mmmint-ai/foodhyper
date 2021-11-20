@@ -8,26 +8,34 @@ sections:
     component: hero_block.html
     type: heroblock
     image: images/logo.png
-    title: Foodhyper
+    title: FoodHyper
     content: >-
-      Wir haben uns zum Ziel gesetzt, die Akteure der niedersächsischen Food-Gründerszene stärker miteinander zu vernetzen und technologische Innovationen in der Lebensmittelbranche zu fördern.
+      Wir haben uns zum Ziel gesetzt, die Akteure:innen der niedersächsischen Food-Gründerszene stärker miteinander zu vernetzen und technologische Innovationen in der Lebensmittelbranche zu fördern.
     actions:
       - label: Interesse?
         url: /contact
-  - section_id: Foodhyper
+  - section_id: FoodHyper
     component: features_block.html
     type: featuresblock
     bg: gray
-    title: Was ist Foodhyper?
+    title: Was ist FoodHyper?
     subtitle: >-
-      Der FoodHyper ist ein Programm zur Förderung von Food-Startups in Niedersachsen für Gründerinnen, Gründer und Gründungsinteressierte der Ernährungsbranche. Es bietet mit seinen unterschiedlichen Formaten sowohl für erste Ideen als auch frühphasige Startups Unterstützung bei Produkt, Geschäftsidee und Netzwerk. Eingebettet in das bestehende Ökosystem verknüpft der FoodHyper bestehende Programme und Akteure und bietet somit den optimalen Anlaufpunkt für Food-Startups. FoodHyper ist eine Initiative von startup.niedersachsen. <br> Weitere Informationen unter: <a href="https://startup.nds.de/">www.startup.nds.de</a>
+      Der FoodHyper ist ein Programm zur Förderung von Food-Startups in Niedersachsen für Gründerinnen, Gründer und Gründungsinteressierte der Ernährungsbranche. Es bietet mit seinen unterschiedlichen Formaten sowohl für erste Ideen als auch frühphasige Startups Unterstützung bei Produkt, Geschäftsidee und Netzwerk. Eingebettet in das bestehende Ökosystem verknüpft der FoodHyper bestehende Programme und Akteure:innen und bietet somit den optimalen Anlaufpunkt für Food-Startups. <br> 
+      <br>
+      <img src="./images/StartupNiedersachsen.png" alt="startup-logo">
+      <br>
+      <br>
+      FoodHyper ist eine Initiative von startup.niedersachsen.
+      Weitere Informationen unter: <a href="https://startup.nds.de/">www.startup.nds.de</a>
+      <br>
+      
     featureslist:
-      - title: Anmeldung Verteilter
+      - title: Anmeldung Newsletter
         image: images/SVG/undraw_subscriber.svg
         content: >-
           Melde dich jetzt bei unserem Newsletter an und bleibe immer auf dem neuesten Stand! Wir berichten als Unterstützer von Food-Startups regelmäßig über die Food-Gründerszene.
         actions:
-          - label: Melden Sie sich jetzt an!
+          - label: Melde dich jetzt an!
             url: /contact
       - title: Wir bieten
         image: images/SVG/undraw_online_calendar.svg
@@ -43,7 +51,7 @@ sections:
         image: images/SVG/undraw_people_search.svg
         content: >-
          <div class="iconContainer"><img src="./images/questionmark.png" alt="check" width="40" height="40"> Startups</div>
-         <div class="iconContainer"><img src="./images/questionmark.png" alt="check" width="40" height="40"> Akteure</div>
+         <div class="iconContainer"><img src="./images/questionmark.png" alt="check" width="40" height="40"> Akteure:innen</div>
          <div class="iconContainer last"><img src="./images/questionmark.png" alt="check" width="40" height="40"> Ideen </div>
         actions:
           - label: Kontakt aufnehmen
@@ -65,7 +73,7 @@ sections:
       - url: https://www.seedhouse.de/
         image: images/Seedhouse_Logo.png
       - url: https://www.dil-ev.de/
-        image: images/DIL-Logo.png
+        image: images/DIL-Small.png
 
   # - section_id: reviews
   #   component: reviews_block.html
@@ -73,7 +81,7 @@ sections:
   #   bg: white
   #   title: Meet the Team
   #   subtitle: >-
-  #     Foodhyper
+  #     FoodHyper
   #   reviews: 
   #     - 
   #       author: Teammitglied 1

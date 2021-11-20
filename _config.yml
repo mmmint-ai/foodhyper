@@ -1,4 +1,4 @@
-title: Foodhyper
+title: FoodHyper
 baseurl: /
 permalink: "/:year/:month/:day/:title/"
 # Google Analytics
@@ -8,11 +8,11 @@ collections:
     permalink: "/blog/:year/:month/:day/:title/"
 
 header:
-  title: Foodhyper
+  title: FoodHyper
   logo_img: images/logo.png
   has_nav: true
   nav:
-    Foodhyper: "foodhyper"
+    FoodHyper: "foodhyper"
     Hackathon: "hackathon"
     Bootcamp: "bootcamp"
     FoodLaw: "law"
@@ -38,7 +38,7 @@ footer:
 
   nav_title: Navigation
   nav:
-    Foodhyper: "foodhyper"
+    FoodHyper: "foodhyper"
     Hackathon: "hackathon"
     Bootcamp: "bootcamp"
     Law: "law"

@@ -9,13 +9,13 @@ build:
 	docker run --rm --volume="$(current_dir):/srv/jekyll" -it jekyll/jekyll:$(JEKYLL_VERSION) jekyll build
 
 serve: 
-	docker run --name foodhyper --volume="$(current_dir):/srv/jekyll" -p 4000:4000 -it jekyll/jekyll:$(JEKYLL_VERSION) jekyll serve --watch
+	docker run --name FoodHyper --volume="$(current_dir):/srv/jekyll" -p 4000:4000 -it jekyll/jekyll:$(JEKYLL_VERSION) jekyll serve --watch
 
 serve-drafts:
-	docker run --name foodhyper --volume="$(current_dir):/srv/jekyll" -p 4000:4000 -it jekyll/jekyll:$(JEKYLL_VERSION) jekyll serve --watch --drafts
+	docker run --name FoodHyper --volume="$(current_dir):/srv/jekyll" -p 4000:4000 -it jekyll/jekyll:$(JEKYLL_VERSION) jekyll serve --watch --drafts
 
 exec:
-	docker exec -ti foodhyper /bin/sh
+	docker exec -ti FoodHyper /bin/sh
 
 clean:
-	docker rm -f foodhyper
+	docker rm -f FoodHyper

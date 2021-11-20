@@ -1,16 +1,16 @@
 ---
-title: Foodhyper
+title: FoodHyper
 subtitle: >-
-  Der FoodHyper ist ein Programm zur Förderung von Food-Startups in Niedersachsen für Gründerinnen, Gründer und Gründungsinteressierte der Ernährungsbranche. Es bietet mit seinen unterschiedlichen Formaten sowohl für erste Ideen als auch frühphasige Startups Unterstützung bei Produkt, Geschäftsidee und Netzwerk. Eingebettet in das bestehende Ökosystem verknüpft der FoodHyper bestehende Programme und Akteure und bietet somit den optimalen Anlaufpunkt für Food-Startups.
+  Der FoodHyper ist ein Programm zur Förderung von Food-Startups in Niedersachsen für Gründerinnen, Gründer und Gründungsinteressierte der Ernährungsbranche. Es bietet mit seinen unterschiedlichen Formaten sowohl für erste Ideen als auch frühphasige Startups Unterstützung bei Produkt, Geschäftsidee und Netzwerk. Eingebettet in das bestehende Ökosystem verknüpft der FoodHyper bestehende Programme und Akteure:innen und bietet somit den optimalen Anlaufpunkt für Food-Startups.
 share-img: images/undraw_cloud_sync_2aph.svg.png
 sections:
   - section_id: mrfiktiv
     component: features_block.html
     type: featuresblock
     bg: gray
-    title: Der Foodhyper
+    title: Der FoodHyper
     subtitle: >-
-      Der FoodHyper ist ein Programm zur Förderung von Food-Startups in Niedersachsen für Gründerinnen, Gründer und Gründungsinteressierte der Ernährungsbranche. Es bietet mit seinen unterschiedlichen Formaten sowohl für erste Ideen als auch frühphasige Startups Unterstützung bei Produkt, Geschäftsidee und Netzwerk. Eingebettet in das bestehende Ökosystem verknüpft der FoodHyper bestehende Programme und Akteure und bietet somit den optimalen Anlaufpunkt für Food-Startups. FoodHyper ist eine Initiative von startup.niedersachsen.
+      Der FoodHyper ist ein Programm zur Förderung von Food-Startups in Niedersachsen für Gründerinnen, Gründer und Gründungsinteressierte der Ernährungsbranche. Es bietet mit seinen unterschiedlichen Formaten sowohl für erste Ideen als auch frühphasige Startups Unterstützung bei Produkt, Geschäftsidee und Netzwerk. Eingebettet in das bestehende Ökosystem verknüpft der FoodHyper bestehende Programme und Akteure:innen und bietet somit den optimalen Anlaufpunkt für Food-Startups. FoodHyper ist eine Initiative von <a href="https://startup.nds.de/">startup.niedersachsen.</a>
     featureslist:
       - title: Vorstellung Seedhouse
         image: images/Seedhouse_Logo.png
@@ -22,14 +22,14 @@ sections:
       - title: Vorstellung Innovate
         image: images/logo-innovate.png
         content: >-
-          Als Spezialist für innovative Startup-Events mit der eigenen innovate!convention hat sich die 2019 in Osnabrück gegründete Innovate GmbH inzwischen als Full-Service Dienstleister für alle Akteure des Startup-Ökosystems etabliert. Ziel jeder Veranstaltung ist es zukunftsfähige Ideen voranzubringen und die Menschen dahinter zusammen zu bringen. Das Team organisiert dabei vielfältige Events von Hackathons bis hin zu Konferenzen, die Raum für Kreativität und Austausch bieten und durch eine inspirierende Atmosphäre in Erinnerung bleiben.
+          Als Spezialist für innovative Startup-Events mit der eigenen innovate!convention hat sich die 2019 in Osnabrück gegründete Innovate GmbH inzwischen als Full-Service Dienstleister für alle Akteure:innen des Startup-Ökosystems etabliert. Ziel jeder Veranstaltung ist es zukunftsfähige Ideen voranzubringen und die Menschen dahinter zusammen zu bringen. Das Team organisiert dabei vielfältige Events von Hackathons bis hin zu Konferenzen, die Raum für Kreativität und Austausch bieten und durch eine inspirierende Atmosphäre in Erinnerung bleiben.
         actions:
           - label: Weitere Informationen
             url: https://innovate-os.de/
       - title: Vorstellung DIL
         image: images/DIL-Logo.png
         content: >-
-          Das DIL Deutsches Institut für Lebensmitteltechnik entwickelt nachhaltige und effiziente Lösungen für Prozesstechnologien und neue Produktentwicklungen für den Lebensmittelbereich. Problemstellungen im vorwettbewerblichen sowie im kommerziellen Bereich können aus den verschiedenen Perspektiven der Lebensmitteltechnologie unter den Kriterien der Innovation, Digitalisierung und Nachhaltigkeit bearbeitet werden. Als Bindeglied zwischen Wissenschaft und Praxis unterstützt das DIL ihre Kunden und Partner kontinuierlich im Innovationsprozess und sorgt für einen Technologietransfer in die Lebensmittelindustrie. Dem DIL angegliedert ist der DIL Innovation Hub (DIH) als Plattform um Innovationen im Bereich der Lebensmittelwirtschaft zu fördern und Akteure aus diesem Bereich zu vernetzen.​
+          Das DIL Deutsches Institut für Lebensmitteltechnik entwickelt nachhaltige und effiziente Lösungen für Prozesstechnologien und neue Produktentwicklungen für den Lebensmittelbereich. Problemstellungen im vorwettbewerblichen sowie im kommerziellen Bereich können aus den verschiedenen Perspektiven der Lebensmitteltechnologie unter den Kriterien der Innovation, Digitalisierung und Nachhaltigkeit bearbeitet werden. Als Bindeglied zwischen Wissenschaft und Praxis unterstützt das DIL ihre Kunden und Partner kontinuierlich im Innovationsprozess und sorgt für einen Technologietransfer in die Lebensmittelindustrie. Dem DIL angegliedert ist der DIL Innovation Hub (DIH) als Plattform um Innovationen im Bereich der Lebensmittelwirtschaft zu fördern und Akteure:innen aus diesem Bereich zu vernetzen.​
         actions:
           - label: Weitere Informationen
             url: https://www.dil-ev.de/
@@ -39,7 +39,7 @@ sections:
     bg: gray
     title: Foodpaten
     subtitle: >-
-      Unsere Food Paten sind Ansprechpartner*innen und Vermittler*innen für Food Startups und Gründungsinteressierte zu anderen regionalen, überregionalen und landesweiten Akteuren der Startup-Szene. 
+      Unsere Food Paten sind Ansprechpartner:innen und Vermittler:innen für Food Startups und Gründungsinteressierte zu anderen regionalen, überregionalen und landesweiten Akteure:innen der Startup-Szene. 
     featureslist:
       - title: Foodpate 1
         image: images/avatar.png
@@ -47,14 +47,14 @@ sections:
           Foodpate 1
         actions:
           - label: Weitere Informationen
-            url: https://www.seedhouse.de/
+            url: 
       - title: Foodpate 2
         image: images/avatar.png
         content: >-
           Foodpate 2
         actions:
           - label: Weitere Informationen
-            url: https://innovate-os.de
+            url: 
   - section_id: ansprechpartner
     component: features_block.html
     type: featuresblock
