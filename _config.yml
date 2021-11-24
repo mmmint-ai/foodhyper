@@ -1,4 +1,5 @@
 title: FoodHyper
+subtitle: Wir vermitteln Ihnen bundesweit Gutachter und Sachverständige. Online und zum Bestpreis!
 baseurl: /
 permalink: "/:year/:month/:day/:title/"
 # Google Analytics

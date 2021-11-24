@@ -36,7 +36,7 @@ sections:
       - title: Anmeldung / Teilnahmebedingungen
         image: images/SVG/undraw_subscriber.svg
         content: >-
-         Die Bewerbung zur Teilnahme an der geschlossenen Sprechstunde erfolgt mit einer konkreten Fragestellung über den Anmeldebogen (zum Anmeldeformular verlinken).<br>
+         Die Bewerbung zur Teilnahme an der geschlossenen Sprechstunde erfolgt mit einer konkreten Fragestellung über den <b><a href="/documents/foodhyper.pdf" download="FOODHYPER_Bewerbung_lebensmittelrechtliche Sprechstunde_2021">Anmeldebogen</a></b>.<br>
          Der nächste Termin für die geschlossene Sprechstunde ist am 14./15. Dezember 2021 beim Seedhouse in Osnabrück, Marie-Curie-Str. 3, 49076 Osnabrück.<br>
          Nach der Anmeldung nehmen wir mit euch Kontakt auf zur Absprache der Beratungszeit.
          <br>Die Teilnahme an den Veranstaltungen ist kostenlos.
