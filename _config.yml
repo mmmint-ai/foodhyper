@@ -17,7 +17,7 @@ header:
     Hackathon: "hackathon"
     Bootcamp: "bootcamp"
     FoodLaw: "law"
-    Blog: "blog"
+    News: "blog"
   palette: blue
   menu:
     actions:
@@ -43,7 +43,7 @@ footer:
     Hackathon: "hackathon"
     Bootcamp: "bootcamp"
     Law: "law"
-    Blog: "blog"
+    News: "blog"
 
   has_subscribe: true
   subscribe_title: "Interesse?"

@@ -21,11 +21,11 @@
         {% if image_is_not_empty %}
           {% if xs_image_is_not_empty && sm_image_is_not_empty && md_image_is_not_empty%}
           <div class="cell block-preview">
-            <img src="{{ feature.image | relative_url }}" srcset="{{ feature.imagexs | relative_url }} 256w, {{ feature.imagesm | relative_url }} 512w, {{ feature.imagemd | relative_url }} 1024w, {{ feature.image | relative_url }} 1536w" alt="{{ feature.title }}">
+            <img class="block_image" src="{{ feature.image | relative_url }}" srcset="{{ feature.imagexs | relative_url }} 256w, {{ feature.imagesm | relative_url }} 512w, {{ feature.imagemd | relative_url }} 1024w, {{ feature.image | relative_url }} 1536w" alt="{{ feature.title }}">
           </div><!-- .block-preview -->
           {% else %}
           <div class="cell block-preview">
-            <img src="{{ feature.image | relative_url }}" alt="{{ feature.title }}" />
+            <img class="block_image" src="{{ feature.image | relative_url }}" alt="{{ feature.title }}" />
           </div><!-- .block-preview -->
           {% endif %}
         {% endif %}

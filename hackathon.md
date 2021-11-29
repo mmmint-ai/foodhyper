@@ -11,10 +11,11 @@ sections:
     subtitle: >-
 
     featureslist:
-      - title: Hintergrund
+      - title:
         image: images/SVG/undraw_education.svg
         content: >-
           Hackathons sind ein etabliertes Mittel zur Entwicklung neuer Lösungsansätze und bieten durch den offenen Ansatz einen leichten Zugang für interessierte Teilnehmer:innen sowie andere Stakeholder. Kombiniert mit einem interaktiven Programm und Unterstützung bei der Teambildung lassen sich Teams mit Potential zur Startup-Gründung bilden. Durch die Einbettung der Hackathons in einen weiteren Entwicklungsprozess mit angeschlossenen Bootcamps und der individuellen Betreuung können gezielt Startups aufgebaut und unterstützt werden.
+          <br><b>Der erste Hackathon wird voraussichtlich am 13. – 14. Januar 2022 in Osnabrück stattfinden.</b>
       - title: Ziele
         image: images/SVG/undraw_target.svg
         content: >-
@@ -31,7 +32,7 @@ sections:
          Der Hackathon dauert ca. 36 Stunden. Erfahrungsgemäß bestehen die Teilnehmer:innen an Hackathons entweder aus bereits bestehenden Teams oder aus Einzelpersonen. Die Veranstaltung teilt sich organisatorisch in drei Teile ein: 
          <br><b>Teil 1 Kick-Off:</b> Zusammenstellung der Teams, Vergabe der Challenges und Vorbereitung auf das Hacking
          <br><b>Teil 2 Hacking:</b>  Bearbeitung der Challenges gemeinsam mit den Challenge-Gebern, Vorbereitung auf die finale Ergebnispräsentation  
-         <br><b>Teil 3 Abschluss:</b>  Prämierung aller erarbeiteten Lösungen, Vernetzung der Teilnehmer:innen untereinander und mit anderen Akteuren des Niedersächsischen Food-Startup Ökosystems. <br>Der erste Hackathon wird voraussichtlich am 13. – 14. Januar 2022 in Osnabrück stattfinden.
+         <br><b>Teil 3 Abschluss:</b>  Prämierung aller erarbeiteten Lösungen, Vernetzung der Teilnehmer:innen untereinander und mit anderen Akteuren des Niedersächsischen Food-Startup Ökosystems.
       - title: Anmeldung / Teilnahmebedingungen
         image: images/SVG/undraw_subscriber.svg
         content: >-

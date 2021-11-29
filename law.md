@@ -14,31 +14,33 @@ sections:
       - title: Hintergrund
         image: images/SVG/undraw_education.svg
         content: >-
-          Das Lebensmittelrecht ist umfangreich und dynamisch: Lebensmittelinformationsverordnung (LMIV), Novel Food Verordnung, Health Claims Verordnung, EU-Hygienepaket, Lebensmittel-, Bedarfsgegenstände- und Futtermittelgesetzbuch (LFGB), um einige zu nenne. Hinzu kommen für neue Entwicklungen Schutzrechte, insbesondere Patente und Gebrauchsmuster. 
-          Um hier nicht den Überblick zu verlieren, bieten wir für Gründerinnen, Gründer und Gründungsinteressierte in der Kategorie ‚Food Law‘ zwei Formate an: <br>
-          <br>Öffentliche Veranstaltungen zu lebensmittelrechtlichen Themen, Patente und Gebrauchsmuster<br>
-          <br>Geschlossene Sprechstunden zur individuellen rechtlichen Beratung von Food Startups in Niedersachsen durch Prof. Dr. Markus Grube, Rechtsanwalt, Lebensmittel- und Verbrauchsgüterjurist
+          Das Lebensmittelrecht ist umfangreich und dynamisch.<br>
+          Um hier einen Überblick zu bekommen und Antworten auf individuelle Fragen zu erhalten, bieten wir für Gründer:innen und Gründungsinteressierte in der Kategorie ‚Food Law‘ zwei Formate an:  <br>
+          <br><b>Öffentliche Veranstaltungen</b> zu lebensmittelrechtlichen Themen wie Novel Food, Health Claims, Kennzeichnung und Produktsicherheit sowie Patente und Gebrauchsmuster<br>
+          <br><b>Geschlossene Sprechstunden</b> zur individuellen rechtlichen Beratung von Food Startups in Niedersachsen durch Prof. Dr. Markus Grube, Rechtsanwalt, Lebensmittel- und Verbrauchsgüterjurist
       - title: Ziele
         image: images/SVG/undraw_target.svg
         content: >-
-          Mit den Beratungsangeboten werden Food Startups und Gründungsinteressierte über rechtliche Themen informiert und die Etablierung eines innovativen Produktes oder einer innovativen Technologie auf dem Markt soll erleichtert werden. 
-      - title: Zielgruppe
+          Mit den Beratungsangeboten werden Food Startups und Gründungsinteressierte über rechtliche Themen informiert und die Etablierung eines innovativen Produktes oder einer innovativen Technologie auf dem Markt soll erleichtert werden.  
+      - title: Teilnehmer:innen
         image: images/SVG/undraw_work_chat.svg
         content: >-
-         Gründerinnen, Gründer und Gründungsinteressierte der Food Startup Szene, Junge Forscherteams aus Universitäten und Forschungseinrichtungen, die neue Produkte, Technologien, Verfahren oder Dienstleistungen rund um das Ernährungssystem entwickeln. ​
+          <b>Gründer:innen und Gründungsinteressierte</b>  der Food Startup-Szene<br>
+          <br><b>Junge Forscherteams</b> aus Universitäten und Forschungseinrichtungen, die neue Produkte, Technologien, Verfahren oder Dienstleistungen rund um das Ernährungssystem entwickeln.
       - title: Ablauf
         image: images/SVG/undraw_timeline.svg
         content: >-
-         <b>Öffentliche Veranstaltung:</b> Fachvorträge und Q&A Session. 
-         Die Termine finden an wechselnden Orten in Niedersachsen statt und werden auf dieser Webseite bekannt gegeben. Rechtliche Fragestellungen können im Vorfeld bei den Ansprechpartnern eingereicht werden. 
-         <br><b>Geschlossene Sprechstunde:</b> 1:1 Gespräche mit <a href="https://www.kwg.eu/anwaelte/dr-markus-grube/">Herrn Prof. Dr. Markus Grube </a>. 
-         <br>Die Termine finden an wechselnden Orten in Niedersachsen statt. Startups bewerben sich mit ihrer konkreten rechtlichen Fragestellung und werden von uns zur Festlegung des Zeitfensters kontaktiert. Die Beratung dauert ca. 50 Minuten und die Plätze werden nach Eingang der Anmeldungen vergeben. Am Veranstaltungstag sind wir vom FoodHyper Team vor Ort und stehen für Fragen rund um den FoodHyper und Angeboten für Startups zur Verfügung. 
+         <b>Öffentliche Veranstaltung:</b> Fachvorträge und Q&A Session.<br><br>
+         Die Termine finden an wechselnden Orten in Niedersachsen statt und werden auf dieser Webseite bekannt gegeben. Rechtliche Fragestellungen können im Vorfeld bei den Ansprechpartnern eingereicht werden.<br>
+         <br><b>Geschlossene Sprechstunde:</b> 1:1 Gespräche mit <a href="https://www.kwg.eu/anwaelte/dr-markus-grube/">Herrn Prof. Dr. Markus Grube </a>.<br>
+         <br>Die Termine finden an wechselnden Orten in Niedersachsen statt. Die Beratung dauert ca. 50 Minuten.
+         <br>Am Veranstaltungstag sind wir vom FoodHyper Team vor Ort und stehen für Fragen rund um den FoodHyper und Angeboten für Startups zur Verfügung. 
       - title: Anmeldung / Teilnahmebedingungen
         image: images/SVG/undraw_subscriber.svg
         content: >-
-         Die Bewerbung zur Teilnahme an der geschlossenen Sprechstunde erfolgt mit einer konkreten Fragestellung über den <b><a href="/documents/foodhyper.pdf" download="FOODHYPER_Bewerbung_lebensmittelrechtliche Sprechstunde_2021">Anmeldebogen</a></b>.<br>
-         Der nächste Termin für die geschlossene Sprechstunde ist am 14./15. Dezember 2021 beim Seedhouse in Osnabrück, Marie-Curie-Str. 3, 49076 Osnabrück.<br>
-         Nach der Anmeldung nehmen wir mit euch Kontakt auf zur Absprache der Beratungszeit.
+         Die Bewerbung zur Teilnahme an der geschlossenen Sprechstunde erfolgt mit einer konkreten Fragestellung über den <b><a href="/documents/foodhyper.pdf" download="FOODHYPER_Bewerbung_lebensmittelrechtliche Sprechstunde_2021">Anmeldebogen</a></b>.<br><br>
+         Der nächste Termin für die geschlossene Sprechstunde ist am <b>14./15. Dezember 2021</b> beim Seedhouse in Osnabrück, Marie-Curie-Str. 3, 49076 Osnabrück.<br>
+         <br>Nach der Anmeldung nehmen wir mit euch Kontakt auf zur Absprache der Beratungszeit.
          <br>Die Teilnahme an den Veranstaltungen ist kostenlos.
   - section_id: ansprechpartner
     component: features_block.html
@@ -73,11 +75,11 @@ sections:
          Das Programm wird organisiert von der DIL Technologie GmbH im Auftrag von Startup Niedersachsen.
       - question: Ich schaffe es nicht zu dem Veranstaltungsort, kann ich auch online teilnehmen?
         answer: >-
-          Die öffentlichen Veranstaltungen sollen nach Möglichkeit in Präsenz stattfinden, sodass auch ein Austausch mit anderen Gründern und Akteure:innen der Startup-Szene stattfinden kann.   
+          Die öffentlichen Veranstaltungen sollen nach Möglichkeit in Präsenz stattfinden, sodass auch ein Austausch mit anderen Gründern und Akteuren der Startup-Szene stattfinden kann.   
           Die 1:1 Beratung können wir in Ausnahmefällen auch im online Format anbieten. Wir würden uns natürlich freuen möglichst viele Teams vor Ort zu begrüßen. Auch hier kann ein persönlicher Austausch mit dem FoodHyper-Team sowie mit anderen Startups stattfinden und euch neue Erkenntnisse und Kontakte bringen.
       - question: Ich komme nicht aus Niedersachsen. Darf ich trotzdem teilnehmen?
         answer: >-
-          Ja, die Teilnahme ist auch für Startups möglich, die nicht in Niedersachsen registriert sind. Jedoch sollte langfristig eine Gründung oder ein Sitz in Niedersachsen geplant sein.  
+          Ja, die Teilnahme ist auch für Startups möglich, die nicht in Niedersachsen registriert sind. Es soll jedoch langfristig eine Gründung oder Ansiedlung in Niedersachsen geplant werden.    
       - question: Wie lange dauern die Veranstaltungen? 
         answer: >-
           Die öffentlichen Veranstaltungen dauern ca. drei Stunden. Dies beinhaltet auch eine umfangreiche Q&A Session.  

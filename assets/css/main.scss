@@ -39,7 +39,6 @@ $palette: (
 @import "imports/palettes";
 @import "imports/banner";
 
-
 .cd-image-container {
   position: relative;
   max-width: 768px;
@@ -162,7 +161,8 @@ $palette: (
   border-radius: 50%;
   background: #6fb38a url("../img/cd-arrows.svg") no-repeat center center;
   cursor: move;
-  box-shadow: 0 0 0 6px rgba(0, 0, 0, 0.2), 0 0 10px rgba(0, 0, 0, 0.6), inset 0 1px 0 rgba(255, 255, 255, 0.3);
+  box-shadow: 0 0 0 6px rgba(0, 0, 0, 0.2), 0 0 10px rgba(0, 0, 0, 0.6),
+    inset 0 1px 0 rgba(255, 255, 255, 0.3);
   opacity: 0;
   -webkit-transform: translate3d(0, 0, 0) scale(0);
   -moz-transform: translate3d(0, 0, 0) scale(0);
@@ -187,72 +187,85 @@ $palette: (
 }
 // Custom Styling
 
+.iconWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
 .iconContainerLarge {
-	display: flex;
-	margin-left: 10%;
-	align-items: center;
-	margin-bottom: 5%;
+  display: flex;
+  margin-left: 10%;
+  align-items: center;
+  margin-bottom: 5%;
 }
 
 .iconContainerLarge img {
-	margin-right: 20px;
+  margin-right: 20px;
 }
 
 .iconContainer {
-	display: flex;
-	align-items: center;
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
 }
 
 .last {
-	margin-bottom: 1em;
+  margin-bottom: 1em;
 }
 
 .iconContainer img {
-	margin-right: 10px;
+  margin-right: 10px;
 }
 
 @media only screen and (max-width: 600px) {
-	.iconContainerLarge {
-		margin-left: 0%;
-	}
+  .iconContainerLarge {
+    margin-left: 0%;
+  }
 
-	.iconContainer {
-		margin-left: 20%;
-	}
+  .iconContainer {
+    margin-left: 20%;
+  }
 }
 
 .social-block {
-	margin-top: 3em;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	flex-direction: column;
-	margin-bottom: 3em;
-  
-	.header {
-		margin-bottom: 2em;
-	}
-  
-	.icon-wrapper {
-	  display: flex;
-	  align-items: center;
-	  justify-content: space-evenly;
-	  width: 100%;
-	}
-  
-	a {
-	  border-bottom: none;
-	  
-	  img {
-		  width: 60px;
-		  height: 60px;
-	  }
-  
-	  @media only screen and (max-width: 600px) {
-		  img {
-			  width: 35px;
-			  height: 35px;
-		  }
-	  }
-	}
+  margin-top: 3em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-bottom: 3em;
+
+  .header {
+    margin-bottom: 2em;
   }
+
+  .icon-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+  }
+
+  a {
+    border-bottom: none;
+
+    img {
+      width: 60px;
+      height: 60px;
+    }
+
+    @media only screen and (max-width: 600px) {
+      img {
+        width: 35px;
+        height: 35px;
+      }
+    }
+  }
+}
+
+.block_image {
+  height: auto;
+  max-width: 400px;
+}
