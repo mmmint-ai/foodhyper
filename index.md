@@ -11,9 +11,11 @@ sections:
     title: FoodHyper
     content: >-
       Wir haben uns zum Ziel gesetzt, die Akteure:innen der niedersächsischen Food-Gründerszene stärker miteinander zu vernetzen und technologische Innovationen in der Lebensmittelbranche zu fördern.
-    actions:
-      - label: Interesse?
-        url: /contact
+     
+      <br>
+      <br>
+
+      <button data-tf-popup="E7rHEUEK" data-tf-iframe-props="title=Kontakt" style="background: #FFFFFF;color: #4c5267 !important;height: auto !important;border-radius: 3px;border: 2px solid #b99700;box-sizing: border-box;color: #fff;display: inline-block;font-size: 16px;height: 2.5em;line-height: 1.5;padding: 0.5em 30px;-webkit-transition: opacity 0.15s ease-in-out;transition: opacity 0.15s ease-in-out;font-size: 16px;padding-bottom: 0.625em;padding-top: 0.625em;">Interesse?</button><script src="//embed.typeform.com/next/embed.js"></script>
   - section_id: FoodHyper
     component: features_block.html
     type: featuresblock
@@ -40,9 +42,11 @@ sections:
         image: images/SVG/undraw_subscriber.svg
         content: >-
           Melde dich jetzt bei unserem <b>Newsletter</b> an und bleibe immer auf dem neuesten Stand! Wir berichten als Unterstützer von Food-Startups regelmäßig über die <b>Food-Gründerszene</b>.
-        actions:
-          - label: Melde dich jetzt an!
-            url: /contact
+        
+          <br>
+          <br>
+
+          <button data-tf-popup="E7rHEUEK" data-tf-iframe-props="title=Kontakt" style="background: #b99700;border-radius: 3px;border: 2px solid #b99700;box-sizing: border-box;color: #fff;display: inline-block;font-size: 16px;height: 2.5em;line-height: 1.5;padding: 0.5em 30px;-webkit-transition: opacity 0.15s ease-in-out;transition: opacity 0.15s ease-in-out;font-size: 16px;padding: 0.25em 15px;">Kontakt</button><script src="//embed.typeform.com/next/embed.js"></script>
       - title: Wir bieten
         image: images/SVG/undraw_online_calendar.svg
         content: >-
@@ -50,18 +54,21 @@ sections:
          <div class="iconContainer"><img src="./images/check.png" alt="check" width="40" height="40"> Bootcamp</div>
          <div class="iconContainer"><img src="./images/check.png" alt="check" width="40" height="40"> Law </div>
          <div class="iconContainer last"><img src="./images/check.png" alt="check" width="40" height="40"> Netzwerk </div>
-        actions:
-          - label: Kontakt aufnehmen
-            url: /contact
+         
+         <br>
+
+         <button data-tf-popup="E7rHEUEK" data-tf-iframe-props="title=Kontakt" style="background: #b99700;border-radius: 3px;border: 2px solid #b99700;box-sizing: border-box;color: #fff;display: inline-block;font-size: 16px;height: 2.5em;line-height: 1.5;padding: 0.5em 30px;-webkit-transition: opacity 0.15s ease-in-out;transition: opacity 0.15s ease-in-out;font-size: 16px;padding: 0.25em 15px;">Kontakt</button><script src="//embed.typeform.com/next/embed.js"></script>
       - title: Wir suchen
         image: images/SVG/undraw_people_search.svg
         content: >-
          <div class="iconContainer"><img src="./images/questionmark.png" alt="check" width="40" height="40"> Startups</div>
          <div class="iconContainer"><img src="./images/questionmark.png" alt="check" width="40" height="40"> Akteure:innen</div>
          <div class="iconContainer last"><img src="./images/questionmark.png" alt="check" width="40" height="40"> Ideen </div>
-        actions:
-          - label: Kontakt aufnehmen
-            url: /contact
+        
+         <br>
+
+         <button data-tf-popup="E7rHEUEK" data-tf-iframe-props="title=Kontakt" style="background: #b99700;border-radius: 3px;border: 2px solid #b99700;box-sizing: border-box;color: #fff;display: inline-block;font-size: 16px;height: 2.5em;line-height: 1.5;padding: 0.5em 30px;-webkit-transition: opacity 0.15s ease-in-out;transition: opacity 0.15s ease-in-out;font-size: 16px;padding: 0.25em 15px;">Kontakt</button><script src="//embed.typeform.com/next/embed.js"></script>
+          
   - section_id: recent-posts
     component: posts_block.html
     type: postsblock
