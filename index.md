@@ -20,19 +20,23 @@ sections:
     bg: gray
     title: Was ist FoodHyper?
     subtitle: >-
-      Der FoodHyper ist ein Programm zur Förderung von Food-Startups in Niedersachsen für Gründerinnen, Gründer und Gründungsinteressierte der Ernährungsbranche. Es bietet mit seinen unterschiedlichen Formaten sowohl für erste Ideen als auch frühphasige Startups Unterstützung bei Produkt, Geschäftsidee und Netzwerk. Eingebettet in das bestehende Ökosystem verknüpft der FoodHyper bestehende Programme und Akteure:innen und bietet somit den optimalen Anlaufpunkt für Food-Startups. <br> 
+      Der FoodHyper ist ein <b>Programm zur Förderung von Food-Startups in Niedersachsen</b> für Gründerinnen, Gründer und Gründungsinteressierte der Ernährungsbranche. 
+      Es bietet mit seinen unterschiedlichen Formaten sowohl für erste Ideen als auch frühphasige Startups <b>Unterstützung bei Produkt, Geschäftsidee und Netzwerk.<b> 
+      Eingebettet in das bestehende Ökosystem verknüpft der FoodHyper bestehende Programme und Akteure:innen und bietet somit den optimalen Anlaufpunkt für Food-Startups. <br> 
       <br>
-      FoodHyper ist eine Initiative von startup.niedersachsen.
+      FoodHyper ist eine Initiative von <b>startup.niedersachsen.</b>
       Weitere Informationen unter: <a href="https://startup.nds.de/">www.startup.nds.de</a>
       <br>
       <br>
-      <img width="500px" src="./images/StartupNiedersachsen.png" alt="startup-logo">
+      <br>
+      <img width="300px" src="./images/StartupNiedersachsen.png" alt="startup-logo">
+       <br>
       
     featureslist:
       - title: Anmeldung Newsletter
         image: images/SVG/undraw_subscriber.svg
         content: >-
-          Melde dich jetzt bei unserem Newsletter an und bleibe immer auf dem neuesten Stand! Wir berichten als Unterstützer von Food-Startups regelmäßig über die Food-Gründerszene.
+          Melde dich jetzt bei unserem <b>Newsletter</b> an und bleibe immer auf dem neuesten Stand! Wir berichten als Unterstützer von Food-Startups regelmäßig über die <b>Food-Gründerszene</b>.
         actions:
           - label: Melde dich jetzt an!
             url: /contact
@@ -59,7 +63,7 @@ sections:
     component: posts_block.html
     type: postsblock
     bg: gray
-    title: Latest Posts
+    title: News
   
   - section_id: partner
     component: slider.html

@@ -3,6 +3,16 @@ title: FoodLaw
 subtitle: >-
 share-img: images/undraw_cloud_sync_2aph.svg.png
 sections:
+  - section_id: hero
+    component: hero_block.html
+    type: heroblock
+    image: images/logo.png
+    title: FoodLaw
+    content: >-
+      Der nächste Termin für die geschlossene Sprechstunde findet am <b>14./15. Dezember 2021 (online)</b> statt.<br>
+    actions:
+      - label: Interesse?
+        url: /documents/foodhyper.pdf
   - section_id: Law
     component: features_block.html
     type: featuresblock
@@ -39,7 +49,7 @@ sections:
         image: images/SVG/undraw_subscriber.svg
         content: >-
          Die Bewerbung zur Teilnahme an der geschlossenen Sprechstunde erfolgt mit einer konkreten Fragestellung über den <b><a href="/documents/foodhyper.pdf" download="FOODHYPER_Bewerbung_lebensmittelrechtliche Sprechstunde_2021">Anmeldebogen</a></b>.<br><br>
-         Der nächste Termin für die geschlossene Sprechstunde ist am <b>14./15. Dezember 2021</b> beim Seedhouse in Osnabrück, Marie-Curie-Str. 3, 49076 Osnabrück.<br>
+         Die Plätze werden nach Eingang der Anmeldungen vergeben. Der nächste Termin für die geschlossene Sprechstunde findet am <b>14./15. Dezember 2021 (online)</b> statt.<br>
          <br>Nach der Anmeldung nehmen wir mit euch Kontakt auf zur Absprache der Beratungszeit.
          <br>Die Teilnahme an den Veranstaltungen ist kostenlos.
   - section_id: ansprechpartner

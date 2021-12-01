@@ -1,5 +1,5 @@
 ---
-title: Food Law – Sprechstunde am 14. & 15. Dezember 2021 im Seedhouse Osnabrück 
+title: Food Law – Sprechstunde am 14. & 15. Dezember 2021 (online)
 subtitle: >-
   
 excerpt: >-
@@ -18,5 +18,5 @@ Wir bieten euch die Möglichkeit diese oder ähnliche rechtliche Fragen mit dem 
 
 Informationen zur Bewerbung auf diese einmalige Gelegenheit findet ihr unter [http://www.foodhyper.de/law/](http://www.foodhyper.de/law/)
 
-Wir vom FoodHyper Team sind ebenfalls vor Ort und freuen uns auf den Austausch mit euch. 
+Wir vom FoodHyper Team sind ebenfalls dabei und freuen uns auf den Austausch mit euch. 
 

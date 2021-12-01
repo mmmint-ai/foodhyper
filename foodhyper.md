@@ -10,7 +10,7 @@ sections:
     bg: gray
     title: Der FoodHyper
     subtitle: >-
-      FoodHyper ist ein Programm für Gründungswillige und Startups aus Deutschland und den Nachbarländern, die sich mit Ideen und Geschäftsmodellen aus der Ernährungswirtschaft befassen.  
+      FoodHyper ist ein <b>Programm für Gründungswillige und Startups aus Deutschland und den Nachbarländern</b>, die sich mit Ideen und Geschäftsmodellen <b>aus der Ernährungswirtschaft</b> befassen.  
       Neben dem Zugang zu Netzwerken bietet FoodHyper:
    
       <div class="iconWrapper">
@@ -20,46 +20,46 @@ sections:
       <div class="iconContainer"><img src="/images/check.png" alt="check" width="40" height="40">   Vernetzung mit Food Paten </br></div>
       </div>
       
-      <br>FoodHyper ist eine Initiative von <a href="https://startup.nds.de/">startup.niedersachsen.</a>
-      <br>FoodHyper steht Teilnehmern offen, die aus Niedersachsen stammen oder die sich für ein Engagement in Niedersachen interessieren.
-      <br>FoodHyper wird durchgeführt von dem <a href="https://www.seedhouse.de/">Seedhouse</a>, der <a href="https://innovate-os.de/"> Innovate</a> und der <a href="https://www.dil-ev.de/">DIL Innovation Hub</a>. 
+      <br>FoodHyper ist eine Initiative von <b><a href="https://startup.nds.de/">startup.niedersachsen.</a></b>
+      <br>FoodHyper steht <b>Teilnehmern</b> offen, die aus <b>Niedersachsen </b>stammen oder die sich für ein Engagement in Niedersachen interessieren.
+      <br>FoodHyper wird durchgeführt von dem <b><a href="https://www.seedhouse.de/">Seedhouse</a></b>, der <b><a href="https://innovate-os.de/"> Innovate</a></b> und der <b><a href="https://www.dil-ev.de/">DIL Innovation Hub</a>.</b> 
     featureslist:
       - title: Seedhouse
         image: images/Seedhouse_Logo.png
         content: >-
-         In einem Zusammenschluss aus 32 namenhaften Unternehmen und gefördert durch das Land Niedersachsen bietet das Seedhouse eine Plattform für Innovationen aus den Bereichen Agrar, Food und Digitalisierung. Der Accelerator ist offen für Startups aus allen Phasen und hilft mit maßgeschneiderten Lösungen in allen Bereichen der Entwicklung. In unserem Gründungs-Ökosystem sind Wirtschaft, Wissenschaft, Investoren, Organisationen und Politik und zahlreiche weitere Stakeholder für die Unterstützung von Startups vertreten. Wir öffnen dir diese Türen
+         In einem Zusammenschluss aus 32 namenhaften Unternehmen und gefördert durch das Land Niedersachsen <b>bietet das Seedhouse</b> eine <b>Plattform für Innovationen aus den Bereichen Agrar, Food und Digitalisierung.</b> Der Accelerator ist offen für Startups aus allen Phasen und hilft mit maßgeschneiderten Lösungen in allen Bereichen der Entwicklung. In unserem Gründungs-Ökosystem sind Wirtschaft, Wissenschaft, Investoren, Organisationen und Politik und zahlreiche weitere Stakeholder für die Unterstützung von Startups vertreten. Wir öffnen dir diese Türen
       - title: Innovate
         image: images/logo-innovate.png
         content: >-
-          Als Spezialist für innovative Startup-Events mit der eigenen innovate!convention hat sich die 2019 in Osnabrück gegründete Innovate GmbH inzwischen als Full-Service Dienstleister für alle Akteure:innen des Startup-Ökosystems etabliert. Ziel jeder Veranstaltung ist es zukunftsfähige Ideen voranzubringen und die Menschen dahinter zusammen zu bringen. Das Team organisiert dabei vielfältige Events von Hackathons bis hin zu Konferenzen, die Raum für Kreativität und Austausch bieten und durch eine inspirierende Atmosphäre in Erinnerung bleiben
+          Als <b>Spezialist für innovative Startup-Events</b> mit der eigenen innovate!convention hat sich die 2019 in Osnabrück gegründete Innovate GmbH inzwischen als <b>Full-Service Dienstleister für alle Akteure:innen des Startup-Ökosystems</b> etabliert. Ziel jeder Veranstaltung ist es zukunftsfähige Ideen voranzubringen und die Menschen dahinter zusammen zu bringen. Das Team organisiert dabei vielfältige Events von Hackathons bis hin zu Konferenzen, die Raum für Kreativität und Austausch bieten und durch eine inspirierende Atmosphäre in Erinnerung bleiben
       - title: Deutsches Institut für Lebensmitteltechnik
         image: images/DIL-Logo.png
         content: >-
-          Das <a href="https://www.dil-ev.de/">DIL</a> entwickelt nachhaltige und effiziente Lösungen für Prozesstechnologien und neue Produktentwicklungen für den Lebensmittelbereich. Problemstellungen können aus den verschiedenen Perspektiven der Lebensmitteltechnologie unter den Kriterien der Innovation, Digitalisierung und Nachhaltigkeit bearbeitet werden. 
+          Das <a href="https://www.dil-ev.de/">DIL</a> <b>entwickelt nachhaltige und effiziente Lösungen für Prozesstechnologien und neue Produktentwicklungen für den Lebensmittelbereich</b>. Problemstellungen können aus den verschiedenen Perspektiven der Lebensmitteltechnologie unter den Kriterien der Innovation, Digitalisierung und Nachhaltigkeit bearbeitet werden. 
           Als Bindeglied zwischen Wissenschaft und Praxis unterstützt das DIL Kunden und Partner kontinuierlich im Innovationsprozess und sorgt für einen Technologietransfer in die Lebensmittelindustrie. 
-          Dem DIL angegliedert ist der <a href="https://www.dil-innovationhub.de/">DIL Innovation Hub (DIH)</a> als Plattform um Innovationen im Bereich der Lebensmittelwirtschaft zu fördern und Akteure:innen aus diesem Bereich zu vernetzen.​ 
-  - section_id: foodpaten
-    component: features_block.html
-    type: featuresblock
-    bg: gray
-    title: Foodpaten
-    subtitle: >-
-      Unsere Food Paten sind Ansprechpartner und Vermittler für Food Startups und Gründungsinteressierte zu anderen regionalen, überregionalen und landesweiten Akteuren der Startup-Szene. 
-    featureslist:
-      - title: Foodpate 1
-        image: images/avatar.png
-        content: >-
-          Foodpate 1
-        actions:
-          - label: Weitere Informationen
-            url: 
-      - title: Foodpate 2
-        image: images/avatar.png
-        content: >-
-          Foodpate 2
-        actions:
-          - label: Weitere Informationen
-            url: 
+          Dem DIL angegliedert ist der <b><a href="https://www.dil-innovationhub.de/">DIL Innovation Hub (DIH)</a></b> als Plattform um <b>Innovationen im Bereich der Lebensmittelwirtschaft zu fördern</b> und <b>Akteure:innen</b> aus diesem Bereich <b>zu vernetzen</b>.​ 
+  # - section_id: foodpaten
+  #   component: features_block.html
+  #   type: featuresblock
+  #   bg: gray
+  #   title: Foodpaten
+  #   subtitle: >-
+  #     Unsere Food Paten sind Ansprechpartner und Vermittler für Food Startups und Gründungsinteressierte zu anderen regionalen, überregionalen und landesweiten Akteuren der Startup-Szene. 
+  #   featureslist:
+  #     - title: Foodpate 1
+  #       image: images/avatar.png
+  #       content: >-
+  #         Foodpate 1
+  #       actions:
+  #         - label: Weitere Informationen
+  #           url: 
+  #     - title: Foodpate 2
+  #       image: images/avatar.png
+  #       content: >-
+  #         Foodpate 2
+  #       actions:
+  #         - label: Weitere Informationen
+  #           url: 
   - section_id: ansprechpartner
     component: features_block.html
     type: featuresblock

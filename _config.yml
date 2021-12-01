@@ -26,7 +26,7 @@ header:
 footer:
   logo_img: images/logo.png
   tagline: 
-  content: "&copy; MMM Intelligence UG (haftungsbeschränkt). All rights reserved."
+  content: "&copy; Seedhouse Accelerator GmbH. All rights reserved."
   links:
     - text: Impressum
       url: "/impressum"
@@ -35,7 +35,7 @@ footer:
       url: "/datenschutz"
       new_window: false
 
-  social_title: Social
+  social_title: 
 
   nav_title: Navigation
   nav:
@@ -47,7 +47,7 @@ footer:
 
   has_subscribe: true
   subscribe_title: "Interesse?"
-  subscribe_content: "Hier Kontakt aufnehmen"
+  subscribe_content: "Dann schreibe uns gerne!"
 
 defaults:
   -
