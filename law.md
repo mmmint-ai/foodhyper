@@ -45,12 +45,12 @@ sections:
          <br><b>Geschlossene Sprechstunde:</b> 1:1 Gespräche mit <a href="https://www.kwg.eu/anwaelte/dr-markus-grube/">Herrn Prof. Dr. Markus Grube </a>.<br>
          <br>Die Termine finden an wechselnden Orten in Niedersachsen statt. Die Beratung dauert ca. 50 Minuten.
          <br>Am Veranstaltungstag sind wir vom FoodHyper Team vor Ort und stehen für Fragen rund um den FoodHyper und Angeboten für Startups zur Verfügung. 
-      - title: Anmeldung / Teilnahmebedingungen
+      - title: Anmeldung
         image: images/SVG/undraw_subscriber.svg
         content: >-
          Die Bewerbung zur Teilnahme an der geschlossenen Sprechstunde erfolgt mit einer konkreten Fragestellung über den <b><a href="/documents/foodhyper.pdf" download="FOODHYPER_Bewerbung_lebensmittelrechtliche Sprechstunde_2021">Anmeldebogen</a></b>.<br><br>
-         Die Plätze werden nach Eingang der Anmeldungen vergeben. Der nächste Termin für die geschlossene Sprechstunde findet am <b>14./15. Dezember 2021 (online)</b> statt.<br>
-         <br>Nach der Anmeldung nehmen wir mit euch Kontakt auf zur Absprache der Beratungszeit.
+         Die Plätze werden nach Eingang der Bewerbung vergeben. Der nächste Termin für die geschlossene Sprechstunde findet am <b>14./15. Dezember 2021 (online)</b> statt.<br>
+         <br>Nach der Bewerbung nehmen wir mit euch Kontakt auf zur Absprache der Beratungszeit.
          <br>Die Teilnahme an den Veranstaltungen ist kostenlos.
   - section_id: ansprechpartner
     component: features_block.html
@@ -81,21 +81,14 @@ sections:
           Ja, die Frage wird zur Vorbereitung an Herrn Prof. Grube weitergegeben. Er unterliegt der anwaltlichen Schweigepflicht. Die Inhalte der Beratung werden nicht weitergegeben.
       - question: Was kostet die Teilnahme?
         answer: >-
-         Die Teilnahme an den öffentlichen Veranstaltungen und der geschlossenen Sprechstunde ist kostenlos. Du musst nur zu dem entsprechenden Veranstaltungsort kommen.  
+         Die Teilnahme an den öffentlichen Veranstaltungen und der geschlossenen Sprechstunde ist kostenlos.
          Das Programm wird organisiert von der DIL Technologie GmbH im Auftrag von Startup Niedersachsen.
-      - question: Ich schaffe es nicht zu dem Veranstaltungsort, kann ich auch online teilnehmen?
-        answer: >-
-          Die öffentlichen Veranstaltungen sollen nach Möglichkeit in Präsenz stattfinden, sodass auch ein Austausch mit anderen Gründern und Akteuren der Startup-Szene stattfinden kann.   
-          Die 1:1 Beratung können wir in Ausnahmefällen auch im online Format anbieten. Wir würden uns natürlich freuen möglichst viele Teams vor Ort zu begrüßen. Auch hier kann ein persönlicher Austausch mit dem FoodHyper-Team sowie mit anderen Startups stattfinden und euch neue Erkenntnisse und Kontakte bringen.
-      - question: Ich komme nicht aus Niedersachsen. Darf ich trotzdem teilnehmen?
-        answer: >-
-          Ja, die Teilnahme ist auch für Startups möglich, die nicht in Niedersachsen registriert sind. Es soll jedoch langfristig eine Gründung oder Ansiedlung in Niedersachsen geplant werden.    
       - question: Wie lange dauern die Veranstaltungen? 
         answer: >-
           Die öffentlichen Veranstaltungen dauern ca. drei Stunden. Dies beinhaltet auch eine umfangreiche Q&A Session.  
           Für die 1:1 Beratungen stehen 50 Minuten zur Verfügung. Bei den Terminen ist das FoodHyper Team vor Ort und steht gerne für Fragen zu unseren Aktivitäten und Startup-Förderung in Niedersachsen zur Verfügung.    
       - question: Dürfen wir auch mit mehreren Personen teilnehmen?   
         answer: >-
-          Ihr könnt gerne auch als Team an den Veranstaltungen teilnehmen. Gebt uns für eine bessere Planung nur im Vorfeld Bescheid mit wie vielen Personen ihr vor Ort seid.    
+          Ihr könnt gerne auch als Team an den Veranstaltungen teilnehmen. Gebt uns für eine bessere Planung nur im Vorfeld Bescheid mit wie vielen Personen ihr vor Ort seid. Bei Onlineveranstaltungen ist dies auch ohne Absprache möglich.    
 layout: features
 ---
