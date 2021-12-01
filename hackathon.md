@@ -34,7 +34,7 @@ sections:
          <br><br>Zum einen wird es <b>konkrete Challenges</b> geben, die als tatsächliche Herausforderung in der Arbeit des Unternehmens oder der Institutionen aufgekommen sind. Praktische Lösungen werden mit einem Businessplan versehen. Ziel dieser Challenges ist es Teams zu schmieden, die auf dem Weg zu einer konkreten Lösung begleitet werden.
          <br><br>Zum anderen wird es <b>technologische und strukturelle Herausforderungen</b> geben, denen sich aktuell viele Unternehmen der Lebensmittelwirtschaft stellen müssen. Ziel dieser Challenges ist es innovative Lösungen in Form von technischen Lösungen oder neue Geschäftsmodelle durch die Teams zu erarbeiten. Diese Challenges richten sich aufgrund ihres Umfangs <b>vornehmlich an erfahrenere Teilnehmer:innen oder bestehende Startups.</b>
       - title: Zielgruppe
-        image: images/hackathon_zielgruppe.jpeg
+        image: images/hackathon_zielgruppe.jpg
         content: >-
           <b>Bestehende Teams oder Startups</b>, die zum Teil auch schon  <b>eigene Ideen oder Ansätze</b> mitbringen, wollen die Infrastruktur des Hackathons nutzen, um die eigenen Ideen  <b>weiterzuentwickeln und als Team enger zusammenzuwachsen.</b> 
           Einzelne Teilnehmer:innen interessieren sich häufig vor allem für die  <b>Lösung von Challenges</b> und das  <b>Arbeiten an konkreten Herausforderungen.</b> Beide Zielgruppen haben unterschiedliche Bedürfnisse und profitieren auf unterschiedliche Weise von dem angebotenen Programm und der Unterstützung.​

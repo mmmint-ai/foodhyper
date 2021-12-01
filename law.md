@@ -52,6 +52,12 @@ sections:
          Die Plätze werden nach Eingang der Bewerbung vergeben. Der nächste Termin für die geschlossene Sprechstunde findet am <b>14./15. Dezember 2021 (online)</b> statt.<br>
          <br>Nach der Bewerbung nehmen wir mit euch Kontakt auf zur Absprache der Beratungszeit.
          <br>Die Teilnahme an den Veranstaltungen ist kostenlos.
+         <br>
+         <br>
+
+         <button data-tf-popup="Ot6oP0VY" data-tf-iframe-props="title=Bewerbung zur lebensmittelrechtlichen Sprechstunde" style="all:unset;font-family:Helvetica,Arial,sans-serif;display:inline-block;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;background-color:#b99700;color:#FFFFFF;font-size:20px;border-radius:25px;padding:0 33px;font-weight:bold;height:50px;cursor:pointer;line-height:50px;text-align:center;margin:0;text-decoration:none;">Jetzt bewerben!</button>
+         <script src="//embed.typeform.com/next/embed.js"></script>
+        
   - section_id: ansprechpartner
     component: features_block.html
     type: featuresblock
