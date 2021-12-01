@@ -28,16 +28,16 @@ sections:
           Indem Startups und ambitionierte Teams innerhalb kürzester Zeit <b>Zugang zur hochtechnologischen Infrastruktur</b> und zum <b>Know-How</b> des Deutschen Instituts für Lebensmitteltechnik erhalten und von den Startup-Erfahrungen und dem Netzwerk des Seedhouse und der darum versammelten 32 Unternehmen aus der gesamten Lebernsmittelwertschöpfungskette profitieren.
           <br>Das erste Bootcamp wird vom <b>21. - 25. Februar 2022 beim Seedhouse in Osnabrück und DIL in Quakenbrück</b> stattfinden.
       - title: Ziele
-        image: images/SVG/undraw_target.svg
+        image: images/bootcamp_ziele.jpg
         content: >-
           Die Teilnehmer:innen der Bootcamps erhalten maßgeschneiderte und individualisierte Angebote, die es ermöglichen, <b>bestehende technologische Ansätze weiterzuentwickeln und zu validieren.</b> 
           Gleichzeitig werden die Grundlagen zur <b>Entwicklung eines Geschäftsmodells und zur Kommerzialisierung der Idee</b> vermittelt. Alle Teilnehmer:innen werden im Nachgang des Bootcamps durch das Seedhouse und durch das DIL betreut. Angestrebt wird hierbei die <b>konstante Vernetzung der Teilnehmer:innen</b> mit dem Ziel der Gründung oder Ansiedlung in <b>Niedersachsen</b>.
       - title: Teilnehmer:innen
-        image: images/SVG/undraw_work_chat.svg
+        image: images/bootcamp_teilnehmer.jpg
         content: >-
          Der Teilnehmerkreis besteht aus <b>Teilnehmern des vorausgegangenen Hackathons</b> sowie <b>Startups in der Seed-Phase</b>, die Ideen/Prototypen für technologische / prozessuale Innovationen im Lebensmittelsektor mitbringen. Teams, die noch nicht richtig gestartet sind und Teams, die bereits erfolgreich am Markt etabliert sind, sollen nur in Ausnahmefällen berücksichtigt werden. Die Teams sollen aus <b>Niedersachsen</b> kommen oder möchten sich langfristig in Niedersachsen ansiedeln. ​
       - title: Ablauf
-        image: images/SVG/undraw_timeline.svg
+        image: images/bootcamp_ablauf.jpg
         content: >-
          Die Bootcamps werden agil an den Standorten <b>Osnabrück und Quakenbrück</b> durchgeführt.
          Das Foodtech Bootcamp gliedert sich in <b>drei Themenblöcke</b>:
@@ -66,21 +66,5 @@ sections:
         content: >-
           Johann Rottmann <br><br> E-Mail: johann@seedhouse.de <br><br> Tel.: Tel.: 0160 95453630
 
-  - section_id: faq
-    component: faq_block.html
-    type: faqblock
-    bg: gray
-    title: Häufig gestelle Fragen
-    subtitle: FAQ
-    faqitems:
-      - question: Frage 1
-        answer: >-
-          Antwort 1
-      - question: Frage 2
-        answer: >-
-         Antwort 2.
-      - question: Frage 3
-        answer: >-
-          Antwort 3
 layout: features
 ---

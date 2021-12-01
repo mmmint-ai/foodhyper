@@ -29,8 +29,11 @@ sections:
       <br>
       <br>
       <br>
+      <br>
+      <br>
       <img width="300px" src="./images/StartupNiedersachsen.png" alt="startup-logo">
-       <br>
+      <br>
+      <br>
       
     featureslist:
       - title: Anmeldung Newsletter

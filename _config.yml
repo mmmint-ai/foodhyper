@@ -24,7 +24,7 @@ header:
       - label: Interesse?
         url: /contact
 footer:
-  logo_img: images/logo.png
+  logo_img: images/foodhyper_white.png
   tagline: 
   content: "&copy; Seedhouse Accelerator GmbH. All rights reserved."
   links:

@@ -45,10 +45,10 @@ sections:
          <br><b>Geschlossene Sprechstunde:</b> 1:1 Gespräche mit <a href="https://www.kwg.eu/anwaelte/dr-markus-grube/">Herrn Prof. Dr. Markus Grube </a>.<br>
          <br>Die Termine finden an wechselnden Orten in Niedersachsen statt. Die Beratung dauert ca. 50 Minuten.
          <br>Am Veranstaltungstag sind wir vom FoodHyper Team vor Ort und stehen für Fragen rund um den FoodHyper und Angeboten für Startups zur Verfügung. 
-      - title: Anmeldung
+      - title: Bewerbung
         image: images/SVG/undraw_subscriber.svg
         content: >-
-         Die Bewerbung zur Teilnahme an der geschlossenen Sprechstunde erfolgt mit einer konkreten Fragestellung über den <b><a href="/documents/foodhyper.pdf" download="FOODHYPER_Bewerbung_lebensmittelrechtliche Sprechstunde_2021">Anmeldebogen</a></b>.<br><br>
+         Die Bewerbung zur Teilnahme an der geschlossenen Sprechstunde erfolgt mit einer konkreten Fragestellung über den <b><a href="/documents/foodhyper.pdf" download="FOODHYPER_Bewerbung_lebensmittelrechtliche Sprechstunde_2021">Bewerbungsbogen</a></b>.<br><br>
          Die Plätze werden nach Eingang der Bewerbung vergeben. Der nächste Termin für die geschlossene Sprechstunde findet am <b>14./15. Dezember 2021 (online)</b> statt.<br>
          <br>Nach der Bewerbung nehmen wir mit euch Kontakt auf zur Absprache der Beratungszeit.
          <br>Die Teilnahme an den Veranstaltungen ist kostenlos.
