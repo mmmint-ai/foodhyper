@@ -61,7 +61,7 @@ sections:
 
     featureslist:
       - title: 
-        image: images/avatar.png
+        image: images/Karin_Hollah.png
         content: >-
           Karin Hollah <br><br> E-Mail: E-Mail: K.Hollah@dil-ev.de <br><br> Tel.: 05431 183 193
       - title: 
