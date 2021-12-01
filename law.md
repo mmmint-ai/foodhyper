@@ -9,10 +9,11 @@ sections:
     image: images/logo.png
     title: FoodLaw
     content: >-
-      Der nächste Termin für die geschlossene Sprechstunde findet am <b>14./15. Dezember 2021 (online)</b> statt.<br>
-    actions:
-      - label: Interesse?
-        url: /documents/foodhyper.pdf
+      Der nächste Termin für die geschlossene Sprechstunde findet am <b>14./15. Dezember 2021 (online)</b> statt.
+      <br>
+      <br>
+
+      <button data-tf-popup="Ot6oP0VY" data-tf-iframe-props="title=Bewerbung zur lebensmittelrechtlichen Sprechstunde" style="background: #FFFFFF;color: #4c5267 !important;height: auto !important;border-radius: 3px;border: 2px solid #b99700;box-sizing: border-box;color: #fff;display: inline-block;font-size: 16px;height: 2.5em;line-height: 1.5;padding: 0.5em 30px;-webkit-transition: opacity 0.15s ease-in-out;transition: opacity 0.15s ease-in-out;font-size: 16px;padding-bottom: 0.625em;padding-top: 0.625em;">Interesse?</button><script src="//embed.typeform.com/next/embed.js"></script>
   - section_id: Law
     component: features_block.html
     type: featuresblock
@@ -55,8 +56,7 @@ sections:
          <br>
          <br>
 
-         <button data-tf-popup="Ot6oP0VY" data-tf-iframe-props="title=Bewerbung zur lebensmittelrechtlichen Sprechstunde" style="all:unset;font-family:Helvetica,Arial,sans-serif;display:inline-block;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;background-color:#b99700;color:#FFFFFF;font-size:20px;border-radius:25px;padding:0 33px;font-weight:bold;height:50px;cursor:pointer;line-height:50px;text-align:center;margin:0;text-decoration:none;">Jetzt bewerben!</button>
-         <script src="//embed.typeform.com/next/embed.js"></script>
+         <button data-tf-popup="Ot6oP0VY" data-tf-iframe-props="title=Bewerbung zur lebensmittelrechtlichen Sprechstunde" style="background: #b99700;border-radius: 3px;border: 2px solid #b99700;box-sizing: border-box;color: #fff;display: inline-block;font-size: 16px;height: 2.5em;line-height: 1.5;padding: 0.5em 30px;-webkit-transition: opacity 0.15s ease-in-out;transition: opacity 0.15s ease-in-out;font-size: 16px;padding: 0.25em 15px;">Jetzt bewerben!</button><script src="//embed.typeform.com/next/embed.js"></script>
         
   - section_id: ansprechpartner
     component: features_block.html

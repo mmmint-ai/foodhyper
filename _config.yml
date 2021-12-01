@@ -19,10 +19,7 @@ header:
     FoodLaw: "law"
     News: "blog"
   palette: blue
-  menu:
-    actions:
-      - label: Interesse?
-        url: /contact
+  
 footer:
   logo_img: images/foodhyper_white.png
   tagline: 
