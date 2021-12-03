@@ -23,12 +23,11 @@ sections:
     title: Was ist FoodHyper?
     subtitle: >-
       Der FoodHyper ist ein <b>Programm zur Förderung von Food-Startups in Niedersachsen</b> für Gründerinnen, Gründer und Gründungsinteressierte der Ernährungsbranche. 
-      Es bietet mit seinen unterschiedlichen Formaten sowohl für erste Ideen als auch frühphasige Startups <b>Unterstützung bei Produkt, Geschäftsidee und Netzwerk.<b> 
+      Es bietet mit seinen unterschiedlichen Formaten sowohl für erste Ideen als auch frühphasige Startups <b>Unterstützung bei Produkt, Geschäftsidee und Netzwerk.</b> 
       Eingebettet in das bestehende Ökosystem verknüpft der FoodHyper bestehende Programme und Akteure:innen und bietet somit den optimalen Anlaufpunkt für Food-Startups. <br> 
       <br>
       FoodHyper ist eine Initiative von <b>startup.niedersachsen.</b>
       Weitere Informationen unter: <a href="https://startup.nds.de/">www.startup.nds.de</a>
-      <br>
       <br>
       <br>
       <br>
@@ -46,7 +45,7 @@ sections:
           <br>
           <br>
 
-          <button data-tf-popup="E7rHEUEK" data-tf-iframe-props="title=Kontakt" style="background: #b99700;border-radius: 3px;border: 2px solid #b99700;box-sizing: border-box;color: #fff;display: inline-block;font-size: 16px;height: 2.5em;line-height: 1.5;padding: 0.5em 30px;-webkit-transition: opacity 0.15s ease-in-out;transition: opacity 0.15s ease-in-out;font-size: 16px;padding: 0.25em 15px;">Kontakt</button><script src="//embed.typeform.com/next/embed.js"></script>
+          <button data-tf-popup="V9NX3TAi" data-tf-iframe-props="title=Newsletter Anmeldung" style="background: #b99700;border-radius: 3px;border: 2px solid #b99700;box-sizing: border-box;color: #fff;display: inline-block;font-size: 16px;height: 2.5em;line-height: 1.5;padding: 0.5em 30px;-webkit-transition: opacity 0.15s ease-in-out;transition: opacity 0.15s ease-in-out;font-size: 16px;padding: 0.25em 15px;">Anmelden</button><script src="//embed.typeform.com/next/embed.js"></script>
       - title: Wir bieten
         image: images/SVG/undraw_online_calendar.svg
         content: >-
@@ -55,9 +54,6 @@ sections:
          <div class="iconContainer"><img src="./images/check.png" alt="check" width="40" height="40"> Law </div>
          <div class="iconContainer last"><img src="./images/check.png" alt="check" width="40" height="40"> Netzwerk </div>
          
-         <br>
-
-         <button data-tf-popup="E7rHEUEK" data-tf-iframe-props="title=Kontakt" style="background: #b99700;border-radius: 3px;border: 2px solid #b99700;box-sizing: border-box;color: #fff;display: inline-block;font-size: 16px;height: 2.5em;line-height: 1.5;padding: 0.5em 30px;-webkit-transition: opacity 0.15s ease-in-out;transition: opacity 0.15s ease-in-out;font-size: 16px;padding: 0.25em 15px;">Kontakt</button><script src="//embed.typeform.com/next/embed.js"></script>
       - title: Wir suchen
         image: images/SVG/undraw_people_search.svg
         content: >-
@@ -65,10 +61,6 @@ sections:
          <div class="iconContainer"><img src="./images/questionmark.png" alt="check" width="40" height="40"> Akteure:innen</div>
          <div class="iconContainer last"><img src="./images/questionmark.png" alt="check" width="40" height="40"> Ideen </div>
         
-         <br>
-
-         <button data-tf-popup="E7rHEUEK" data-tf-iframe-props="title=Kontakt" style="background: #b99700;border-radius: 3px;border: 2px solid #b99700;box-sizing: border-box;color: #fff;display: inline-block;font-size: 16px;height: 2.5em;line-height: 1.5;padding: 0.5em 30px;-webkit-transition: opacity 0.15s ease-in-out;transition: opacity 0.15s ease-in-out;font-size: 16px;padding: 0.25em 15px;">Kontakt</button><script src="//embed.typeform.com/next/embed.js"></script>
-          
   - section_id: recent-posts
     component: posts_block.html
     type: postsblock
