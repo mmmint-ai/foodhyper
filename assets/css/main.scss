@@ -269,3 +269,12 @@ $palette: (
   height: auto;
   max-width: 500px;
 }
+
+@media only screen and (max-width: 600px) {
+	.block_image {
+		height: auto;
+		max-width: 250px;
+	}
+  
+  }
+
