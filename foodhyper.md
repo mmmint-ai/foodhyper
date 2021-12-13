@@ -4,6 +4,18 @@ subtitle: >-
   Der FoodHyper ist ein Programm zur Förderung von Food-Startups in Niedersachsen für Gründerinnen, Gründer und Gründungsinteressierte der Ernährungsbranche. Es bietet mit seinen unterschiedlichen Formaten sowohl für erste Ideen als auch frühphasige Startups Unterstützung bei Produkt, Geschäftsidee und Netzwerk. Eingebettet in das bestehende Ökosystem verknüpft der FoodHyper bestehende Programme und Akteure:innen und bietet somit den optimalen Anlaufpunkt für Food-Startups.
 share-img: images/undraw_cloud_sync_2aph.svg.png
 sections:
+  - section_id: hero
+    component: hero_block.html
+    type: heroblock
+    image: images/logo.png
+    title: FoodHyper
+    content: >-
+      Wir haben uns zum Ziel gesetzt, die Akteure:innen der niedersächsischen Food-Gründerszene stärker miteinander zu vernetzen und technologische Innovationen in der Lebensmittelbranche zu fördern.
+     
+      <br>
+      <br>
+
+      <button data-tf-popup="E7rHEUEK" data-tf-iframe-props="title=Kontakt" style="background: #FFFFFF;color: #4c5267 !important;height: auto !important;border-radius: 3px;border: 2px solid #b99700;box-sizing: border-box;color: #fff;display: inline-block;font-size: 16px;height: 2.5em;line-height: 1.5;padding: 0.5em 30px;-webkit-transition: opacity 0.15s ease-in-out;transition: opacity 0.15s ease-in-out;font-size: 16px;padding-bottom: 0.625em;padding-top: 0.625em;">Interesse?</button><script src="//embed.typeform.com/next/embed.js"></script>
   - section_id: mrfiktiv
     component: features_block.html
     type: featuresblock
