@@ -9,7 +9,7 @@ sections:
     image: images/logo.png
     title: Bootcamp
     content: >-
-      Das erste Bootcamp wird vom <b>21. - 25. Februar 2022 beim Seedhouse in Osnabrück und DIL in Quakenbrück</b> stattfinden.
+      Das erste Bootcamp wird vom <b>25. - 29. April 2022 beim Seedhouse in Osnabrück und DIL in Quakenbrück</b> stattfinden.
     actions:
       - label: Interesse?
         url: /contact

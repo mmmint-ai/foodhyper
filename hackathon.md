@@ -9,7 +9,7 @@ sections:
     image: images/logo.png
     title: Hackathon
     content: >-
-      Der erste Hackathon wird <b>am 13. – 14. Januar 2022 in Osnabrück</b> stattfinden.
+      Der erste Hackathon wird <b>am 10. – 11. März 2022 in Osnabrück</b> stattfinden.
     actions:
       - label: Interesse?
         url: https://www.eventbrite.de/e/219843336337"
