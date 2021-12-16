@@ -17,6 +17,4 @@ sections:
         url: /index
 ---
 
-# Allgemeine Geschäftsbedingungen
-
 
