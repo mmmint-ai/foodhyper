@@ -1,7 +1,7 @@
 ---
-title:
+title: FoodHyper - Das Programm zur Förderung von Food-Startups in Niedersachsen.
 subtitle: >-
-  Wir vermitteln Ihnen bundesweit Gutachter und Sachverständige. Online und zum Bestpreis!
+  Wir haben uns zum Ziel gesetzt, die Akteure:innen der niedersächsischen Food-Gründerszene stärker miteinander zu vernetzen und technologische Innovationen in der Lebensmittelbranche zu fördern.
 share-image: images/logo.png
 sections:
   - section_id: hero
