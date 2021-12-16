@@ -3,7 +3,7 @@ subtitle: Wir vermitteln Ihnen bundesweit Gutachter und Sachverständige. Online
 baseurl: /
 permalink: "/:year/:month/:day/:title/"
 # Google Analytics
-google_analytics: G-W1PBP2W25B
+google_analytics: G-4MM29SQSZG
 collections:
   posts:
     permalink: "/blog/:year/:month/:day/:title/"
