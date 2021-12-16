@@ -13,7 +13,7 @@ sections:
     actions:
       - label: Interesse?
         url: https://www.eventbrite.de/e/219843336337"
-  - section_id: mrfiktiv
+  - section_id: feature
     component: features_block.html
     type: featuresblock
     bg: gray

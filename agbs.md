@@ -9,7 +9,7 @@ sections:
   - section_id: hero
     component: hero_block.html
     type: heroblock
-    image: images/undraw_void_3ggu.svg
+    image: images/SVG/undraw_void_3ggu.svg
     title: Diese Seite ist in Bearbeitung. Bei Fragen wenden Sie sich an hallo@seedhouse.de
     bg: grey
     actions:
