@@ -9,7 +9,7 @@ sections:
     image: images/logo.png
     title: FoodLaw
     content: >-
-      Der nächste Termin für die geschlossene Sprechstunde findet am <b>14./15. Dezember 2021 (online)</b> statt.
+      Der nächste Termin für die geschlossene Sprechstunde findet am <b>2./3. Februar 2022 (online)</b> statt.
       <br>
       <br>
 
@@ -44,13 +44,13 @@ sections:
          <b>Öffentliche Veranstaltung:</b> Fachvorträge und Q&A Session.<br><br>
          Die Termine finden an wechselnden Orten in Niedersachsen statt und werden auf dieser Webseite bekannt gegeben. Rechtliche Fragestellungen können im Vorfeld bei den Ansprechpartnern eingereicht werden.<br>
          <br><b>Geschlossene Sprechstunde:</b> 1:1 Gespräche mit <a href="https://www.kwg.eu/anwaelte/dr-markus-grube/">Herrn Prof. Dr. Markus Grube </a>.<br>
-         <br>Die Termine finden an wechselnden Orten in Niedersachsen statt. Die Beratung dauert ca. 50 Minuten.
+         <br>Die Termine finden online über Zoom statt. Die Beratung dauert ca. 50 Minuten.
          <br>Am Veranstaltungstag sind wir vom FoodHyper Team vor Ort und stehen für Fragen rund um den FoodHyper und Angeboten für Startups zur Verfügung. 
       - title: Bewerbung
         image: images/SVG/undraw_subscriber.svg
         content: >-
          Die Bewerbung zur Teilnahme an der geschlossenen Sprechstunde erfolgt mit einer konkreten Fragestellung über den Bewerbungsbogen.<br><br>
-         Die Plätze werden nach Eingang der Bewerbung vergeben. Der nächste Termin für die geschlossene Sprechstunde findet am <b>14./15. Dezember 2021 (online)</b> statt.<br>
+         Die Plätze werden nach Eingang der Bewerbung vergeben. Der nächste Termin für die geschlossene Sprechstunde findet am <b>02./03. Februar 2022 (online)</b> statt.<br>
          <br>Nach der Bewerbung nehmen wir mit euch Kontakt auf zur Absprache der Beratungszeit.
          <br>Die Teilnahme an den Veranstaltungen ist kostenlos.
          <br>
@@ -69,7 +69,7 @@ sections:
       - title: 
         image: images/Karin_Hollah.png
         content: >-
-          Karin Hollah <br><br> E-Mail: E-Mail: K.Hollah@dil-ev.de <br><br> Tel.: 05431 183 193
+          Karin Mastall <br><br> E-Mail: E-Mail: K.Mastall@dil-ev.de <br><br> Tel.: 05431 183 193
       - title: 
         image: images/Alexander.jpg
         content: >-
