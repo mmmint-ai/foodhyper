@@ -62,7 +62,7 @@ sections:
     component: features_block.html
     type: featuresblock
     bg: gray
-    title: Ansprechpartner*in
+    title: Ansprechpartner:in 
     subtitle: >-
 
     featureslist:

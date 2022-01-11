@@ -1,7 +1,7 @@
 ---
 title: FoodHyper
 subtitle: >-
-  Der FoodHyper ist ein Programm zur Förderung von Food-Startups in Niedersachsen für Gründerinnen, Gründer und Gründungsinteressierte der Ernährungsbranche. Es bietet mit seinen unterschiedlichen Formaten sowohl für erste Ideen als auch frühphasige Startups Unterstützung bei Produkt, Geschäftsidee und Netzwerk. Eingebettet in das bestehende Ökosystem verknüpft der FoodHyper bestehende Programme und Akteure:innen und bietet somit den optimalen Anlaufpunkt für Food-Startups.
+  Der FoodHyper ist ein Programm zur Förderung von Food-Startups in Niedersachsen für Gründerinnen, Gründer und Gründungsinteressierte der Ernährungsbranche. Es bietet mit seinen unterschiedlichen Formaten sowohl für erste Ideen als auch frühphasige Startups Unterstützung bei Produkt, Geschäftsidee und Netzwerk. Eingebettet in das bestehende Ökosystem verknüpft der FoodHyper bestehende Programme und Akteur:innen und bietet somit den optimalen Anlaufpunkt für Food-Startups.
 share-img: images/undraw_cloud_sync_2aph.svg.png
 sections:
   - section_id: hero
@@ -10,7 +10,7 @@ sections:
     image: images/logo.png
     title: FoodHyper
     content: >-
-      Wir haben uns zum Ziel gesetzt, die Akteure:innen der niedersächsischen Food-Gründerszene stärker miteinander zu vernetzen und technologische Innovationen in der Lebensmittelbranche zu fördern.
+      Wir haben uns zum Ziel gesetzt, die Akteur:innen der niedersächsischen Food-Gründerszene stärker miteinander zu vernetzen und technologische Innovationen in der Lebensmittelbranche zu fördern.
      
       <br>
       <br>
@@ -43,20 +43,20 @@ sections:
       - title: Innovate
         image: images/logo-innovate.png
         content: >-
-          Als <b>Spezialist für innovative Startup-Events</b> mit der eigenen innovate!convention hat sich die 2019 in Osnabrück gegründete Innovate GmbH inzwischen als <b>Full-Service Dienstleister für alle Akteure:innen des Startup-Ökosystems</b> etabliert. Ziel jeder Veranstaltung ist es zukunftsfähige Ideen voranzubringen und die Menschen dahinter zusammen zu bringen. Das Team organisiert dabei vielfältige Events von Hackathons bis hin zu Konferenzen, die Raum für Kreativität und Austausch bieten und durch eine inspirierende Atmosphäre in Erinnerung bleiben
+          Als <b>Spezialist für innovative Startup-Events</b> mit der eigenen innovate!convention hat sich die 2019 in Osnabrück gegründete Innovate GmbH inzwischen als <b>Full-Service Dienstleister für alle Akteur:innen des Startup-Ökosystems</b> etabliert. Ziel jeder Veranstaltung ist es zukunftsfähige Ideen voranzubringen und die Menschen dahinter zusammen zu bringen. Das Team organisiert dabei vielfältige Events von Hackathons bis hin zu Konferenzen, die Raum für Kreativität und Austausch bieten und durch eine inspirierende Atmosphäre in Erinnerung bleiben
       - title: Deutsches Institut für Lebensmitteltechnik
         image: images/DIL-Logo.png
         content: >-
           Das <a href="https://www.dil-ev.de/">DIL</a> <b>entwickelt nachhaltige und effiziente Lösungen für Prozesstechnologien und neue Produktentwicklungen für den Lebensmittelbereich</b>. Problemstellungen können aus den verschiedenen Perspektiven der Lebensmitteltechnologie unter den Kriterien der Innovation, Digitalisierung und Nachhaltigkeit bearbeitet werden. 
           Als Bindeglied zwischen Wissenschaft und Praxis unterstützt das DIL Kunden und Partner kontinuierlich im Innovationsprozess und sorgt für einen Technologietransfer in die Lebensmittelindustrie. 
-          Dem DIL angegliedert ist der <b><a href="https://www.dil-innovationhub.de/">DIL Innovation Hub (DIH)</a></b> als Plattform um <b>Innovationen im Bereich der Lebensmittelwirtschaft zu fördern</b> und <b>Akteure:innen</b> aus diesem Bereich <b>zu vernetzen</b>.​ 
+          Dem DIL angegliedert ist der <b><a href="https://www.dil-innovationhub.de/">DIL Innovation Hub (DIH)</a></b> als Plattform um <b>Innovationen im Bereich der Lebensmittelwirtschaft zu fördern</b> und <b>Akteur:innen</b> aus diesem Bereich <b>zu vernetzen</b>.​ 
   # - section_id: foodpaten
   #   component: features_block.html
   #   type: featuresblock
   #   bg: gray
   #   title: Foodpaten
   #   subtitle: >-
-  #     Unsere Food Paten sind Ansprechpartner und Vermittler für Food Startups und Gründungsinteressierte zu anderen regionalen, überregionalen und landesweiten Akteuren der Startup-Szene. 
+  #     Unsere Food Paten sind Ansprechpartner und Vermittler für Food Startups und Gründungsinteressierte zu anderen regionalen, überregionalen und landesweiten Akteur:innen der Startup-Szene. 
   #   featureslist:
   #     - title: Foodpate 1
   #       image: images/avatar.png
