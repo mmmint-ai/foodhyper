@@ -1,7 +1,7 @@
 ---
 title: FoodHyper - Das Programm zur Förderung von Food-Startups in Niedersachsen.
 subtitle: >-
-  Wir haben uns zum Ziel gesetzt, die Akteure:innen der niedersächsischen Food-Gründerszene stärker miteinander zu vernetzen und technologische Innovationen in der Lebensmittelbranche zu fördern.
+  Wir haben uns zum Ziel gesetzt, die Akteur:innen der niedersächsischen Food-Gründerszene stärker miteinander zu vernetzen und technologische Innovationen in der Lebensmittelbranche zu fördern.
 share-image: images/logo.png
 sections:
   - section_id: hero
@@ -10,7 +10,7 @@ sections:
     image: images/logo.png
     title: FoodHyper
     content: >-
-      Wir haben uns zum Ziel gesetzt, die Akteure:innen der niedersächsischen Food-Gründerszene stärker miteinander zu vernetzen und technologische Innovationen in der Lebensmittelbranche zu fördern.
+      Wir haben uns zum Ziel gesetzt, die Akteur:innen der niedersächsischen Food-Gründerszene stärker miteinander zu vernetzen und technologische Innovationen in der Lebensmittelbranche zu fördern.
      
       <br>
       <br>
@@ -24,7 +24,7 @@ sections:
     subtitle: >-
       Der FoodHyper ist ein <b>Programm zur Förderung von Food-Startups in Niedersachsen</b> für Gründerinnen, Gründer und Gründungsinteressierte der Ernährungsbranche. 
       Es bietet mit seinen unterschiedlichen Formaten sowohl für erste Ideen als auch frühphasige Startups <b>Unterstützung bei Produkt, Geschäftsidee und Netzwerk.</b> 
-      Eingebettet in das bestehende Ökosystem verknüpft der FoodHyper bestehende Programme und Akteure:innen und bietet somit den optimalen Anlaufpunkt für Food-Startups. <br> 
+      Eingebettet in das bestehende Ökosystem verknüpft der FoodHyper bestehende Programme und Akteur:innen und bietet somit den optimalen Anlaufpunkt für Food-Startups. <br> 
       <br>
       FoodHyper ist eine Initiative von <b>startup.niedersachsen.</b>
       Weitere Informationen unter: <a href="https://startup.nds.de/">www.startup.nds.de</a>
@@ -58,7 +58,7 @@ sections:
         image: images/SVG/undraw_people_search.svg
         content: >-
          <div class="iconContainer"><img src="./images/questionmark.png" alt="check" width="40" height="40"> Startups</div>
-         <div class="iconContainer"><img src="./images/questionmark.png" alt="check" width="40" height="40"> Akteure:innen</div>
+         <div class="iconContainer"><img src="./images/questionmark.png" alt="check" width="40" height="40"> Akteur:innen</div>
          <div class="iconContainer last"><img src="./images/questionmark.png" alt="check" width="40" height="40"> Ideen </div>
         
   - section_id: recent-posts
