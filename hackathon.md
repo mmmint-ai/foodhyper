@@ -44,7 +44,7 @@ sections:
          Der Hackathon dauert ca.  <b>36 Stunden.</b> Erfahrungsgemäß bestehen die Teilnehmer:innen an Hackathons entweder aus  <b>bereits bestehenden Teams</b> oder aus  <b>Einzelpersonen </b>. Die Veranstaltung teilt sich organisatorisch in drei Teile ein: 
          <br><b>Teil 1 Kick-Off:</b> Zusammenstellung der Teams, Vergabe der Challenges und Vorbereitung auf das Hacking
          <br><b>Teil 2 Hacking:</b>  Bearbeitung der Challenges gemeinsam mit den Challenge-Gebern, Vorbereitung auf die finale Ergebnispräsentation  
-         <br><b>Teil 3 Abschluss:</b>  Prämierung aller erarbeiteten Lösungen, Vernetzung der Teilnehmer:innen untereinander und mit anderen Akteuren des Niedersächsischen Food-Startup Ökosystems.
+         <br><b>Teil 3 Abschluss:</b>  Prämierung aller erarbeiteten Lösungen, Vernetzung der Teilnehmer:innen untereinander und mit anderen Akteur:innen des Niedersächsischen Food-Startup Ökosystems.
       - title: Anmeldung
         image: images/SVG/undraw_subscriber.svg
         content: >-

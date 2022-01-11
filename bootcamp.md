@@ -42,9 +42,9 @@ sections:
          Die Bootcamps werden agil an den Standorten <b>Osnabrück und Quakenbrück</b> durchgeführt.
          Das Foodtech Bootcamp gliedert sich in <b>drei Themenblöcke</b>:
          <br>
-         <br><b>Teil 1:</b> Kennenlernen der Teilnehmer:innen, Entwicklung der Geschäftsidee unter anderem mit 1:1 Beratungen durch Experten:innen und Trainings zu Rhetorik und Story Telling 
+         <br><b>Teil 1:</b> Kennenlernen der Teilnehmer:innen, Entwicklung der Geschäftsidee unter anderem mit 1:1 Beratungen durch Expert:innen und Trainings zu Rhetorik und Story Telling 
          <br><b>Teil 2:</b> Zugang zu Technologien im DIL Technikum, um eine Produktidee oder einen Prozess rund um das Lebensmittel zu testen, zu entwickeln oder zu optimieren
-         <br><b>Teil 3:</b> Abschluss mit einer Pitch Präsentation vor potenziellen Kunden:innen, Lieferanten:innen und Geschäftspartnern:innen zur Geschäftsanbahnung
+         <br><b>Teil 3:</b> Abschluss mit einer Pitch Präsentation vor potenziellen Kund:innen, Lieferant:innen und Geschäftspartner:innen zur Geschäftsanbahnung
          <br>
          <br>Um eine bestmögliche Betreuung zu gewährleisten, wird im Vorfeld des Bootcamps eine Befragung durchgeführt, auf dessen Grundlage <b>ein individualisiertes Programm für das jeweilige Startup</b> ausgerichtet wird. So werden die teilnehmenden Startups entweder verstärkt auf Produkt- oder auf Marktseite unterstützt.
     
