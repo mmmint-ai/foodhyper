@@ -157,30 +157,65 @@ sections:
           <p> <img class="footpate-img" src="/images/foodpaten/logos/Dil.jpg" alt="Dil" /> </p>
       - image: images/foodpaten/Nowotny.jpg
         description: >-
-          John Doe, Test
+          <br>
+
+          <p> <b>Name:</b> <br> Franz Nowotny </p>
+
+          <p> <b>Organisation/Unternehmen:</b> <br>  Dr. Johanna Budwig GmbH </p>
+
+          <p> <b>Anschrift:</b> <br>  An den Kolonaten 2-4 26160 Bad Zwischenahn   </p>
+
+          <p class="about-me"> <b>Über mich:</b> <br>  Geschäftsführer der Dr. Johnna Budwig GmbH.
+          <br>
+          Erfahrungen im Reformhaus Einzelhandel, Online-Marketing und E-Commerce. Ich freue mich junge start ups mit meinem Netzwerk und meiner Branchenerfahrung im Bereich Vertrieb und Marketing unterstützen und beraten zu können.</p>
+
+          <p> <b>Email:</b><br>  <a href="mailto:f.nowotny@dr-johanna-budwig.de">f.nowotny@dr-johanna-budwig.de </a>  </p>
+
+          <p> <b>Telefonnummer:</b><br>  0441 390630180 </p>
+
+          <p> <img class="footpate-img" src="/images/foodpaten/logos/Bugdwig_Logo.jpg" alt="Budwig" /> </p>
       - image: images/foodpaten/Philipp.jpg
         description: >-
-          John Doe, Test
+          <br>
+
+          <p> <b>Name:</b> <br> Dr. Philipp Rittershaus</p>
+
+          <p> <b>Organisation/Unternehmen:</b> <br>  RootCamp GmbH </p>
+
+          <p> <b>Anschrift:</b> <br>  Herrenstrasse 12, 30159 Hannover </p>
+
+          <p class="about-me"> <b>Über mich:</b> <br>  Philipp hat umfangreiche Erfahrungen als LifeScience-Investor beim High-Tech-Gründerfonds gesammelt und verfügt über einen Hintergrund in der industriellen Biotechnologie.
+          Philipp hat einen Doktortitel in Biotechnologie von der Universität Hohenheim, einen MBA in Engineering Management von der Fachhochschule Mannheim und einen Master in technischer Biologie von der Universität Stuttgart. 
+          Bei RootCamp konzentrieren wir uns auf die B2B-bezogenen vorgelagerten Prozesse der Agrifood-Wertschöpfungskette. So können wir eher bei Prozessen zur Erzeugung von Lebensmitteln als bei der Distribution unterstützen. </a> </p>
+
+          <p> <b>Email:</b><br>  <a href="info@root.camp">info@root.camp </a>  </p>
+
+          <p> <b>Telefonnummer:</b><br>  +49 51133730620 </p>
+
+          <p> <b>LinkedIn-Profil:</b><br> <a href=" https://www.linkedin.com/in/philipp-rittershaus-39176825/" target="_blank"> linkedin.com/in/philipp-rittershaus-39176825/</a>  </p>
+
+          <p> <img class="footpate-img" src="/images/foodpaten/logos/Rootcamp.png" alt="Rootcamp" /> </p>
       - image: images/foodpaten/Schroeder.jpg
         description: >-
-          John Doe, Test
+          <br>
 
-  - section_id: ansprechpartner
-    component: features_block.html
-    type: featuresblock
-    bg: gray
-    title: Ansprechpartner
-    subtitle: >-
+          <p> <b>Name:</b> <br> Dr. Annika B. Schröder </p>
 
-    featureslist:
-      - title: Für Fragen rundum die Events
-        image: images/Felix.jpg
-        content: >-
-          Felix Willert <br><br> E-Mail: felix@innovate-os.de <br><br> Tel.: 0541 50798526
-      - title: Für allgemeine Fragen
-        image: images/Johann.jpg
-        content: >-
-          Johann Rottmann <br><br> E-Mail: johann@seedhouse.de <br><br> Tel.: Tel.: 0160 95453630
+          <p> <b>Organisation/Unternehmen:</b> <br>  foodactive e.V. - Das Ernährungsnetzwerk der Metropolregion Hamburg</p>
+
+          <p> <b>Anschrift:</b> <br> Süderelbe AG, Veritaskai 4, 21079 Hamburg    </p>
+
+          <p class="about-me"> <b>Über mich:</b> <br>  Selbst promovierte Ökotrophologin bin ich seit fast 15 Jahren leidenschaftliche Netzwerkerin im Foodbereich mit Kontakten zur Foodindustrie, Hochschulen, Wissenschaft, Startups und Dienstleistern entlang der Wertschöpfungskette. Mit Freude und Engagement habe ich jahrelange an einer Hochschule den Fachbereich Ökotrophologie gelehrt. Mein strategisches und operatives Denken und Handeln geprägt durch vielfältige Projekte in unterschiedlichen Themen rund um die Produktion von Lebensmitteln führt zu erfolgreichen Projekten und Entwicklungen. </p>
+
+          <p> <b>Email:</b><br>  <a href="mailto:schroeder@foodactive.de">schroeder@foodactive.de </a>  </p>
+
+          <p> <b>Telefonnummer:</b><br> 040 355 10355 </p>
+
+          <p> <b>LinkedIn-Profil Privat:</b><br> <a href=" https://www.linkedin.com/in/dr-annika-schröder-0210a9201" target="_blank"> linkedin.com/in/dr-annika-schröder-0210a9201</a>  </p>
+
+          <p> <b>LinkedIn-Profil Foodactive:</b><br> <a href=" https://www.linkedin.com/company/foodactive/" target="_blank"> linkedin.com/company/foodactive/</a>  </p>
+
+          <p> <img class="footpate-img" src="/images/foodpaten/logos/foodactive.jpg" alt="foodactive" /> </p>
 
 layout: features
 ---
