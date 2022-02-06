@@ -18,6 +18,7 @@ header:
     Bootcamp: "bootcamp"
     FoodLaw: "law"
     News: "blog"
+    Foodpaten: "foodpaten"
   palette: blue
   
 footer:

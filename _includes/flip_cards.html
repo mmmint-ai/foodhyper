@@ -1,0 +1,38 @@
+<section
+  id="{{ include.section.section_id }}"
+  class="block features-block bg-{{ include.section.bg }} outer"
+>
+  <div class="block-header inner-medium">
+    <h2 class="block-title">{{ include.section.title }}</h2>
+    {% assign subtitle_is_not_empty = include.section.subtitle | is_not_empty %}
+    {% if subtitle_is_not_empty %}
+    <p class="block-subtitle">{{ include.section.subtitle }}</p>
+    {% endif %}
+  </div>
+  <!-- .block-header -->
+
+  {% assign flipcards_is_not_empty = include.section.flipcards | is_not_empty %}
+  {% if flipcards_is_not_empty %}
+  <div class="inner">
+    <div class="flip-card-container">
+      {% for flipcard in include.section.flipcards %}
+
+      <div class="flip-card">
+        <div class="flip-card-inner">
+          <div class="flip-card-front">
+            <img
+              class="flip-card-image"
+              src="{{ flipcard.image | relative_url }}"
+              alt="{{ flipcard.title }}"
+            />
+          </div>
+          <div class="flip-card-back">{{ flipcard.description}}</div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  <!-- .inner -->
+  {% endif %}
+</section>
+<!-- .block -->
