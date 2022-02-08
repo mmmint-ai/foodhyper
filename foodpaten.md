@@ -9,7 +9,9 @@ sections:
     type: flipcards
     bg: gray
     title: Unsere Foodpaten
-    subtitle: >-
+    subtitle: >- 
+     Die Food Paten sind Ansprechpartner:innen aus allen Regionen in Niedersachsen und bilden damit ein kompetentes und diverses Netzwerk für Food Startups und Gründungsinteressierte.  Sie unterstützen Startups und Gründungs-Teams mit ihrer Erfahrung und Ihrem Netzwerk, um sie bei der Entwicklung zu unterstützen 
+     Sprecht sie gerne direkt an!
 
     flipcards:
       - image: images/foodpaten/Andi.png
@@ -44,7 +46,7 @@ sections:
 
           <p class="about-me"> <b>Über mich:</b> <br>  Die nachhaltige Umstellung der Nahrungsmittelproduktion und unserer Ernährung trägt maßgeblich
           zum Erreichen der Klimaziele bei. Ernährung und Klimaschutz müssen gemeinsam gedacht werden.
-          Nur als Biochemikerin und leidenschaftliche Hobbyköchin, sondern auch als Leiterin eines StartupZentrums liegt mir die Unterstützung innovativer biotechnologischer Ideen zur Gestaltung der
+          Nicht nur als Biochemikerin und leidenschaftliche Hobbyköchin, sondern auch als Leiterin eines StartupZentrums liegt mir die Unterstützung innovativer biotechnologischer Ideen zur Gestaltung der
           Ernährung der Zukunft sehr am Herzen. Gerne helfe ich dabei, diese Ideen unternehmerisch auf den Weg zu bringen. Meine über 10-jährige Expertise: Marketing, Finanzen und Kommunikation. </p>
 
           <p> <b>Email:</b><br> <a href="mailto:isabella.gekel@snic.de ">isabella.gekel@snic.de </a></p>
@@ -173,7 +175,7 @@ sections:
 
           <p> <b>Telefonnummer:</b><br>  0441 390630180 </p>
 
-          <p> <img class="footpate-img" src="/images/foodpaten/logos/Bugdwig_Logo.jpg" alt="Budwig" /> </p>
+          <p> <img class="footpate-img" src="/images/foodpaten/logos/Budwig_Logo.jpg" alt="Budwig" /> </p>
       - image: images/foodpaten/Philipp.jpg
         description: >-
           <br>
@@ -184,9 +186,7 @@ sections:
 
           <p> <b>Anschrift:</b> <br>  Herrenstrasse 12, 30159 Hannover </p>
 
-          <p class="about-me"> <b>Über mich:</b> <br>  Philipp hat umfangreiche Erfahrungen als LifeScience-Investor beim High-Tech-Gründerfonds gesammelt und verfügt über einen Hintergrund in der industriellen Biotechnologie.
-          Philipp hat einen Doktortitel in Biotechnologie von der Universität Hohenheim, einen MBA in Engineering Management von der Fachhochschule Mannheim und einen Master in technischer Biologie von der Universität Stuttgart. 
-          Bei RootCamp konzentrieren wir uns auf die B2B-bezogenen vorgelagerten Prozesse der Agrifood-Wertschöpfungskette. So können wir eher bei Prozessen zur Erzeugung von Lebensmitteln als bei der Distribution unterstützen. </a> </p>
+          <p class="about-me"> <b>Über mich:</b> <br>  Ich habe umfangreiche Erfahrungen als LifeScience-Investor beim High-Tech-Gründerfonds gesammelt und verfüge über einen Hintergrund in der industriellen Biotechnologie. Dazu habe ich einen Doktortitel in Biotechnologie von der Universität Hohenheim, einen MBA in Engineering Management von der Fachhochschule Mannheim und einen Master in technischer Biologie von der Universität Stuttgart. Bei RootCamp konzentrieren wir uns auf die B2B-bezogenen vorgelagerten Prozesse der Agrifood-Wertschöpfungskette. So können wir eher bei Prozessen zur Erzeugung von Lebensmitteln als bei der Distribution unterstützen. </a> </p>
 
           <p> <b>Email:</b><br>  <a href="info@root.camp">info@root.camp </a>  </p>
 
