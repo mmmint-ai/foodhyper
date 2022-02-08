@@ -158,6 +158,7 @@ sections:
 
           <p> <img class="footpate-img" src="/images/foodpaten/logos/Dil.jpg" alt="Dil" /> </p>
       - image: images/foodpaten/Nowotny.jpg
+        customclass: no-object-fit
         description: >-
           <br>
 

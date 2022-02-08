@@ -1,10 +1,7 @@
-- name: 
-  link: https://www.facebook.com/seedhouse.de/
-  class: brands fa-facebook-square
-- name: 
-  link: https://www.linkedin.com/company/seedhouse-accelerator/
+- name: LinkedIn
+  link: https://www.linkedin.com/showcase/78991405/
   class: brands fa-linkedin
-- name: 
-  link: https://www.instagram.com/seedhouse.de/?hl=de
+- name: Instagram
+  link: https://www.instagram.com/foodhyper.de/
   class: brands fa-instagram
 

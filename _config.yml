@@ -18,6 +18,7 @@ header:
     Bootcamp: "bootcamp"
     FoodLaw: "law"
     News: "blog"
+    Foodpaten: "foodpaten"
   palette: blue
   
 footer:
@@ -32,7 +33,7 @@ footer:
       url: "/datenschutz"
       new_window: false
 
-  social_title: 
+  social_title: Social Media
 
   nav_title: Navigation
   nav:
@@ -41,6 +42,7 @@ footer:
     Bootcamp: "bootcamp"
     Law: "law"
     News: "blog"
+    Foodpaten: "foodpaten"
 
   has_subscribe: true
   subscribe_title: "Interesse?"
