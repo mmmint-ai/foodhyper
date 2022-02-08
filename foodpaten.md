@@ -46,7 +46,7 @@ sections:
 
           <p class="about-me"> <b>Über mich:</b> <br>  Die nachhaltige Umstellung der Nahrungsmittelproduktion und unserer Ernährung trägt maßgeblich
           zum Erreichen der Klimaziele bei. Ernährung und Klimaschutz müssen gemeinsam gedacht werden.
-          Nicht nur als Biochemikerin und leidenschaftliche Hobbyköchin, sondern auch als Leiterin eines StartupZentrums liegt mir die Unterstützung innovativer biotechnologischer Ideen zur Gestaltung der
+          Nicht nur als Biochemikerin und leidenschaftliche Hobbyköchin, sondern auch als Leiterin eines Startup-Zentrums liegt mir die Unterstützung innovativer biotechnologischer Ideen zur Gestaltung der
           Ernährung der Zukunft sehr am Herzen. Gerne helfe ich dabei, diese Ideen unternehmerisch auf den Weg zu bringen. Meine über 10-jährige Expertise: Marketing, Finanzen und Kommunikation. </p>
 
           <p> <b>Email:</b><br> <a href="mailto:isabella.gekel@snic.de ">isabella.gekel@snic.de </a></p>
