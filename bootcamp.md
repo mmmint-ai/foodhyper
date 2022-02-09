@@ -9,7 +9,7 @@ sections:
     image: images/logo.png
     title: Bootcamp
     content: >-
-      Das erste Bootcamp wird vom <b>02. - 06. Mai 2022 beim Seedhouse in Osnabrück und DIL in Quakenbrück</b> stattfinden.
+      Das erste Bootcamp wird vom <b>09. – 13. Mai 2022 beim Seedhouse in Osnabrück und DIL in Quakenbrück</b> stattfinden.
     actions:
       - label: Interesse?
         url: /contact
@@ -26,7 +26,7 @@ sections:
         content: >-
           Wie bündelt man die gesamte Stärke des <b>Food-Clusters aus Niedersachsen</b> in einer Woche? 
           Indem Startups und ambitionierte Teams innerhalb kürzester Zeit <b>Zugang zur hochtechnologischen Infrastruktur</b> und zum <b>Know-How</b> des Deutschen Instituts für Lebensmitteltechnik erhalten und von den Startup-Erfahrungen und dem Netzwerk des Seedhouse und der darum versammelten 32 Unternehmen aus der gesamten Lebernsmittelwertschöpfungskette profitieren.
-          <br>Das erste Bootcamp wird vom <b>02. - 06. Mai 2022 beim Seedhouse in Osnabrück und DIL in Quakenbrück</b> stattfinden.
+          <br>Das erste Bootcamp wird vom <b>09. – 13. Mai 2022 beim Seedhouse in Osnabrück und DIL in Quakenbrück</b> stattfinden.
       - title: Ziele
         image: images/bootcamp_ziele.jpg
         content: >-

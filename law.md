@@ -9,7 +9,7 @@ sections:
     image: images/logo.png
     title: FoodLaw
     content: >-
-      Der nächste Termin für die geschlossene Sprechstunde findet am <b>2./3. Februar 2022 (online)</b> statt.
+      Der nächste Termin für die geschlossene Sprechstunde findet am <b>30. / 31. März 2022 (online)</b> statt.
       <br>
       <br>
 
@@ -50,7 +50,8 @@ sections:
         image: images/SVG/undraw_subscriber.svg
         content: >-
          Die Bewerbung zur Teilnahme an der geschlossenen Sprechstunde erfolgt mit einer konkreten Fragestellung über den Bewerbungsbogen.<br><br>
-         Die Plätze werden nach Eingang der Bewerbung vergeben. Der nächste Termin für die geschlossene Sprechstunde findet am <b>02./03. Februar 2022 (online)</b> statt.<br>
+         Der nächste Termin für die geschlossene Sprechstunde findet am <b>30./31. März 2022 (online)</b> statt.<br>
+         <br>Die Bewerbungsfrist endet am <b>22. März 2022</b>.
          <br>Nach der Bewerbung nehmen wir mit euch Kontakt auf zur Absprache der Beratungszeit.
          <br>Die Teilnahme an den Veranstaltungen ist kostenlos.
          <br>

@@ -9,7 +9,7 @@ sections:
     image: images/logo.png
     title: Hackathon
     content: >-
-      Der erste Hackathon wird <b>am 10. – 11. März 2022 in Osnabrück</b> stattfinden.
+      Der erste Hackathon wird <b>am 21. – 22. April 2022 in Osnabrück</b> stattfinden.
     actions:
       - label: Interesse?
         url: https://www.eventbrite.de/e/219843336337"
@@ -26,7 +26,7 @@ sections:
         content: >-
           Hackathons sind ein etabliertes Mittel zur Entwicklung neuer Lösungsansätze und bieten durch den offenen Ansatz einen leichten Zugang für interessierte Teilnehmer:innen sowie andere Stakeholder. 
           Kombiniert mit einem <b>interaktiven Programm und Unterstützung bei der Teambildung</b> lassen sich <b>Teams mit Potential zur Startup-Gründung bilden</b>. Durch die Einbettung der Hackathons in einen weiteren Entwicklungsprozess mit angeschlossenen Bootcamps und der individuellen Betreuung können gezielt Startups aufgebaut und unterstützt werden.
-          <br>Der erste Hackathon wird <b>am 10. - 11. März 2022 in Osnabrück</b> stattfinden.
+          <br>Der erste Hackathon wird <b>am 21. – 22. April 2022 in Osnabrück</b> stattfinden.
       - title: Ziele
         image: images/hackathon_ziele.jpeg
         content: >-

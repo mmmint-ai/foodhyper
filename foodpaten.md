@@ -217,6 +217,45 @@ sections:
           <p> <b>LinkedIn-Profil Foodactive:</b><br> <a href=" https://www.linkedin.com/company/foodactive/" target="_blank"> linkedin.com/company/foodactive/</a>  </p>
 
           <p> <img class="footpate-img" src="/images/foodpaten/logos/foodactive.jpg" alt="foodactive" /> </p>
+      - image: images/foodpaten/Florian.jpg
+        description: >-
+          <br>
+
+          <p> <b>Name:</b> <br> Florian Stöhr </p>
+
+          <p> <b>Organisation/Unternehmen:</b> <br>  Seedhouse Accelerator </p>
+
+          <p> <b>Anschrift:</b> <br>  Marie-Curie-Str. 3, 49076 Osnabrück  </p>
+
+          <p class="about-me"> <b>Über mich:</b> <br>  Als Mitgründer eines Startups im Studium, einer Tochterfirma im Konzern und des Seedhouse als Accelerator verfüge ich über reichlich Entrepreneurship-Erfahrung. 
+          Das Seedhouse ist die Schnittstelle von Startups und Mittelstand. Gründerinnen und Gründer im Farm‑, Food- und Digitalbereich treffen auf aktuell 34 Mitgliedsunternehmen mit über 50.000 Mitarbeitern und einem Umsatz von über 16 Milliarden Euro.</p>
+
+          <p> <b>Email:</b><br>  <a href="mailto:florian@seedhouse.de">florian@seedhouse.de</a>  </p>
+
+          <p> <b>Telefonnummer:</b><br>  01792403504 </p>
+
+          <p> <b>LinkedIn-Profil:</b><br> <a href="https://www.linkedin.com/in/florianstoehr/" target="_blank"> linkedin.com/in/florianstoehr/</a>  </p>
+
+          <p> <img class="footpate-img" src="/images/foodpaten/logos/seedhouse.jpg" alt="Seedhouse" /> </p>
+      - image: images/foodpaten/Christine.jpg
+        description: >-
+          <br>
+
+          <p> <b>Name:</b> <br> Christine Benecke </p>
+
+          <p> <b>Organisation/Unternehmen:</b> <br>  Wirtschaftsförderung Lüneburg </p>
+
+          <p> <b>Anschrift:</b> <br>  Stadtkoppel 12, 21337 Lüneburg  </p>
+
+          <p class="about-me"> <b>Über mich:</b> <br>  Ich bringe eine über 10-jährige Erfahrung in der Unterstützung von Startups (branchenunabhängig) mit. Mein Schwerpunkt liegt dabei in der Beratung und Vernetzung. In dieser Zeit habe ich auch schon ein paar Food-Startups betreut. Zuletzt sehr erfolgreich war hier das Lüneburg Unternehmen „Heyho“, mit dem Gewinn des niedersächsischen Durchstarter Preises.  </p>
+
+          <p> <b>Email:</b><br>  <a href="mailto:benecke@wirtschaft.lueneburg.de">benecke@wirtschaft.lueneburg.de </a>  </p>
+
+          <p> <b>Telefonnummer:</b><br>  04131 - 208221 </p>
+
+          <p> <b>LinkedIn-Profil:</b><br> <a href="https://www.linkedin.com/in/christine-benecke-0b335a213/" target="_blank"> linkedin.com/in/christine-benecke-0b335a213/</a>  </p>
+
+          <p> <img class="footpate-img" src="/images/foodpaten/logos/wlg_logo.jpg" alt="wlg" /> </p>
 
 layout: features
 ---
