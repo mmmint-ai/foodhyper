@@ -1,7 +1,7 @@
 ---
 title: Hackathon
 subtitle: >-
-share-img: images/undraw_cloud_sync_2aph.svg.png
+share-img: images/logo.png
 sections:
   - section_id: hero
     component: hero_block.html

@@ -1,18 +1,23 @@
 ---
-title: FoodHyper
+title: Hackathon
 subtitle: >-
-  Der FoodHyper ist ein Programm zur Förderung von Food-Startups in Niedersachsen für Gründerinnen, Gründer und Gründungsinteressierte der Ernährungsbranche. Es bietet mit seinen unterschiedlichen Formaten sowohl für erste Ideen als auch frühphasige Startups Unterstützung bei Produkt, Geschäftsidee und Netzwerk. Eingebettet in das bestehende Ökosystem verknüpft der FoodHyper bestehende Programme und Akteur:innen und bietet somit den optimalen Anlaufpunkt für Food-Startups.
-share-img: images/undraw_cloud_sync_2aph.svg.png
+share-img: images/logo.png
 sections:
+  - section_id: hero
+    component: hero_block.html
+    type: heroblock
+    image: images/logo.png
+    title: Unsere Foodpaten
+    content: >-
+     Die Food Paten sind Ansprechpartner:innen aus allen Regionen in Niedersachsen und bilden damit ein kompetentes und diverses Netzwerk für Food Startups und Gründungsinteressierte.  Sie unterstützen Startups und Gründungs-Teams mit ihrer Erfahrung und Ihrem Netzwerk, um sie bei der Entwicklung zu unterstützen 
+     Sprecht sie gerne direkt an!.	 
   - section_id: flipcard
     component: flip_cards.html
     type: flipcards
     bg: gray
-    title: Unsere Foodpaten
+    title:
     subtitle: >- 
-     Die Food Paten sind Ansprechpartner:innen aus allen Regionen in Niedersachsen und bilden damit ein kompetentes und diverses Netzwerk für Food Startups und Gründungsinteressierte.  Sie unterstützen Startups und Gründungs-Teams mit ihrer Erfahrung und Ihrem Netzwerk, um sie bei der Entwicklung zu unterstützen 
-     Sprecht sie gerne direkt an!
-
+     
     flipcards:
       - image: images/foodpaten/Andi.png
         description: >-
@@ -259,4 +264,3 @@ sections:
 
 layout: features
 ---
-

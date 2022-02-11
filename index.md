@@ -80,29 +80,6 @@ sections:
       - url: https://www.dil-ev.de/
         image: images/DIL-Small.png
 
-  # - section_id: reviews
-  #   component: reviews_block.html
-  #   type: reviewsblock
-  #   bg: white
-  #   title: Meet the Team
-  #   subtitle: >-
-  #     FoodHyper
-  #   reviews: 
-  #     - 
-  #       author: Teammitglied 1
-  #       avatar: images/avatar.png
-  #       content: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
-  #       link: "https://www.linkedin.com/in/markwarneke/"
-  #     - 
-  #       author: Teammitglied 2
-  #       avatar: images/avatar.png
-  #       content: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
-  #       link: "https://www.linkedin.com/in/maximilian-stein/"
-  #     - 
-  #       author: Teammitglied 3
-  #       avatar: images/avatar.png
-  #       content: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
-  #       link: "https://www.linkedin.com/in/maxleimkuehler/"
-      
+
 layout: home
 ---
