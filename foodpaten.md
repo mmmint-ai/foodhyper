@@ -261,6 +261,37 @@ sections:
           <p> <b>LinkedIn-Profil:</b><br> <a href="https://www.linkedin.com/in/christine-benecke-0b335a213/" target="_blank"> linkedin.com/in/christine-benecke-0b335a213/</a>  </p>
 
           <p> <img class="footpate-img" src="/images/foodpaten/logos/wlg_logo.jpg" alt="wlg" /> </p>
+      - image: images/foodpaten/Sebastian.jpg
+        description: >-
+          <br>
+
+          <p> <b>Name:</b> <br> Sebastian Heldt </p>
+
+          <p> <b>Organisation/Unternehmen:</b> <br>  Heldt’s Saucenmanufaktur GmbH & Co KG</p>
+
+          <p> <b>Anschrift:</b> <br>   Harzstraße 10, 38723 Seesen  </p>
+
+          <p class="about-me"> <b>Über mich:</b> <br>  Folgende Erfahrung kann ich in das Netzwerk einbringen: Aufbau einer Marke, Tipps zur Finanzierung von Maschinen, Rohstoffe usw. Lösung von schwierigen Situation in der Aufbauphase. (begrenzt) Storytelling, Marketing in social Media. Unterstützung für Startups mit meinem eigenen Netzwerk an Handelspartnern um Startups eventuell in die Märkte zu bringen usw. </a> </p>
+
+          <p> <b>Email:</b><br>  <a href="mailto:info@heldts-saucenmanufaktur.de">info@heldts-saucenmanufaktur.de </a>  </p>
+
+          <p> <b>Telefonnummer:</b><br>  0151/40106065 </p>
+
+      - image: images/foodpaten/lenchen.jpg
+        description: >-
+          <br>
+
+          <p> <b>Name:</b> <br> Annette Rieger </p>
+
+          <p> <b>Organisation/Unternehmen:</b> <br>  Annie Treats GmbH / LENCHEN – Der Lebkuchen </p>
+
+          <p> <b>Anschrift:</b> <br>  Walderseestraße 7, 30163 Hannover (VentureVilla) </p>
+
+          <p class="about-me"> <b>Über mich:</b> <br>  Ich bin Annette, Gründerin von LENCHEN – Der Lebkuchen und eigentlich gar keine Bäckerin. Trotzdem hat es LENCHEN in den vergangenen vier Jahren geschafft, seinen Weg vom Backofen zu Hause in die Regale toller Vertriebspartner im Handel (z.B. Dallmayr, Frischeparadies, etc.) zu finden. Themen wie Sourcing, Verpackung, Produktion, Vertriebskanäle und Finanzen haben dabei viel Zeit, Spucke, Schweiß und Geld gekostet. Wenn ich dir also mit einem short cut in dem ein oder anderen Gebiet beim Thema „Handelsprodukt (Lebensmittel)“ weiterhelfen kann, tue ich das sehr gerne. <br> Am meisten freue ich mich aber auf das, was ich von dir lernen kann.  </a> </p>
+
+          <p> <b>Email:</b><br>  <a href="mailto:annie@lenchen.de">annie@lenchen.de </a>  </p>
+
+          <p> <img class="footpate-img" src="/images/foodpaten/logos/lenchen.png" alt="lenchen" /> </p>
 
 layout: features
 ---
