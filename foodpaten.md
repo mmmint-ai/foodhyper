@@ -1,5 +1,5 @@
 ---
-title: Hackathon
+title: Foodpaten
 subtitle: >-
 share-img: images/logo.png
 sections:
