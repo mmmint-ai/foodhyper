@@ -11,8 +11,9 @@ sections:
     content: >-
       Der erste Hackathon wird <b>am 21. – 22. April 2022 in Osnabrück</b> stattfinden.
     actions:
-      - label: Interesse?
+      - label: Jetzt anmelden!
         url: https://www.eventbrite.de/e/219843336337"
+        customClass: blueButton
   - section_id: feature
     component: features_block.html
     type: featuresblock

@@ -16,7 +16,7 @@
         {% if actions_is_not_empty %}
         <p class="block-buttons">
           {% for action in include.section.actions %}
-          <a target="blank" href="{{ action.url | relative_url }}" class="button white large">{{ action.label }}</a>
+          <a target="blank" href="{{ action.url | relative_url }}" class="button white large {{ action.customClass }}">{{ action.label }}</a>
           {% endfor %}
         </p>
         {% endif %}

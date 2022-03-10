@@ -11,8 +11,9 @@ sections:
     content: >-
       Das erste Bootcamp wird vom <b>09. – 13. Mai 2022 beim Seedhouse in Osnabrück und DIL in Quakenbrück</b> stattfinden.
     actions:
-      - label: Interesse?
+      - label: Jetzt anmelden!
         url: /contact
+        customClass: blueButton
   - section_id: Bootcamp
     component: features_block.html
     type: featuresblock
