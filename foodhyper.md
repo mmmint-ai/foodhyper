@@ -15,7 +15,7 @@ sections:
       <br>
       <br>
 
-      <button data-tf-popup="E7rHEUEK" data-tf-iframe-props="title=Kontakt" style="background: #FFFFFF;color: #4c5267 !important;height: auto !important;border-radius: 3px;border: 2px solid #b99700;box-sizing: border-box;color: #fff;display: inline-block;font-size: 16px;height: 2.5em;line-height: 1.5;padding: 0.5em 30px;-webkit-transition: opacity 0.15s ease-in-out;transition: opacity 0.15s ease-in-out;font-size: 16px;padding-bottom: 0.625em;padding-top: 0.625em;">Interesse?</button><script src="//embed.typeform.com/next/embed.js"></script>
+      <button data-tf-popup="E7rHEUEK" data-tf-iframe-props="title=Kontakt" style="background:  #2c2f3b;color: #FFFFFF !important;height: auto !important;border-radius: 3px;border: 2px solid #b99700;box-sizing: border-box;color: #fff;display: inline-block;font-size: 16px;height: 2.5em;line-height: 1.5;padding: 0.5em 30px;-webkit-transition: opacity 0.15s ease-in-out;transition: opacity 0.15s ease-in-out;font-size: 16px;padding-bottom: 0.625em;padding-top: 0.625em;">Interesse?</button><script src="//embed.typeform.com/next/embed.js"></script>
   - section_id: feature
     component: features_block.html
     type: featuresblock

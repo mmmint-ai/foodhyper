@@ -26,14 +26,14 @@
   }
 
   .button.secondary {
-    background: transparent;
-    color: _palette(accent-purple);
+    background: _palette(secondary);;
+    color: #fff;
 
     &:hover,
     &:focus,
     &:active {
-      background: _palette(accent-purple);
-      color: #fff;
+		background: _palette(secondary);;
+		color: #fff;
     }
   }
 
