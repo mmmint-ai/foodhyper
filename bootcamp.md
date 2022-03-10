@@ -10,11 +10,10 @@ sections:
     title: Bootcamp
     content: >-
       Das erste Bootcamp wird vom <b>09. – 13. Mai 2022 beim Seedhouse in Osnabrück und DIL in Quakenbrück</b> stattfinden.
-
       <br>
       <br>
 
-      <button data-tf-popup="ecJduy45" data-tf-iframe-props="title=Bewerbung Bootcamp" data-tf-medium="snippet" style="background:#2c2f3b;color: #FFFFFF !important;border-radius: 3px;border: 2px solid #b99700;box-sizing: border-box;color: #fff;display: inline-block;font-size: 16px;height: 2.5em;line-height: 1.5;padding: 0.5em 30px;-webkit-transition: opacity 0.15s ease-in-out;transition: opacity 0.15s ease-in-out;font-size: 16px;padding: 0.25em 15px;">Jetzt bewerben!</button><script src="//embed.typeform.com/next/embed.js"></script>
+      <button data-tf-popup="ecJduy45" data-tf-iframe-props="title=Bewerbung Bootcamp" data-tf-medium="snippet" style="background:#2c2f3b;color: #FFFFFF !important;height: auto !important;border-radius: 3px;border: 2px solid #b99700;box-sizing: border-box;color: #fff;display: inline-block;font-size: 16px;height: 2.5em;line-height: 1.5;padding: 0.5em 30px;-webkit-transition: opacity 0.15s ease-in-out;transition: opacity 0.15s ease-in-out;font-size: 16px;padding-bottom: 0.625em;padding-top: 0.625em;">Jetzt bewerben!</button><script src="//embed.typeform.com/next/embed.js"></script>
 
   - section_id: Bootcamp
     component: features_block.html
