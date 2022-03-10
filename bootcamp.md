@@ -10,10 +10,12 @@ sections:
     title: Bootcamp
     content: >-
       Das erste Bootcamp wird vom <b>09. – 13. Mai 2022 beim Seedhouse in Osnabrück und DIL in Quakenbrück</b> stattfinden.
-    actions:
-      - label: Jetzt anmelden!
-        url: /contact
-        customClass: blueButton
+
+      <br>
+      <br>
+
+      <button data-tf-popup="ecJduy45" data-tf-iframe-props="title=Bewerbung Bootcamp" data-tf-medium="snippet" style="background:#2c2f3b;color: #FFFFFF !important;border-radius: 3px;border: 2px solid #b99700;box-sizing: border-box;color: #fff;display: inline-block;font-size: 16px;height: 2.5em;line-height: 1.5;padding: 0.5em 30px;-webkit-transition: opacity 0.15s ease-in-out;transition: opacity 0.15s ease-in-out;font-size: 16px;padding: 0.25em 15px;">Jetzt bewerben!</button><script src="//embed.typeform.com/next/embed.js"></script>
+
   - section_id: Bootcamp
     component: features_block.html
     type: featuresblock
@@ -36,24 +38,24 @@ sections:
       - title: Teilnehmer:innen
         image: images/bootcamp_teilnehmer.jpg
         content: >-
-         Der Teilnehmerkreis besteht aus <b>Teilnehmer:innen des vorausgegangenen Hackathons</b> sowie <b>Startups in der Seed-Phase</b>, die Ideen/Prototypen für technologische / prozessuale Innovationen im Lebensmittelsektor mitbringen. Teams, die noch nicht richtig gestartet sind und Teams, die bereits erfolgreich am Markt etabliert sind, sollen nur in Ausnahmefällen berücksichtigt werden. Die Teams sollen aus <b>Niedersachsen</b> kommen oder möchten sich langfristig in Niedersachsen ansiedeln. ​
+          Der Teilnehmerkreis besteht aus <b>Teilnehmer:innen des vorausgegangenen Hackathons</b> sowie <b>Startups in der Seed-Phase</b>, die Ideen/Prototypen für technologische / prozessuale Innovationen im Lebensmittelsektor mitbringen. Teams, die noch nicht richtig gestartet sind und Teams, die bereits erfolgreich am Markt etabliert sind, sollen nur in Ausnahmefällen berücksichtigt werden. Die Teams sollen aus <b>Niedersachsen</b> kommen oder möchten sich langfristig in Niedersachsen ansiedeln. ​
       - title: Ablauf
         image: images/bootcamp_ablauf.jpg
         content: >-
-         Die Bootcamps werden agil an den Standorten <b>Osnabrück und Quakenbrück</b> durchgeführt.
-         Das Foodtech Bootcamp gliedert sich in <b>drei Themenblöcke</b>:
-         <br>
-         <br><b>Teil 1:</b> Kennenlernen der Teilnehmer:innen, Entwicklung der Geschäftsidee unter anderem mit 1:1 Beratungen durch Expert:innen und Trainings zu Rhetorik und Story Telling 
-         <br><b>Teil 2:</b> Zugang zu Technologien im DIL Technikum, um eine Produktidee oder einen Prozess rund um das Lebensmittel zu testen, zu entwickeln oder zu optimieren
-         <br><b>Teil 3:</b> Abschluss mit einer Pitch Präsentation vor potenziellen Kund:innen, Lieferant:innen und Geschäftspartner:innen zur Geschäftsanbahnung
-         <br>
-         <br>Um eine bestmögliche Betreuung zu gewährleisten, wird im Vorfeld des Bootcamps eine Befragung durchgeführt, auf dessen Grundlage <b>ein individualisiertes Programm für das jeweilige Startup</b> ausgerichtet wird. So werden die teilnehmenden Startups entweder verstärkt auf Produkt- oder auf Marktseite unterstützt.
-    
-      - title: Anmeldung
+          Die Bootcamps werden agil an den Standorten <b>Osnabrück und Quakenbrück</b> durchgeführt.
+          Das Foodtech Bootcamp gliedert sich in <b>drei Themenblöcke</b>:
+          <br>
+          <br><b>Teil 1:</b> Kennenlernen der Teilnehmer:innen, Entwicklung der Geschäftsidee unter anderem mit 1:1 Beratungen durch Expert:innen und Trainings zu Rhetorik und Story Telling 
+          <br><b>Teil 2:</b> Zugang zu Technologien im DIL Technikum, um eine Produktidee oder einen Prozess rund um das Lebensmittel zu testen, zu entwickeln oder zu optimieren
+          <br><b>Teil 3:</b> Abschluss mit einer Pitch Präsentation vor potenziellen Kund:innen, Lieferant:innen und Geschäftspartner:innen zur Geschäftsanbahnung
+          <br>
+          <br>Um eine bestmögliche Betreuung zu gewährleisten, wird im Vorfeld des Bootcamps eine Befragung durchgeführt, auf dessen Grundlage <b>ein individualisiertes Programm für das jeweilige Startup</b> ausgerichtet wird. So werden die teilnehmenden Startups entweder verstärkt auf Produkt- oder auf Marktseite unterstützt.
+
+      - title: Bewerbung
         image: images/SVG/undraw_subscriber.svg
         content: >-
-          <button data-tf-popup="ecJduy45" data-tf-iframe-props="title=Bewerbung Bootcamp" data-tf-medium="snippet" style="background: #b99700;border-radius: 3px;border: 2px solid #b99700;box-sizing: border-box;color: #fff;display: inline-block;font-size: 16px;height: 2.5em;line-height: 1.5;padding: 0.5em 30px;-webkit-transition: opacity 0.15s ease-in-out;transition: opacity 0.15s ease-in-out;font-size: 16px;padding: 0.25em 15px;">Hier Anmelden</button><script src="//embed.typeform.com/next/embed.js"></script>
-        
+          <button data-tf-popup="ecJduy45" data-tf-iframe-props="title=Bewerbung Bootcamp" data-tf-medium="snippet" style="background: #b99700;border-radius: 3px;border: 2px solid #b99700;box-sizing: border-box;color: #fff;display: inline-block;font-size: 16px;height: 2.5em;line-height: 1.5;padding: 0.5em 30px;-webkit-transition: opacity 0.15s ease-in-out;transition: opacity 0.15s ease-in-out;font-size: 16px;padding: 0.25em 15px;">Jetzt bewerben!</button><script src="//embed.typeform.com/next/embed.js"></script>
+
   - section_id: ansprechpartner
     component: features_block.html
     type: featuresblock
@@ -62,10 +64,11 @@ sections:
     subtitle: >-
 
     featureslist:
-      - title: 
+      - title:
         image: images/Johann.jpg
         content: >-
           Johann Rottmann <br><br> E-Mail: johann@seedhouse.de <br><br> Tel.: Tel.: 0160 95453630
 
 layout: features
 ---
+

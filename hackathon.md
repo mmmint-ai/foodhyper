@@ -51,7 +51,7 @@ sections:
         content: >-
          Die Anmeldung zum Hackathon erfolgt über <a href="https://www.eventbrite.de/e/219843336337">Eventbrite</a>. Wir freuen uns über deine Teilnahme!
         actions:
-          - label: Anmeldung
+          - label: Jetzt anmelden!
             url: https://www.eventbrite.de/e/219843336337
       
   - section_id: ansprechpartner

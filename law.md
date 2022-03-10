@@ -13,7 +13,7 @@ sections:
       <br>
       <br>
 
-      <button data-tf-popup="Ot6oP0VY" data-tf-iframe-props="title=Bewerbung zur lebensmittelrechtlichen Sprechstunde" style="background:  #2c2f3b;color: #FFFFFF !important;height: auto !important;border-radius: 3px;border: 2px solid #b99700;box-sizing: border-box;color: #fff;display: inline-block;font-size: 16px;height: 2.5em;line-height: 1.5;padding: 0.5em 30px;-webkit-transition: opacity 0.15s ease-in-out;transition: opacity 0.15s ease-in-out;font-size: 16px;padding-bottom: 0.625em;padding-top: 0.625em;">Jetzt anmelden!</button><script src="//embed.typeform.com/next/embed.js"></script>
+      <button data-tf-popup="Ot6oP0VY" data-tf-iframe-props="title=Bewerbung zur lebensmittelrechtlichen Sprechstunde" style="background:  #2c2f3b;color: #FFFFFF !important;height: auto !important;border-radius: 3px;border: 2px solid #b99700;box-sizing: border-box;color: #fff;display: inline-block;font-size: 16px;height: 2.5em;line-height: 1.5;padding: 0.5em 30px;-webkit-transition: opacity 0.15s ease-in-out;transition: opacity 0.15s ease-in-out;font-size: 16px;padding-bottom: 0.625em;padding-top: 0.625em;">Jetzt bewerben!</button><script src="//embed.typeform.com/next/embed.js"></script>
   - section_id: Law
     component: features_block.html
     type: featuresblock
