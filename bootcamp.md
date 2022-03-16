@@ -27,33 +27,60 @@ sections:
         image: images/SVG/undraw_education.svg
         content: >-
           Wie bündelt man die gesamte Stärke des <b>Food-Clusters aus Niedersachsen</b> in einer Woche? 
-          Indem Startups und ambitionierte Teams innerhalb kürzester Zeit <b>Zugang zur hochtechnologischen Infrastruktur</b> und zum <b>Know-How</b> des Deutschen Instituts für Lebensmitteltechnik erhalten und von den Startup-Erfahrungen und dem Netzwerk des Seedhouse und der darum versammelten 32 Unternehmen aus der gesamten Lebernsmittelwertschöpfungskette profitieren.
+          Indem Startups und ambitionierte Teams innerhalb kürzester Zeit <b>Zugang zur hochtechnologischen Infrastruktur</b> und zum <b>Know-How</b> des Deutschen Instituts für Lebensmitteltechnik erhalten und von den Startup-Erfahrungen und dem Netzwerk des Seedhouse und der darum versammelten 32 Unternehmen aus der gesamten Lebensmittelwertschöpfungskette profitieren.
           <br>Das erste Bootcamp wird vom <b>09. – 13. Mai 2022 beim Seedhouse in Osnabrück und DIL in Quakenbrück</b> stattfinden.
-      - title: Ziele
+      - title: Benefits
         image: images/bootcamp_ziele.jpg
         content: >-
-          Die Teilnehmer:innen der Bootcamps erhalten maßgeschneiderte und individualisierte Angebote, die es ermöglichen, <b>bestehende technologische Ansätze weiterzuentwickeln und zu validieren.</b> 
-          Gleichzeitig werden die Grundlagen zur <b>Entwicklung eines Geschäftsmodells und zur Kommerzialisierung der Idee</b> vermittelt. Alle Teilnehmer:innen werden im Nachgang des Bootcamps durch das Seedhouse und durch das DIL betreut. Angestrebt wird hierbei die <b>konstante Vernetzung der Teilnehmer:innen</b> mit dem Ziel der Gründung oder Ansiedlung in <b>Niedersachsen</b>.
+          Als Teilnehmer:in des Bootcamps profitierst du von:
+
+           - einem individualisierten Input-Angebot
+           - Unterstützung in der Konkretisierung des Geschäftsmodells sowie der Kommerzialisierung
+           - Zugang zu der hochtechnologischen Infrastruktur und dem Knowhow des DIL
+           - einer wertvollen Vernetzung in der regionalen Food-Branche
+           - einer nachhaltigen und langfristigen Betreuung durch das Seedhouse und das DIL
+           - einer kostenfreien Unterbringung und Verpflegung
+
+             Und das alles in nur einer Woche!
       - title: Teilnehmer:innen
         image: images/bootcamp_teilnehmer.jpg
         content: >-
-          Der Teilnehmerkreis besteht aus <b>Teilnehmer:innen des vorausgegangenen Hackathons</b> sowie <b>Startups in der Seed-Phase</b>, die Ideen/Prototypen für technologische / prozessuale Innovationen im Lebensmittelsektor mitbringen. Teams, die noch nicht richtig gestartet sind und Teams, die bereits erfolgreich am Markt etabliert sind, sollen nur in Ausnahmefällen berücksichtigt werden. Die Teams sollen aus <b>Niedersachsen</b> kommen oder möchten sich langfristig in Niedersachsen ansiedeln. ​
+          Der Teilnehmerkreis besteht aus: 
+           - Teams oder Startups:
+             - in der Seed-Phase, die Ideen/ Prototypen für technologische/ prozessuale Innovationen im Lebensmittelsektor mitbringen
+             - mit Teilnehmer:innen des vorausgegangenen Hackathons
+
       - title: Ablauf
         image: images/bootcamp_ablauf.jpg
         content: >-
-          Die Bootcamps werden agil an den Standorten <b>Osnabrück und Quakenbrück</b> durchgeführt.
-          Das Foodtech Bootcamp gliedert sich in <b>drei Themenblöcke</b>:
+          Das erste Bootcamp wird im Zeitraum der Woche vom <b>9.-13. Mai 2022</b> an den Standorten <b>Seedhouse (Osnabrück)</b> und dem <b>DIL (Quakenbrück)</b> durchgeführt. 
+          Mit dem folgenden Programm werden (eure) Ideen/ Innovationen auf das nächste Level gebracht:
           <br>
-          <br><b>Teil 1:</b> Kennenlernen der Teilnehmer:innen, Entwicklung der Geschäftsidee unter anderem mit 1:1 Beratungen durch Expert:innen und Trainings zu Rhetorik und Story Telling 
-          <br><b>Teil 2:</b> Zugang zu Technologien im DIL Technikum, um eine Produktidee oder einen Prozess rund um das Lebensmittel zu testen, zu entwickeln oder zu optimieren
-          <br><b>Teil 3:</b> Abschluss mit einer Pitch Präsentation vor potenziellen Kund:innen, Lieferant:innen und Geschäftspartner:innen zur Geschäftsanbahnung
+          <br><b>Montag</b> <i>Network I</i> Kennenlernen, Networking, Input Förderung, gemeinsamer Grillabend der Teilnehmer:innen 
+          <br><b>Dienstag:</b> <i>Work I</i> individualisierte Input-Session (zu möglichen Themen wie Förderung, Marketing, Storytelling, Produktentwicklung, Investment u.v.m.), Pitch-Vorbereitung mit Mentoren
+          <br><b>Mittwoch:</b> :<i>Research I</i> individuelle Produktberatung mit Experten des DIL, Transfer
+          <br><b>Donnerstag:</b> : <i>Production I</i> Experimente und Produktion zur Entwicklung und Optimierung der Produktidee, Transfer
+          <br><b>Freitag:</b> : <i>Traction I</i> individuelle Hilfestellungen, Business Speed-Dating, Pitch-Event mit Verkostung 
           <br>
-          <br>Um eine bestmögliche Betreuung zu gewährleisten, wird im Vorfeld des Bootcamps eine Befragung durchgeführt, auf dessen Grundlage <b>ein individualisiertes Programm für das jeweilige Startup</b> ausgerichtet wird. So werden die teilnehmenden Startups entweder verstärkt auf Produkt- oder auf Marktseite unterstützt.
+          <br>Um eine bestmögliche Betreuung zu gewährleisten, wird im Vorfeld des Bootcamps eine Befragung durchgeführt, auf dessen Grundlage <b>ein individualisiertes Programm für das jeweilige Startup</b> ausgerichtet wird.
 
       - title: Bewerbung
         image: images/SVG/undraw_subscriber.svg
         content: >-
-          <button data-tf-popup="ecJduy45" data-tf-iframe-props="title=Bewerbung Bootcamp" data-tf-medium="snippet" style="background: #b99700;border-radius: 3px;border: 2px solid #b99700;box-sizing: border-box;color: #fff;display: inline-block;font-size: 16px;height: 2.5em;line-height: 1.5;padding: 0.5em 30px;-webkit-transition: opacity 0.15s ease-in-out;transition: opacity 0.15s ease-in-out;font-size: 16px;padding: 0.25em 15px;">Jetzt bewerben!</button><script src="//embed.typeform.com/next/embed.js"></script>
+          Die Bewerbung erfolgt über das <a href="https://form.typeform.com/to/ecJduy45" target="_blank">Online-Formular</a> . Das Bewerbungsfenster ist <b>ab sofort bis zum 31.03.22</b> geöffnet. 
+          Nach Ablauf der Bewerbungsfrist prüft eine fachkundige Jury alle eingegangenen Bewerbungen.
+          <br>
+          <br>
+
+          Die Teilnehmer:innen werden anhand der folgenden Kriterien ausgewählt:
+
+          - Innovationsgrad der Idee (im Bereich FoodTech)
+
+          - Grad an Klarheit und Umsetzbarkeit der Vision
+
+          - technisches und/oder kaufmännisches Knowhow
+
+          - Wettbewerbsperspektive
 
   - section_id: ansprechpartner
     component: features_block.html

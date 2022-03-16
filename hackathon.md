@@ -31,29 +31,76 @@ sections:
       - title: Ziele
         image: images/hackathon_ziele.jpeg
         content: >-
-         Auf den Food-Hackathons werden die Teilnehmer:innen <b>zwei unterschiedliche Arten von Herausforderungen</b> begegnen.
-         <br><br>Zum einen wird es <b>konkrete Challenges</b> geben, die als tatsächliche Herausforderung in der Arbeit des Unternehmens oder der Institutionen aufgekommen sind. Praktische Lösungen werden mit einem Businessplan versehen. Ziel dieser Challenges ist es Teams zu schmieden, die auf dem Weg zu einer konkreten Lösung begleitet werden.
-         <br><br>Zum anderen wird es <b>technologische und strukturelle Herausforderungen</b> geben, denen sich aktuell viele Unternehmen der Lebensmittelwirtschaft stellen müssen. Ziel dieser Challenges ist es innovative Lösungen in Form von technischen Lösungen oder neue Geschäftsmodelle durch die Teams zu erarbeiten. Diese Challenges richten sich aufgrund ihres Umfangs <b>vornehmlich an erfahrenere Teilnehmer:innen oder bestehende Startups.</b>
+          - Bearbeitung von Challenges, die als tatsächliche Herausforderung in der Arbeit des Unternehmens oder der Institution aufgekommen sind
+
+          - Begleitung der Teams auf dem Weg zu einer konkreten Lösung
+
+          - innovative Lösungsfindung in Form von technischen Lösungen oder neuen Geschäftsmodellen
       - title: Zielgruppe
         image: images/hackathon_zielgruppe.jpg
         content: >-
-          <b>Bestehende Teams oder Startups</b>, die zum Teil auch schon  <b>eigene Ideen oder Ansätze</b> mitbringen, wollen die Infrastruktur des Hackathons nutzen, um die eigenen Ideen  <b>weiterzuentwickeln und als Team enger zusammenzuwachsen.</b> 
-          Einzelne Teilnehmer:innen interessieren sich häufig vor allem für die  <b>Lösung von Challenges</b> und das  <b>Arbeiten an konkreten Herausforderungen.</b> Beide Zielgruppen haben unterschiedliche Bedürfnisse und profitieren auf unterschiedliche Weise von dem angebotenen Programm und der Unterstützung.​
+          - Bestehende Teams oder Startups
+            - mit zum Teil eigenen Ideen oder Ansätzen, die mit Hilfe der Infrastruktur des Hackathons weiterentwickelt werden
+
+          - Einzelne Teilnehmer:innen
+      - title: Das bringt dir die Teilnahme am Hackathon
+        image: images/hackathon_zielgruppe.jpg
+        content: >-
+          - Ausbau des eigenen Netzwerkes
+
+          - Kontakte zu etablierten Unternehmen und Startups aus dem Food-Bereich
+
+          - Chance auf die weitere Begleitung zur Umsetzung durch Agri-Acceleration-Programme
+
+          - Unterstützung durch Mentoren
+
+          - Teilnahmezertifikat
       - title: Ablauf
         image: images/hackathon_ablauf.jpg
         content: >-
-         Der Hackathon dauert ca.  <b>36 Stunden.</b> Erfahrungsgemäß bestehen die Teilnehmer:innen an Hackathons entweder aus  <b>bereits bestehenden Teams</b> oder aus  <b>Einzelpersonen </b>. Die Veranstaltung teilt sich organisatorisch in drei Teile ein: 
-         <br><b>Teil 1 Kick-Off:</b> Zusammenstellung der Teams, Vergabe der Challenges und Vorbereitung auf das Hacking
-         <br><b>Teil 2 Hacking:</b>  Bearbeitung der Challenges gemeinsam mit den Challenge-Gebern, Vorbereitung auf die finale Ergebnispräsentation  
-         <br><b>Teil 3 Abschluss:</b>  Prämierung aller erarbeiteten Lösungen, Vernetzung der Teilnehmer:innen untereinander und mit anderen Akteur:innen des Niedersächsischen Food-Startup Ökosystems.
+          Der Hackathon dauert insgesamt 28 Stunden, davon sind 22,5 Stunden reines Hacking.
+
+          - Kickoff
+
+          - Hacking
+
+          - Pitch Building
+
+          - Awarding
       - title: Anmeldung
         image: images/SVG/undraw_subscriber.svg
         content: >-
-         Die Anmeldung zum Hackathon erfolgt über <a href="https://www.eventbrite.de/e/219843336337">Eventbrite</a>. Wir freuen uns über deine Teilnahme!
+          Die Anmeldung zum Hackathon erfolgt über <a href="https://www.eventbrite.de/e/219843336337">Eventbrite</a>. Wir freuen uns über deine Teilnahme!
         actions:
           - label: Jetzt anmelden!
             url: https://www.eventbrite.de/e/219843336337
-      
+
+  - section_id: faq
+    component: faq_block.html
+    type: faqblock
+    bg: gray
+    title: Häufig gestelle Fragen
+    subtitle: FAQ
+    faqitems:
+      - question: Was ist ein Hackathon?
+        answer: >-
+          Hackathons sind ein etabliertes Mittel zur Entwicklung neuer Lösungsansätze und bieten durch den offenen Ansatz einen leichten Zugang für interessierte Teilnehmer:innen sowie Stakeholder.
+      - question: Wie lange dauert der Hackathon?
+        answer: >-
+          Der Hackathon dauert insgesamt 28 Stunden. Davon werden 22,5 Stunden dem reinen Hacking zugeschrieben.
+      - question: Wie läuft ein Hackathon ab?
+        answer: >-
+          <b>1. Kick-Off:</b> Zusammenstellen der Teams, Vergabe der Challenges und Vorbereitung auf das Hacking<br>
+          <b>2. Hacking:</b> Bearbeitung der Challenges gemeinsam mit Challenge-Gebern<br>
+          <b>3. Abschluss:</b> Prämierung aller erarbeiteten Lösungen  <br>
+      - question: Wer kann am Hackathon teilnehmen?
+        answer: >-
+          Willkommen ist jeder Interessierte der Food-Branche, insbesondere Programmierer:innen und Ingenieur:innen sowie Studierende in den Bereichen Lebensmitteltechnik, Prozessmanagement und Technik.
+      - question: Was kostet die Teilnahme?
+        answer: >-
+          Die Teilnahme am Hackathon ist kostenlos!
+           
+
   - section_id: ansprechpartner
     component: features_block.html
     type: featuresblock
@@ -62,10 +109,11 @@ sections:
     subtitle: >-
 
     featureslist:
-    - title:
-      image: images/Felix.jpg
-      content: >-
-        Felix Willert <br><br> E-Mail: felix@innovate-os.de <br><br> Tel.: 0541 50798526
-  
+      - title:
+        image: images/Felix.jpg
+        content: >-
+          Felix Willert <br><br> E-Mail: felix@innovate-os.de <br><br> Tel.: 0541 50798526
+
 layout: features
 ---
+
