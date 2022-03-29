@@ -55,7 +55,7 @@ sections:
           <br><b>Montag:</b> <i>Network I</i> Kennenlernen, Networking, Input Förderung, gemeinsamer Grillabend der Teilnehmer:innen 
           <br><b>Dienstag:</b> <i>Work I</i> individualisierte Masterclasses und Workshops zu den Themen: Food-Legal / Novel Food, Netzwerk Marketing, Storytelling, Produktentwicklung, Investment, VC und Business Angels u.v.m. mit Mentoren 
           <br><b>Mittwoch:</b> <i>Research I</i> individuelle Produktberatung mit Experten des DIL, Transfer (für Ideen/Produkte ohne Technologiekomponente besteht ein Alternativprogramm im Seedhouse oder es ist ein Pausetag möglich)
-          <br><b>Donnerstag:</b><i>Production I</i> Experimente und Produktion zur Entwicklung und Optimierung der Produktidee, Transfer (für Ideen/Produkte ohne Technologiekomponente besteht ein Alternativprogramm im Seedhouse oder es ist ein Pausetag möglich)
+          <br><b>Donnerstag:</b> <i>Production I</i> Experimente und Produktion zur Entwicklung und Optimierung der Produktidee, Transfer (für Ideen/Produkte ohne Technologiekomponente besteht ein Alternativprogramm im Seedhouse oder es ist ein Pausetag möglich)
           <br><b>Freitag:</b> <i>Traction I</i> individuelle Hilfestellungen, Business Speed-Dating, Pitch-Event mit anschließender Verkostung vor Geschäftsführern und Managern von namenhaften Unternehmen aus dem Foodbereich, wertvolles Feedback bei anschließendem Netzwerken 
           <br>
           <br>Um eine bestmögliche Betreuung zu gewährleisten, wird im Vorfeld des Bootcamps eine Befragung durchgeführt, auf dessen Grundlage <b>ein individualisiertes Programm für das jeweilige Startup</b> ausgerichtet wird.
