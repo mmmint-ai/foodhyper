@@ -10,7 +10,7 @@ sections:
     image: images/logo.png
     title: FoodHyper
     content: >-
-      Wir haben uns zum Ziel gesetzt, die Akteur:innen der niedersächsischen Food-Gründerszene stärker miteinander zu vernetzen und technologische Innovationen in der Lebensmittelbranche zu fördern.
+      Wir haben uns zum Ziel gesetzt den <b>Standort Niedersachsen für Food-Startups attraktiver</b> zu machen, die Akteurinnen der niedersächsischen Food-Gründerszene stärker miteinander zu vernetzen und technologische Innovationen in der Lebensmittelbranche zu fördern.
      
       <br>
       <br>
