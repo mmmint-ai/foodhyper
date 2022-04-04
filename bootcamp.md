@@ -13,8 +13,6 @@ sections:
       <br>
       <br>
 
-      <button data-tf-popup="ecJduy45" data-tf-iframe-props="title=Bewerbung Bootcamp" data-tf-medium="snippet" style="background:#2c2f3b;color: #FFFFFF !important;height: auto !important;border-radius: 3px;border: 2px solid #b99700;box-sizing: border-box;color: #fff;display: inline-block;font-size: 16px;height: 2.5em;line-height: 1.5;padding: 0.5em 30px;-webkit-transition: opacity 0.15s ease-in-out;transition: opacity 0.15s ease-in-out;font-size: 16px;padding-bottom: 0.625em;padding-top: 0.625em;">Jetzt bewerben!</button><script src="//embed.typeform.com/next/embed.js"></script>
-
   - section_id: Bootcamp
     component: features_block.html
     type: featuresblock
@@ -63,20 +61,7 @@ sections:
       - title: Bewerbung
         image: images/SVG/undraw_subscriber.svg
         content: >-
-          Die Bewerbung erfolgt über das <a href="https://form.typeform.com/to/ecJduy45" target="_blank">Online-Formular</a> . Das Bewerbungsfenster ist <b>ab sofort bis zum 03.04.22</b> geöffnet. 
-          Nach Ablauf der Bewerbungsfrist prüft eine fachkundige Jury alle eingegangenen Bewerbungen.
-          <br>
-          <br>
-
-          Die Teilnehmer:innen werden anhand der folgenden Kriterien ausgewählt:
-
-          - Innovationsgrad der Idee (im Bereich FoodTech)
-
-          - Grad an Klarheit und Umsetzbarkeit der Vision
-
-          - technisches und/oder kaufmännisches Knowhow
-
-          - Wettbewerbsperspektive
+          Das Bewerbungsfenster für das 1. Bootcamp im Mai ist bereits geschlossen. Gerne könnt ihr euch demnächst für unser <b>2. Bootcamp im Oktober</b> bewerben.
 
   - section_id: ansprechpartner
     component: features_block.html
