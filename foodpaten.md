@@ -63,24 +63,6 @@ sections:
           <p> <b>LinkedIn-Profil Accelerator:</b><br> <a href="https://www.linkedin.com/company/snic-life-science-accelerator/" target="_blank"> linkedin.com/company/snic-life-science-accelerator/</a>  </p>
 
           <p> <img class="footpate-img" src="/images/foodpaten/logos/Logo_LSA.png" alt="SNIC" /> </p>
-      - image: images/foodpaten/Julian.jpg
-        description: >-
-          <br>
-
-          <p> <b>Name:</b> <br> Julian Räke </p>
-
-          <p> <b>Organisation/Unternehmen:</b> <br>  Braunschweig Zukunft GmbH  </p>
-
-          <p> <b>Anschrift:</b> <br>  Sack 17, 38100 Braunschweig   </p>
-
-          <p class="about-me"> <b>Über mich:</b> <br>  Seit 2 Jahren bin ich Projektleiter der Start-up Programme MO.IN (Mobilität und Innovation) und W.IN (Wachstum und Innovation) in Braunschweig. Mit dem MO.IN begleiten wir Start-ups in der frühen Phase (Pre-Seed) und  mit dem Accelerator W.IN unterstützten wir innovative Start-ups in der Wachstumsphase. Ein Netzwerk aus Institutionen und erfahrenen Unternehmern aus Braunschweig und der Region bietet den jungen Firmen in beiden Programmen kompetente Betreuung und Zugang zu wertvollen Kontakten, um Kooperationen und strategische Partnerschaften zu knüpfen um den Markteintritt zu meistern oder sich zu sich am Markt zu etablieren.</p>
-
-          <p> <b>Email:</b><br> <a href="mailto:Julian.raeke@braunschweig.de">Julian.raeke@braunschweig.de</a></p>
-
-          <p> <b>Telefonnummer:</b><br>   0531-4703449 </p>
-
-          <p> <img class="footpate-img" src="/images/foodpaten/logos/Braunschweig.jpg" alt="Braunschweig" /> </p>
-
       - image: images/foodpaten/Juliane und Hemant 2021_Lukas Campen.jpg
         description: >-
           <br>
