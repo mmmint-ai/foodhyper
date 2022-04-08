@@ -47,7 +47,5 @@ Zum Ablauf:
  
 Stattfinden wir das ganze an zwei Standorten: dem Seedhouse Accelerator in Osnabrück und dem DIL in Quakenbrück.
 
- 
 
-Bewerbungen werden noch bis Sonntag, den 03. April angenommen.
 

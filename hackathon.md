@@ -9,10 +9,11 @@ sections:
     image: images/logo.png
     title: Hackathon
     content: >-
-      Der erste Hackathon wird <b>am 21. – 22. April 2022 in Osnabrück</b> stattfinden.
+      Der erste Hackathon wird <b>am 21. – 22. April 2022 in Osnabrück im Alando Palais</b> stattfinden.
     actions:
       - label: Jetzt anmelden!
         url: https://www.eventbrite.de/e/219843336337"
+
         customClass: blueButton
   - section_id: feature
     component: features_block.html
@@ -58,7 +59,7 @@ sections:
       - title: Ablauf
         image: images/hackathon_ablauf.jpg
         content: >-
-          Der Hackathon dauert insgesamt 28 Stunden, davon sind 22,5 Stunden reines Hacking.
+          Der Hackathon startet am Donnerstag, den 21.04.2022 um 15:00 Uhr und dauert insgesamt 28 Stunden. Davon sind 22,5 Stunden reines Hacking.
 
           - Kickoff
 
@@ -99,6 +100,12 @@ sections:
       - question: Was kostet die Teilnahme?
         answer: >-
           Die Teilnahme am Hackathon ist kostenlos!
+      - question: Wann startet der Hackathon?
+        answer: >-
+          Das Programm vom Hackathon startet am 21.04.2022 um 15:00 Uhr. Ab 14:00 Uhr könnt ihr euch bereits in der Location einfinden.
+      - question: Wo findet der Hackathon statt? 
+        answer: >-
+          Der Hackathon findet im Alando Palais statt. Adresse: Alando Gastro GmbH, Pottgraben 58-60, 49074 Osnabrück
            
 
   - section_id: ansprechpartner

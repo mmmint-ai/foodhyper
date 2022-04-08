@@ -9,7 +9,7 @@ sections:
     image: images/logo.png
     title: Bootcamp
     content: >-
-      Das erste Bootcamp wird vom <b>09. – 13. Mai 2022 beim Seedhouse in Osnabrück und DIL in Quakenbrück</b> stattfinden. Die Bewerbung ist noch bis zum 3. April 2022 möglich.
+      Das erste Bootcamp wird vom <b>09. – 13. Mai 2022 beim Seedhouse in Osnabrück und DIL in Quakenbrück</b> stattfinden.
       <br>
       <br>
 
