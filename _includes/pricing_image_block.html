@@ -1,0 +1,40 @@
+<section
+  id="{{ include.section.section_id }}"
+  class="block inner pricing-block-{{ include.section.density | default: "dense" }} bg-{{ include.section.bg }} outer"
+>
+
+<div class="block-header inner-medium">
+    <h2 class="block-title-image">{{ include.section.title }}</h2>
+    {% assign subtitle_is_not_empty = include.section.subtitle | is_not_empty %}
+    {% if subtitle_is_not_empty %}
+    <p class="block-subtitle">{{ include.section.subtitle }}</p>
+    {% endif %}
+  </div>
+
+  <div class="pricing-grid">
+    {% for plan in include.section.pricingplans %}
+    <div
+      class="cell plan-{{ include.section.density | default: "dense" }} plan{% assign highlight_is_not_empty = plan.highlight | is_not_empty %}{% if highlight_is_not_empty %} highlight{% endif %}"
+    >
+      <div class="plan-inside">
+        
+		<a target="_blank" href="{{ plan.link }}">
+			<img
+			class="plan-image"
+			src="{{ plan.image | relative_url }}"
+			alt="{{ plan.title }}"
+			/>
+		</a>
+
+		<h6 class="plan-title">{{ plan.title }}</h6>
+
+      </div>
+      <!-- .plan-inside -->
+    </div>
+    <!-- .cell -->
+
+    {% endfor %}
+  </div>
+  <!-- .grid -->
+</section>
+<!-- .block -->

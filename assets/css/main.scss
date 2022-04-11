@@ -351,3 +351,10 @@ $palette: (
 .no-object-fit {
 	object-fit: none;
 }
+
+.pricing-grid {
+	display: flex;
+	align-items: center;
+	justify-content: space-evenly;
+	flex-wrap: wrap;
+}

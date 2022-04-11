@@ -68,14 +68,51 @@ sections:
           - Pitch Building
 
           - Awarding
-      - title: Anmeldung
-        image: images/SVG/undraw_subscriber.svg
-        content: >-
+          
+  - section_id: pricing
+    component: pricing_image_block.html
+    type: pricingblock
+    bg: gray
+    title: Challenges
+    subtitle:
+    pricingplans:
+      - title: Frudist
+        image: images/pdf.png
+        link: /documents/Frudist.pdf
+        highlight: true
+      - title: Circular Economy
+        image: images/pdf.png
+        link: /documents/Circular Economy.pdf
+        highlight: true
+      - title: High Pressure Processing
+        image: images/pdf.png
+        link: /documents/High Pressure Processing.pdf
+        highlight: true
+      - title: Next Generation of Heating
+        image: images/pdf.png
+        link: /documents/Next Generation of Heating.pdf
+        highlight: true
+      - title: Wertschöpfungsketten im Umbruch
+        image: images/pdf.png
+        link: /documents/Wertschöpfungsketten im Umbruch.pdf
+        highlight: true
+        
+  - section_id: feature
+    component: features_block.html
+    type: featuresblock
+    bg: gray
+    title: 
+    subtitle: >-
+
+    featureslist:
+    - title: Anmeldung
+      image: images/SVG/undraw_subscriber.svg
+      content: >-
           Die Anmeldung zum Hackathon erfolgt über <a href="https://www.eventbrite.de/e/219843336337">Eventbrite</a>. Wir freuen uns über deine Teilnahme!
-        actions:
+      actions:
           - label: Jetzt anmelden!
             url: https://www.eventbrite.de/e/219843336337
-
+     
   - section_id: faq
     component: faq_block.html
     type: faqblock
@@ -103,7 +140,7 @@ sections:
       - question: Wann startet der Hackathon?
         answer: >-
           Das Programm vom Hackathon startet am 21.04.2022 um 15:00 Uhr. Ab 14:00 Uhr könnt ihr euch bereits in der Location einfinden.
-      - question: Wo findet der Hackathon statt? 
+      - question: Wo findet der Hackathon statt?
         answer: >-
           Der Hackathon findet im Alando Palais statt. Adresse: Alando Gastro GmbH, Pottgraben 58-60, 49074 Osnabrück
            
@@ -123,4 +160,3 @@ sections:
 
 layout: features
 ---
-
