@@ -96,6 +96,10 @@ sections:
         image: images/pdf.png
         link: /documents/Wertschöpfungsketten im Umbruch.pdf
         highlight: true
+      - title: Review Analyse
+        image: images/pdf.png
+        link: /documents/Review Analyse.pdf
+        highlight: true
         
   - section_id: feature
     component: features_block.html
