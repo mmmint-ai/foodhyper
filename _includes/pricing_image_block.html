@@ -12,26 +12,30 @@
   </div>
 
   <div class="pricing-grid">
-    {% for plan in include.section.pricingplans %}
-    <div
-      class="cell plan-{{ include.section.density | default: "dense" }} plan{% assign highlight_is_not_empty = plan.highlight | is_not_empty %}{% if highlight_is_not_empty %} highlight{% endif %}"
-    >
-      <div class="plan-inside">
-        
-		<a target="_blank" href="{{ plan.link }}">
-			<img
-			class="plan-image"
-			src="{{ plan.image | relative_url }}"
-			alt="{{ plan.title }}"
-			/>
-		</a>
+	{% for plan in include.section.pricingplans %}
+	<a target="_blank" href="{{ plan.link }}">
+		<div
+		class="cell plan-{{ include.section.density | default: "dense" }} plan{% assign highlight_is_not_empty = plan.highlight | is_not_empty %}{% if highlight_is_not_empty %} highlight{% endif %}"
+		>
+		<div class="plan-inside">
+			
+			
+				<img
+				class="plan-image"
+				src="{{ plan.image | relative_url }}"
+				alt="{{ plan.title }}"
+				/>
+			
 
-		<h6 class="plan-title">{{ plan.title }}</h6>
+			<h5 class="plan-title">{{ plan.description }}</h5>
+			<h4 class="plan-title">{{ plan.company }}</h4>
+			<h6 class="plan-title">{{ plan.hashtags }}</h6>
 
-      </div>
-      <!-- .plan-inside -->
-    </div>
-    <!-- .cell -->
+		</div>
+		<!-- .plan-inside -->
+		</div>
+		<!-- .cell -->
+	</a>
 
     {% endfor %}
   </div>

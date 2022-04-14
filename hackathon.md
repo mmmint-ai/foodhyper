@@ -76,28 +76,40 @@ sections:
     title: Challenges
     subtitle:
     pricingplans:
-      - title: Frudist
-        image: images/pdf.png
+      - description: Neue Anwendungsbereiche für nachhaltig erzeugtes, getrocknetes Obst und Gemüse
+        company: Frudist
+        hashtags: "#business #product #startup"
+        image: images/challenges/frudist.jpg
         link: /documents/Frudist.pdf
         highlight: true
-      - title: Circular Economy
-        image: images/pdf.png
+      - description: Circular Economy – Nutzung von Nebenströmender Lebensmittelwertschöpfungskette
+        company: DIL Deutsches Institut für Lebensmitteltechnik e.V.
+        hashtags: "#product #science"
+        image: images/challenges/dil.jpg
         link: /documents/Circular Economy.pdf
         highlight: true
-      - title: High Pressure Processing
-        image: images/pdf.png
+      - description: Produktlaunch eines HPP-geeigneten Produkts aus pflanzlichen Proteinen
+        company: Uhde High Pressure Technologies GmbH
+        hashtags: "#product #corporate #protein #business"
+        image: images/challenges/uhde.jpg
         link: /documents/High Pressure Processing.pdf
         highlight: true
-      - title: Next Generation of Heating
-        image: images/pdf.png
+      - description: Next Generation of Heating
+        company: DIL Deutsches Institut für Lebensmitteltechnik e.V.
+        hashtags: "#technology #science #processing"
+        image: images/challenges/dil.jpg
         link: /documents/Next Generation of Heating.pdf
         highlight: true
-      - title: Wertschöpfungsketten im Umbruch
-        image: images/pdf.png
+      - description: Lebensmittelwertschöpfungsketten im Umbruch durch Corona und Krieg
+        company: Team Foodhyper
+        hashtags: "#business #supplychain #open"
+        image: images/challenges/fh.jpg
         link: /documents/Wertschöpfungsketten im Umbruch.pdf
         highlight: true
-      - title: Review Analyse
-        image: images/pdf.png
+      - description: Auswertung der Produktbewertungen aller stock keeping units als Datenbasis für die Produktentwicklung. 
+        company: foodist.de
+        hashtags: "#startup #it #coding"
+        image: images/challenges/foodist.jpg
         link: /documents/Review Analyse.pdf
         highlight: true
         
