@@ -50,8 +50,8 @@ sections:
         image: images/SVG/undraw_subscriber.svg
         content: >-
           Die Bewerbung zur Teilnahme an der geschlossenen Sprechstunde erfolgt mit einer konkreten Fragestellung über den Bewerbungsbogen.<br><br>
-          Der nächste Termin für die geschlossene Sprechstunde findet am <b>30./31. März 2022 (online)</b> statt.<br>
-          <br>Die Bewerbungsfrist endet am <b>22. März 2022</b>.
+          Der nächste Termin für die geschlossene Sprechstunde findet am <b>8. und 9. Juni 2022 (online)</b> statt.<br>
+          <br>Die Bewerbungsfrist endet am <b>31. Mai 2022</b>.
           <br>Nach der Bewerbung nehmen wir mit euch Kontakt auf zur Absprache der Beratungszeit.
           <br>Die Teilnahme an den Veranstaltungen ist kostenlos.
           <br>

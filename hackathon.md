@@ -9,12 +9,7 @@ sections:
     image: images/logo.png
     title: Hackathon
     content: >-
-      Der erste Hackathon wird <b>am 21. – 22. April 2022 in Osnabrück im Alando Palais</b> stattfinden.
-    actions:
-      - label: Jetzt anmelden!
-        url: https://www.eventbrite.de/e/219843336337"
-
-        customClass: blueButton
+      Der erste Hackathon hat <b>am 21. – 22. April 2022 in Osnabrück im Alando Palais</b> stattgefunden. Den Termin für den 2. Hackathon findet ihr bald hier.
   - section_id: feature
     component: features_block.html
     type: featuresblock
@@ -28,7 +23,6 @@ sections:
         content: >-
           Hackathons sind ein etabliertes Mittel zur Entwicklung neuer Lösungsansätze und bieten durch den offenen Ansatz einen leichten Zugang für interessierte Teilnehmer:innen sowie andere Stakeholder. 
           Kombiniert mit einem <b>interaktiven Programm und Unterstützung bei der Teambildung</b> lassen sich <b>Teams mit Potential zur Startup-Gründung bilden</b>. Durch die Einbettung der Hackathons in einen weiteren Entwicklungsprozess mit angeschlossenen Bootcamps und der individuellen Betreuung können gezielt Startups aufgebaut und unterstützt werden.
-          <br>Der erste Hackathon wird <b>am 21. – 22. April 2022 in Osnabrück</b> stattfinden.
       - title: Ziele
         image: images/hackathon_ziele.jpeg
         content: >-
@@ -40,33 +34,38 @@ sections:
       - title: Zielgruppe
         image: images/hackathon_zielgruppe.jpg
         content: >-
-          - Bestehende Teams oder Startups
-            - mit zum Teil eigenen Ideen oder Ansätzen, die mit Hilfe der Infrastruktur des Hackathons weiterentwickelt werden
-
-          - Einzelne Teilnehmer:innen
+          - Visionäre der Food-Branche
+  
+          - Studierende aus Bereichen wie Lebensmitteltechnik, Prozessmanagement, Informatik, BWL uvm.
+  
+          - bestehende Teams oder Startups mit innovativen Ideen im Food(Tech)-Bereich mit eigener Challenge
       - title: Das bringt dir die Teilnahme am Hackathon
         image: images/hackathon_zielgruppe.jpg
         content: >-
           - Ausbau des eigenen Netzwerkes
-
+  
           - Kontakte zu etablierten Unternehmen und Startups aus dem Food-Bereich
-
-          - Chance auf die weitere Begleitung zur Umsetzung durch Agri-Acceleration-Programme
-
+  
+          - Chance auf die weitere Begleitung zur Umsetzung durch Acceleration-Programme
+  
           - Unterstützung durch Mentoren
-
-          - Teilnahmezertifikat
+  
+          - attraktive Preise und ein Teilnahmezertifikat
       - title: Ablauf
         image: images/hackathon_ablauf.jpg
         content: >-
-          Der Hackathon startet am Donnerstag, den 21.04.2022 um 15:00 Uhr und dauert insgesamt 28 Stunden. Davon sind 22,5 Stunden reines Hacking.
-
-          - Kickoff
-
+          Der Hackathon ist in folgende Phasen unterteilt:
+          
+          - Kickoff mit Vorstellung der Challenges
+  
+          - Teamfindung
+  
           - Hacking
-
+  
           - Pitch Building
-
+  
+          - Ergebnispräsentation
+  
           - Awarding
           
   - section_id: pricing
@@ -124,11 +123,8 @@ sections:
     - title: Anmeldung
       image: images/SVG/undraw_subscriber.svg
       content: >-
-          Die Anmeldung zum Hackathon erfolgt über <a href="https://www.eventbrite.de/e/219843336337">Eventbrite</a>. Wir freuen uns über deine Teilnahme!
-      actions:
-          - label: Jetzt anmelden!
-            url: https://www.eventbrite.de/e/219843336337
-     
+          Die Anmeldung zum Hackathon ist hier bald wieder möglich. Wir freuen uns über deine Teilnahme!
+    
   - section_id: faq
     component: faq_block.html
     type: faqblock

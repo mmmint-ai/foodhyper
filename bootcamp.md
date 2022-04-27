@@ -61,7 +61,7 @@ sections:
       - title: Bewerbung
         image: images/SVG/undraw_subscriber.svg
         content: >-
-          Das Bewerbungsfenster für das 1. Bootcamp im Mai ist bereits geschlossen. Gerne könnt ihr euch demnächst für unser <b>2. Bootcamp im Oktober</b> bewerben.
+          Das Bewerbungsfenster für das 1. Bootcamp im Mai ist bereits geschlossen. <b>Gerne könnt ihr euch demnächst für unser 2. Bootcamp im Oktober bewerben.</b> Bewerben können sich Teams und Startups mit innovativen Ideen rund um den Food-(Tech-) Bereich. Die Bewerbung erfolgt online über ein Bewerbungsformular sowie ein Pitch Deck, in dem eure Innovation, deren Umsetzbarkeit und Potential deutlich werden.
 
   - section_id: ansprechpartner
     component: features_block.html
