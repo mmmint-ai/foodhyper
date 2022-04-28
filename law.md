@@ -9,8 +9,11 @@ sections:
     image: images/logo.png
     title: FoodLaw
     content: >-
-      Der nächste Termin für die geschlossene Sprechstunde findet am <b>30. / 31. März 2022 (online)</b> statt.
+      Der nächste Termin für die geschlossene Sprechstunde findet am <b>8. und 9. Juni 2022 (online)</b> statt.
+	  
       <br>
+	  Die Bewerbungsfrist endet am <b>31. Mai 2022.</b>
+	  <br>
       <br>
 
       <button data-tf-popup="Ot6oP0VY" data-tf-iframe-props="title=Bewerbung zur lebensmittelrechtlichen Sprechstunde" style="background:  #2c2f3b;color: #FFFFFF !important;height: auto !important;border-radius: 3px;border: 2px solid #b99700;box-sizing: border-box;color: #fff;display: inline-block;font-size: 16px;height: 2.5em;line-height: 1.5;padding: 0.5em 30px;-webkit-transition: opacity 0.15s ease-in-out;transition: opacity 0.15s ease-in-out;font-size: 16px;padding-bottom: 0.625em;padding-top: 0.625em;">Jetzt bewerben!</button><script src="//embed.typeform.com/next/embed.js"></script>
