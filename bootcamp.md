@@ -47,7 +47,7 @@ sections:
       - title: Ablauf
         image: images/bootcamp_ablauf.jpg
         content: >-
-          Das erste Bootcamp wird im Zeitraum der Woche vom <b>9.-13. Mai 2022</b> an den Standorten <b>Seedhouse (Osnabrück)</b> und, falls ihr eine Technologiekomponente habt, an dem <b>DIL (Quakenbrück)</b> durchgeführt. 
+          Das nächste Bootcamp wird im Zeitraum der Woche vom <b>10.-14. Oktober 2022</b> an den Standorten <b>Seedhouse (Osnabrück)</b> und, falls ihr eine Technologiekomponente habt, an dem <b>DIL (Quakenbrück)</b> durchgeführt. 
           Mit dem folgenden Rahmenprogramm, welches wir vorab mit euch themenspezifisch individualisieren, werden (eure) Ideen/ Innovationen auf das nächste Level gebracht:
           <br>
           <br><b>Montag:</b> <i>Network I</i> Kennenlernen, Networking, Input Förderung, gemeinsamer Grillabend der Teilnehmer:innen 
