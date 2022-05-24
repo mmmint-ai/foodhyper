@@ -9,7 +9,7 @@ sections:
     image: images/logo.png
     title: Bootcamp
     content: >-
-      Das erste Bootcamp wird vom <b>09. – 13. Mai 2022 beim Seedhouse in Osnabrück und DIL in Quakenbrück</b> stattfinden.
+      Das nächste Bootcamp wird vom <b>10. – 14. Oktober 2022 beim Seedhouse in Osnabrück und DIL in Quakenbrück</b> stattfinden.
       <br>
       <br>
 
@@ -47,7 +47,7 @@ sections:
       - title: Ablauf
         image: images/bootcamp_ablauf.jpg
         content: >-
-          Das erste Bootcamp wird im Zeitraum der Woche vom <b>9.-13. Mai 2022</b> an den Standorten <b>Seedhouse (Osnabrück)</b> und, falls ihr eine Technologiekomponente habt, an dem <b>DIL (Quakenbrück)</b> durchgeführt. 
+          Das nächste Bootcamp wird im Zeitraum der Woche vom <b>10.-14. Oktober 2022</b> an den Standorten <b>Seedhouse (Osnabrück)</b> und, falls ihr eine Technologiekomponente habt, an dem <b>DIL (Quakenbrück)</b> durchgeführt. 
           Mit dem folgenden Rahmenprogramm, welches wir vorab mit euch themenspezifisch individualisieren, werden (eure) Ideen/ Innovationen auf das nächste Level gebracht:
           <br>
           <br><b>Montag:</b> <i>Network I</i> Kennenlernen, Networking, Input Förderung, gemeinsamer Grillabend der Teilnehmer:innen 
@@ -61,7 +61,7 @@ sections:
       - title: Bewerbung
         image: images/SVG/undraw_subscriber.svg
         content: >-
-          Das Bewerbungsfenster für das 1. Bootcamp im Mai ist bereits geschlossen. <b>Gerne könnt ihr euch demnächst für unser 2. Bootcamp im Oktober bewerben.</b> Bewerben können sich Teams und Startups mit innovativen Ideen rund um den Food-(Tech-) Bereich. Die Bewerbung erfolgt online über ein Bewerbungsformular sowie ein Pitch Deck, in dem eure Innovation, deren Umsetzbarkeit und Potential deutlich werden.
+          <b>Die Bewerbungsphase für das kommende Bootcamp startet Ende Juni</b> Bewerben können sich Teams und Startups mit innovativen Ideen rund um den Food-(Tech-) Bereich. Die Bewerbung erfolgt online über ein Bewerbungsformular sowie ein Pitch Deck, in dem eure Innovation, deren Umsetzbarkeit und Potential deutlich werden.
 
   - section_id: ansprechpartner
     component: features_block.html
