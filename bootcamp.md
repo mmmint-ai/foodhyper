@@ -72,9 +72,9 @@ sections:
 
     featureslist:
       - title:
-        image: images/Johann.jpg
+        image: 
         content: >-
-          Johann Rottmann <br><br> E-Mail: johann@seedhouse.de <br><br> Tel.: Tel.: 0160 95453630
+          Kerstin Hogrefe <br><br> E-Mail: kerstin@seedhouse.de <br><br> Tel.: 0151 67965973
 
 layout: features
 ---
