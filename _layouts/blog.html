@@ -1,11 +1,20 @@
 ---
 layout: body
 title: Blog
-share-image: images/logo.png
+share-img: images/logo.png
 ---
 
 <div class="outer">
   <div class="inner">
+    <header class="post-header">
+      <h1 class="post-title">{{ page.title }}</h1>
+    </header>
+    {% assign subtitle_is_not_empty = page.subtitle | is_not_empty %}
+    {% if subtitle_is_not_empty %}
+    <div class="post-subtitle">
+      <h2>{{ page.subtitle }}</h2>
+    </div><!-- .post-subtitle -->
+    {% endif %}
     <div class="post-feed">
       {% for post in site.posts %}
       <article class="post post-card">
@@ -33,12 +42,8 @@ share-image: images/logo.png
               <p>{{ post.excerpt }}</p>
             </div>
             <footer class="post-meta">
-              <time
-                class="published"
-                datetime="{{ post.date | date: '%Y-%m-%d %H:%M' }}"
-                >{{ post.date | date: '%B %d, %Y' }}</time
-              >
-              <span> - {{ post.time }}</span>
+				<time class="published" datetime="{{ post.date | date: '%Y-%m-%d %H:%M' }}">{{ post.date | date: '%d.%m.%Y' }}</time>
+				<span> - {{ post.time }} Lesezeit </span>
             </footer>
           </div>
           <!-- post-card-content -->
@@ -49,17 +54,6 @@ share-image: images/logo.png
       {% endfor %}
     </div>
     <!-- .post-feed -->
-
-    <!-- Pagination TBD -->
-    <!--
-    <nav class="pagination">
-      <div class="nav-links">
-        <a class="newer-posts button secondary" href="#"><span class="icon-arrow-left" aria-hidden="true"></span> Previous</a>
-        <span class="page-number">Page X of Y</span>
-        <a class="older-posts button secondary" href="#">Next <span class="icon-arrow-right" aria-hidden="true"></span></a>
-      </div>
-    </nav>
-    -->
   </div>
   <!-- .inner -->
 </div>

@@ -19,12 +19,12 @@ sections:
 
     featureslist:
       - title:
-        image: images/hackathon.jpg
+        image: images/Hackathon_1.jpg
         content: >-
-          Hackathons sind ein etabliertes Mittel zur Entwicklung neuer Lösungsansätze und bieten durch den offenen Ansatz einen leichten Zugang für interessierte Teilnehmer:innen sowie andere Stakeholder. 
-          Kombiniert mit einem <b>interaktiven Programm und Unterstützung bei der Teambildung</b> lassen sich <b>Teams mit Potential zur Startup-Gründung bilden</b>. Durch die Einbettung der Hackathons in einen weiteren Entwicklungsprozess mit angeschlossenen Bootcamps und der individuellen Betreuung können gezielt Startups aufgebaut und unterstützt werden.
+          Der Begriff „Hackathon” setzt sich aus den Begriffen „Hacking” und „Marathon” zusammen. Die Verwendung des Begriffs „Hacking” ist dabei spielerisch gemeint und bezieht sich nicht auf kriminelle Cyberaktivitäten.
+          Hackathons sind vielmehr Events, bei denen interdisziplinäre Teams in kurzer Zeit kollaborativ Lösungen für praxisrelevante Herausforderungen der Industrie und Wirtschaft erarbeiten. Beim FoodHyper-Hackathon handelt es sich um Herausforderungen, die speziell aus dem Lebensmittelbereich kommen.
       - title: Ziele
-        image: images/hackathon_ziele.jpeg
+        image: images/Hackathon_2.jpg
         content: >-
           - Bearbeitung von Challenges, die als tatsächliche Herausforderung in der Arbeit des Unternehmens oder der Institution aufgekommen sind
 
@@ -32,47 +32,51 @@ sections:
 
           - innovative Lösungsfindung in Form von technischen Lösungen oder neuen Geschäftsmodellen
       - title: Zielgruppe
-        image: images/hackathon_zielgruppe.jpg
+        image: images/Hackathon_3.jpg
         content: >-
           - Visionäre der Food-Branche
-  
+
           - Studierende aus Bereichen wie Lebensmitteltechnik, Prozessmanagement, Informatik, BWL uvm.
-  
+
           - bestehende Teams oder Startups mit innovativen Ideen im Food(Tech)-Bereich mit eigener Challenge
+
+          - Berufstätige und Auszubildende
       - title: Das bringt dir die Teilnahme am Hackathon
-        image: images/hackathon_zielgruppe.jpg
+        image: images/Hackathon_4.jpg
         content: >-
           - Ausbau des eigenen Netzwerkes
-  
+
           - Kontakte zu etablierten Unternehmen und Startups aus dem Food-Bereich
-  
+
           - Chance auf die weitere Begleitung zur Umsetzung durch Acceleration-Programme
-  
+
           - Unterstützung durch Mentoren
-  
+
           - attraktive Preise und ein Teilnahmezertifikat
       - title: Ablauf
-        image: images/hackathon_ablauf.jpg
+        image: images/Hackathon_5.jpg
         content: >-
           Der Hackathon ist in folgende Phasen unterteilt:
-          
+
           - Kickoff mit Vorstellung der Challenges
-  
+
           - Teamfindung
-  
-          - Hacking
-  
+
+          - Methodischer Input
+
+          - Ideengenerierung und -ausarbeitung 
+
           - Pitch Building
-  
+
           - Ergebnispräsentation
-  
+
           - Awarding
-          
+
   - section_id: pricing
     component: pricing_image_block.html
     type: pricingblock
     bg: gray
-    title: Challenges
+    title: Challenges der 1. Runde
     subtitle:
     pricingplans:
       - description: Neue Anwendungsbereiche für nachhaltig erzeugtes, getrocknetes Obst und Gemüse
@@ -105,26 +109,26 @@ sections:
         image: images/challenges/fh.jpg
         link: /documents/Wertschöpfungsketten im Umbruch.pdf
         highlight: true
-      - description: Auswertung der Produktbewertungen aller stock keeping units als Datenbasis für die Produktentwicklung. 
+      - description: Auswertung der Produktbewertungen aller stock keeping units als Datenbasis für die Produktentwicklung.
         company: foodist.de
         hashtags: "#startup #it #coding"
         image: images/challenges/foodist.jpg
         link: /documents/Review Analyse.pdf
         highlight: true
-        
+
   - section_id: feature
     component: features_block.html
     type: featuresblock
     bg: gray
-    title: 
+    title:
     subtitle: >-
 
     featureslist:
-    - title: Anmeldung
-      image: images/SVG/undraw_subscriber.svg
-      content: >-
+      - title: Anmeldung
+        image: images/SVG/undraw_subscriber.svg
+        content: >-
           Die Anmeldung zum Hackathon ist hier bald wieder möglich. Wir freuen uns über deine Teilnahme!
-    
+
   - section_id: faq
     component: faq_block.html
     type: faqblock
@@ -132,16 +136,13 @@ sections:
     title: Häufig gestelle Fragen
     subtitle: FAQ
     faqitems:
-      - question: Was ist ein Hackathon?
-        answer: >-
-          Hackathons sind ein etabliertes Mittel zur Entwicklung neuer Lösungsansätze und bieten durch den offenen Ansatz einen leichten Zugang für interessierte Teilnehmer:innen sowie Stakeholder.
       - question: Wie lange dauert der Hackathon?
         answer: >-
           Der Hackathon dauert insgesamt 28 Stunden. Davon werden 22,5 Stunden dem reinen Hacking zugeschrieben.
       - question: Wie läuft ein Hackathon ab?
         answer: >-
           <b>1. Kick-Off:</b> Zusammenstellen der Teams, Vergabe der Challenges und Vorbereitung auf das Hacking<br>
-          <b>2. Hacking:</b> Bearbeitung der Challenges gemeinsam mit Challenge-Gebern<br>
+          <b>2. Arbeitsphase:</b> Bearbeitung der Challenges gemeinsam mit Challenge-Gebern<br>
           <b>3. Abschluss:</b> Prämierung aller erarbeiteten Lösungen  <br>
       - question: Wer kann am Hackathon teilnehmen?
         answer: >-
@@ -158,17 +159,18 @@ sections:
            
 
   - section_id: ansprechpartner
-    component: features_block.html
-    type: featuresblock
+    component: contact_block.html
+    type: contactblock
     bg: gray
     title: Ansprechpartner
     subtitle: >-
 
-    featureslist:
+    contactlist:
       - title:
         image: images/Felix.jpg
         content: >-
-          Felix Willert <br><br> E-Mail: felix@innovate-os.de <br><br> Tel.: 0541 50798526
+          Felix Willert <br><br> E-Mail: <a href="mailto:felix@innovate-os.de">felix@innovate-os.de </a><br><br> Tel.: 0541 50798526
 
 layout: features
 ---
+

@@ -9,15 +9,15 @@ sections:
     image: images/logo.png
     title: Unsere Foodpaten
     content: >-
-     Die Food Paten sind Ansprechpartner:innen aus allen Regionen in Niedersachsen und bilden damit ein kompetentes und diverses Netzwerk für Food Startups und Gründungsinteressierte.  Sie unterstützen Startups und Gründungs-Teams mit ihrer Erfahrung und Ihrem Netzwerk, um sie bei der Entwicklung zu unterstützen 
-     Sprecht sie gerne direkt an!.	 
+      Die Food Paten sind Ansprechpartner*innen aus allen Regionen in Niedersachsen und bilden damit ein kompetentes und diverses Netzwerk für Food-Startups und Gründungsinteressierte.  Sie unterstützen Startups und Gründungs-Teams mit ihrer Erfahrung und ihrem Netzwerk, um sie bei der Entwicklung zu unterstützen 
+      Kontaktiert sie gerne direkt!
   - section_id: flipcard
     component: flip_cards.html
     type: flipcards
     bg: gray
     title:
-    subtitle: >- 
-     
+    subtitle: >-
+
     flipcards:
       - image: images/foodpaten/Andi.png
         description: >-
@@ -130,7 +130,7 @@ sections:
 
           <p> <b>Anschrift:</b> <br>  Prof.-von-Klitzing-Str. 7, 49610 Quakenbrück </p>
 
-          <p class="about-me"> <b>Über mich:</b> <br>  Seit 2019 leite ich den Innovation Hub am DIL und koordiniere die EIT Food Entrepreneurship-Projekte am DIL und bin Ansprechpartner für Agri Food Startups. Im Rahmen dieser Funktion bin ich auch als Coach, Expert in Residence und Mentor tätig.
+          <p class="about-me"> <b>Über mich:</b> <br>  Seit 2019 leite ich den Innovation Hub am DIL und koordiniere die EIT Food Entrepreneurship-Projekte am DIL und bin Ansprechpartner für Agri Food-Startups. Im Rahmen dieser Funktion bin ich auch als Coach, Expert in Residence und Mentor tätig.
           Der DIL Innovation Hub bietet zahlreiche Unterstützungs- und Vernetzungsmöglichkeiten für Gründungsinteressierte und Startups (www.dil-innovationhub.de).
           Während meiner beruflichen Laufbahn habe ich 5 Unternehmen aus verschiedenen Branchen mitgegründet, diese aufgebaut und geleitet. 
           Weiterhin habe ich in verschiedenen Führungspositionen als Berater für Wirtschaftsentwicklung und Wirtschaftspolitik in Regierungsinstitutionen auf dem Westbalkan gearbeitet und wurde später zum Leiter der Delegation der Deutschen Wirtschaft in Bosnien und Herzegowina berufen. </a> </p>
@@ -274,6 +274,24 @@ sections:
           <p> <b>Email:</b><br>  <a href="mailto:annie@lenchen.de">annie@lenchen.de </a>  </p>
 
           <p> <img class="footpate-img" src="/images/foodpaten/logos/lenchen.png" alt="lenchen" /> </p>
+      - image: images/foodpaten/julia.jpg
+        description: >-
+          <br>
+
+          <p> <b>Name:</b> <br> Julia Kümper </p>
+
+          <p> <b>Organisation/Unternehmen:</b> <br>  Region Hannover</p>
+
+          <p> <b>Anschrift:</b> <br>  Vahrenwalder Str. 7, 30165 Hannover </p>
+
+          <p class="about-me"> <b>Über mich:</b> <br> Durch meine langjährige Tätigkeit als Geschäftsführerin verschiedener, junger Unternehmen und der Beratung von Startups freue ich mich darauf, Geschäftsideen zu challengen und strategisch zu Finanzierungsrunden zu beraten.  </a> </p>
+
+          <p> <b>Email:</b><br>  <a href="mailto:julia.kuemper@region-hannover.de">julia.kuemper@region-hannover.de </a>  </p>
+
+           <p> <b>LinkedIn-Profil:</b><br> <a href="https://de.linkedin.com/in/juliakuemper" target="_blank"> https://de.linkedin.com/in/juliakuemper</a>  </p>
+
+          <p> <img class="footpate-img" src="/images/foodpaten/logos/wifö.png" alt="lenchen" /> </p>
 
 layout: features
 ---
+

@@ -28,14 +28,14 @@ sections:
         image: images/SVG/undraw_education.svg
         content: >-
           Das Lebensmittelrecht ist umfangreich und dynamisch.<br>
-          Um hier einen Überblick zu bekommen und Antworten auf individuelle Fragen zu erhalten, bieten wir für Gründer:innen und Gründungsinteressierte in der Kategorie ‚Food Law‘ zwei Formate an:  <br>
-          <br><b>Öffentliche Veranstaltungen</b> zu lebensmittelrechtlichen Themen wie Novel Food, Health Claims, Kennzeichnung und Produktsicherheit sowie Patente und Gebrauchsmuster<br>
-          <br><b>Geschlossene Sprechstunden</b> zur individuellen rechtlichen Beratung von Food Startups in Niedersachsen durch Prof. Dr. Markus Grube, Rechtsanwalt, Lebensmittel- und Verbrauchsgüterjurist
+          Um hier einen Überblick zu bekommen und Antworten auf individuelle Fragen zu erhalten, bieten wir Gründer:innen und Gründungsinteressierte in der Kategorie ‚Food Law‘ zwei Formate an:  <br>
+          <br><b>Öffentliche Veranstaltungen</b> zu lebensmittelrechtlichen Themen wie Novel Food, Health Claims, Kennzeichnung und Produktsicherheit sowie Patente und Gebrauchsmuster.<br>
+          <br><b>Geschlossene Sprechstunden</b> zur individuellen rechtlichen Beratung von Food-Startups in Niedersachsen durch Prof. Dr. Markus Grube, Rechtsanwalt, Lebensmittel- und Verbrauchsgüterjurist.
       - title: Ziele
         image: images/SVG/undraw_target.svg
         content: >-
-          Mit den Beratungsangeboten werden Food Startups und Gründungsinteressierte über rechtliche Themen informiert und die Etablierung eines innovativen Produktes oder einer innovativen Technologie auf dem Markt soll erleichtert werden.
-      - title: Teilnehmer:innen
+          Mit den Beratungsangeboten werden Food-Startups und Gründungsinteressierte über rechtliche Themen informiert und die Etablierung eines innovativen Produktes oder einer innovativen Technologie auf dem Markt soll erleichtert werden.
+      - title: Teilnehmer*innen
         image: images/SVG/undraw_work_chat.svg
         content: >-
           <b>Gründer:innen und Gründungsinteressierte</b>  der Food Startup-Szene<br>
@@ -62,21 +62,21 @@ sections:
           <button data-tf-popup="Ot6oP0VY" data-tf-iframe-props="title=Bewerbung zur lebensmittelrechtlichen Sprechstunde" style="background: #b99700;border-radius: 3px;border: 2px solid #b99700;box-sizing: border-box;color: #fff;display: inline-block;font-size: 16px;height: 2.5em;line-height: 1.5;padding: 0.5em 30px;-webkit-transition: opacity 0.15s ease-in-out;transition: opacity 0.15s ease-in-out;font-size: 16px;padding: 0.25em 15px;">Jetzt bewerben!</button><script src="//embed.typeform.com/next/embed.js"></script>
 
   - section_id: ansprechpartner
-    component: features_block.html
-    type: featuresblock
+    component: contact_block.html
+    type: contactblock
     bg: gray
-    title: Ansprechpartner:in
+    title: Ansprechpartner*innen
     subtitle: >-
 
-    featureslist:
+    contactlist:
       - title:
         image: images/Karin_Hollah.png
         content: >-
-          Karin Mastall <br><br> E-Mail: E-Mail: K.Mastall@dil-ev.de <br><br> Tel.: 05431 183 193
+          Karin Mastall <br><br> E-Mail: <a href="mailto:K.Mastall@dil-ev.de">K.Mastall@dil-ev.de </a>  <br><br> Tel.: 05431 183 193
       - title:
         image: images/Alexander.jpg
         content: >-
-          Alexander Märdian <br><br> E-Mail: A.Maerdian@dil-tec.de <br><br> Tel.: 05431 183 354
+          Alexander Märdian <br><br> E-Mail:<a href="mailto:A.Maerdian@dil-tec.de">A.Maerdian@dil-tec.de </a>  <br><br> Tel.: 05431 183 354
 
   - section_id: faq
     component: faq_block.html
@@ -101,3 +101,4 @@ sections:
           Ihr könnt gerne auch als Team an den Veranstaltungen teilnehmen. Gebt uns für eine bessere Planung nur im Vorfeld Bescheid mit wie vielen Personen ihr vor Ort seid. Bei Onlineveranstaltungen ist dies auch ohne Absprache möglich.    
 layout: features
 ---
+

@@ -22,11 +22,11 @@ Neben dem ständigen Austausch mit Mentor*innen und Expert*innen findet bereits 
 
 Was haben teilnehmende Startups davon?
 
-- Zugang zur hochtechnologischen Infrastruktur des DIL und Zugang zum Netzwerk des Seedhouse profitieren
+- Zugang zur hochtechnologischen Infrastruktur des [DIL](https://www.dil-ev.de) und Zugang zum Netzwerk des [Seedhouse](https://www.seedhouse.de/) profitieren
 - Groß angelegte, halböffentliche Netzwerkveranstaltung als Abschluss
 - Bringt alle relevanten Stakeholder zusammen —> dazu werden alle niedersächsischen Food-Startup Stakeholder, Unternehmen, Organisationen und ein Kreis von VCs und Business Angeln eingeladen.
-- Alle Teams des Bootcamps, die ihre Idee weiterverfolgen, werden mit einem Profil auf den Webseiten der Seedhouse Accelerator GmbH und des DIL Innovation Hub voraussichtlich dauerhaft, aber mindestens 12 Monate gelistet. 
-- Alle Teilnehmer*innen werden im Nachgang des Bootcamps durch das Seedhouse und durch das DIL betreut. Angestrebt wird hierbei die konstante Vernetzung der Teilnehmer*innen mit dem Ziel der Gründung oder Ansiedlung in Niedersachsen. Aus Erfahrung ergeben sich oftmals im Anschluss an eine intensiven Startup Betreuung Synergien und Vernetzungsmöglichkeiten.
+- Alle Teams des Bootcamps, die ihre Idee weiterverfolgen, werden mit einem Profil auf den Webseiten der [Seedhouse](https://www.seedhouse.de/) Accelerator GmbH und des [DIL Innovation Hub](https://www.dil-ev.de)  voraussichtlich dauerhaft, aber mindestens 12 Monate gelistet. 
+- Alle Teilnehmer*innen werden im Nachgang des Bootcamps durch das [Seedhouse](https://www.seedhouse.de/) und durch das [DIL](https://www.dil-ev.de) betreut. Angestrebt wird hierbei die konstante Vernetzung der Teilnehmer*innen mit dem Ziel der Gründung oder Ansiedlung in Niedersachsen. Aus Erfahrung ergeben sich oftmals im Anschluss an eine intensiven Startup Betreuung Synergien und Vernetzungsmöglichkeiten.
  
 
 Lasst euch diesen maximalen Boost also auf keinen Fall entgehen und bewerbt euch jetzt mit eurem Team! 
@@ -34,18 +34,18 @@ Lasst euch diesen maximalen Boost also auf keinen Fall entgehen und bewerbt euch
 Zum Ablauf:
 
  
-<b>Montag, 09.Mai</b>: Network I Kennenlernen, Networking, Input Förderung, gemeinsamer Grillabend der Teilnehmer:innen 
+<b>Montag, 09.Mai</b>: Network I Kennenlernen, Networking, Input Förderung, gemeinsamer Grillabend der Teilnehmer*innen 
 <br>
 <b>Dienstag, 10. Mai</b>: Work I individualisierte Masterclasses und Workshops zu den Themen: Food-Legal / Novel Food, Netzwerk Marketing, Storytelling, Produktentwicklung, Investment, VC und Business Angels u.v.m. mit Mentoren 
 <br>
-<b>Mittwoch, 11. Mai</b>: Research I individuelle Produktberatung mit Experten des DIL, Transfer (für Ideen/Produkte ohne Technologiekomponente besteht ein Alternativprogramm im Seedhouse oder es ist ein Pausetag möglich)
+<b>Mittwoch, 11. Mai</b>: Research I individuelle Produktberatung mit Experten des [DIL](https://www.dil-ev.de) , Transfer (für Ideen/Produkte ohne Technologiekomponente besteht ein Alternativprogramm im [Seedhouse](https://www.seedhouse.de/) oder es ist ein Pausetag möglich)
 <br>
-<b>Donnerstag, 12. Mai</b>: Production I Experimente und Produktion zur Entwicklung und Optimierung der Produktidee, Transfer (für Ideen/Produkte ohne Technologiekomponente besteht ein Alternativprogramm im Seedhouse oder es ist ein Pausetag möglich)
+<b>Donnerstag, 12. Mai</b>: Production I Experimente und Produktion zur Entwicklung und Optimierung der Produktidee, Transfer (für Ideen/Produkte ohne Technologiekomponente besteht ein Alternativprogramm im [Seedhouse](https://www.seedhouse.de/) oder es ist ein Pausetag möglich)
 <br>
 <b>Freitag, 13. Mai</b>: Traction I individuelle Hilfestellungen, Business Speed-Dating, Pitch-Event mit anschließender Verkostung vor Geschäftsführern und Managern von namenhaften Unternehmen aus dem Foodbereich, wertvolles Feedback bei anschließendem Netzwerken 
 
  
-Stattfinden wir das ganze an zwei Standorten: dem Seedhouse Accelerator in Osnabrück und dem DIL in Quakenbrück.
+Stattfinden wir das ganze an zwei Standorten: dem [Seedhouse](https://www.seedhouse.de/) Accelerator in Osnabrück und dem [DIL](https://www.dil-ev.de)  in Quakenbrück.
 
 
 

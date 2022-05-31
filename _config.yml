@@ -19,6 +19,7 @@ header:
     FoodLaw: "law"
     News: "blog"
     Foodpaten: "foodpaten"
+    FAQ: "faq"
   palette: blue
   
 footer:

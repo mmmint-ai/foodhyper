@@ -1,0 +1,32 @@
+<sectionid="{{ include.section.section_id }}" class="contactblock outer">
+  <div class="block-header inner-medium">
+    <h2 class="block-title">{{ include.section.title }}</h2>
+    {% assign subtitle_is_not_empty = include.section.subtitle | is_not_empty %}
+    {% if subtitle_is_not_empty %}
+    <p class="block-subtitle">{{ include.section.subtitle }}</p>
+    {% endif %}
+  </div>
+  <!-- .block-header -->
+  {% assign contactlist_is_not_empty = include.section.contactlist | is_not_empty %} 
+  {% if contactlist_is_not_empty %}
+  <div class="inner">
+	  <div class="contactContainer">
+		{% for contact in include.section.contactlist %}
+        <div class="cell block-preview">
+            <img
+              class="contact-image"
+              src="{{ contact.image | relative_url }}"
+              alt="{{ contact.title }}"
+          />
+		  <div class="cell block-content">
+			<h3 class="block-title underline">{{ feature.title }}</h3>
+			<div class="block-copy">{{ contact.content | markdownify }}</div>
+		  </div>
+        </div>
+		{% endfor %}
+	{% endif %} 
+	  </div>
+    </div>
+  <!-- .inner -->
+</section>
+<!-- .block -->
