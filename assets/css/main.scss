@@ -373,5 +373,18 @@ $palette: (
 
 .contact-image {
 	height: 300px;
-    max-width: 500px
+    max-width: 250px;
+	border-radius: 20px;
+	object-fit: cover;
+}
+
+.contact-wrapper {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+
+	.kontakt-button {
+		margin-top: 20px;
+	}
 }

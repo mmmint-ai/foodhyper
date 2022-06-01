@@ -129,34 +129,14 @@ sections:
         content: >-
           Die Anmeldung zum Hackathon ist hier bald wieder möglich. Wir freuen uns über deine Teilnahme!
 
-  - section_id: faq
-    component: faq_block.html
-    type: faqblock
-    bg: gray
-    title: Häufig gestelle Fragen
-    subtitle: FAQ
-    faqitems:
-      - question: Wie lange dauert der Hackathon?
-        answer: >-
-          Der Hackathon dauert insgesamt 28 Stunden. Davon werden 22,5 Stunden dem reinen Hacking zugeschrieben.
-      - question: Wie läuft ein Hackathon ab?
-        answer: >-
-          <b>1. Kick-Off:</b> Zusammenstellen der Teams, Vergabe der Challenges und Vorbereitung auf das Hacking<br>
-          <b>2. Arbeitsphase:</b> Bearbeitung der Challenges gemeinsam mit Challenge-Gebern<br>
-          <b>3. Abschluss:</b> Prämierung aller erarbeiteten Lösungen  <br>
-      - question: Wer kann am Hackathon teilnehmen?
-        answer: >-
-          Willkommen ist jeder Interessierte der Food-Branche, insbesondere Programmierer:innen und Ingenieur:innen sowie Studierende in den Bereichen Lebensmitteltechnik, Prozessmanagement und Technik.
-      - question: Was kostet die Teilnahme?
-        answer: >-
-          Die Teilnahme am Hackathon ist kostenlos!
-      - question: Wann startet der Hackathon?
-        answer: >-
-          Das Programm vom Hackathon startet am 21.04.2022 um 15:00 Uhr. Ab 14:00 Uhr könnt ihr euch bereits in der Location einfinden.
-      - question: Wo findet der Hackathon statt?
-        answer: >-
-          Der Hackathon findet im Alando Palais statt. Adresse: Alando Gastro GmbH, Pottgraben 58-60, 49074 Osnabrück
-           
+  - section_id: call-to-action
+    component: cta_block.html
+    type: ctablock
+    title: Hier findest du unsere FAQ.
+    subtitle:
+    actions:
+      - label: FAQ
+        url: /faq
 
   - section_id: ansprechpartner
     component: contact_block.html

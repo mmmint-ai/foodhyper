@@ -13,7 +13,7 @@ header:
   logo_img: images/logo.png
   has_nav: true
   nav:
-    FoodHyper: "foodhyper"
+    Allgemeines: "foodhyper"
     Hackathon: "hackathon"
     Bootcamp: "bootcamp"
     FoodLaw: "law"
