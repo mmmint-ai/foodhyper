@@ -5,7 +5,7 @@ subtitle: >-
   
 excerpt: >-
   Der FoodHyper geht in die zweite Runde! 
-date: '2022-05-31'
+date: '2022-06-23'
 time: 2 Minuten
 thumb_img_path: images/SVG/undraw_calendar.svg
 share-img: images/SVG/undraw_calendar.svg

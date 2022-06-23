@@ -436,30 +436,30 @@ $palette: (
 	max-width: 600px;
 }
   
-  .trust-container {
-	display: flex;
-	flex-wrap: wrap;
-	align-items: center;
-	justify-content: center;
-  }
+.trust-container {
+display: flex;
+flex-wrap: wrap;
+align-items: center;
+justify-content: center;
+}
   
-  
-  .trust-partner {
-	max-width: 15%;
-	padding: 20px;
-  
+
+.trust-partner {
+		max-width: 15%;
+		padding: 20px;
+
 	img {
-	  aspect-ratio: attr(width) / attr(height);
-	  -webkit-filter: grayscale(100%);
-	  filter: grayscale(100%);
-	  object-fit: contain;
+		aspect-ratio: attr(width) / attr(height);
+		-webkit-filter: grayscale(100%);
+		filter: grayscale(100%);
+		object-fit: contain;
 	}
-  
+
 	img:hover {
-	  -webkit-filter: grayscale(0%);
-	  filter: grayscale(0%);
+		-webkit-filter: grayscale(0%);
+		filter: grayscale(0%);
 	}
-  }
+}
   
   @media only screen and (max-width: 600px) {
 	.trust-partner {
