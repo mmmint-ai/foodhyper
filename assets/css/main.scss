@@ -388,3 +388,80 @@ $palette: (
 		margin-top: 20px;
 	}
 }
+
+.quotes-container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-wrap: wrap;	
+}
+
+.quote-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	width: 45%;
+
+	.review-footer {
+		margin-top: 15px;
+		height: 60px;
+	}
+
+	.quote {
+		width: 100%
+	}
+
+	img {
+		width: 200px;
+		height: 200px;
+	}
+}
+
+@media only screen and (max-width: 900px) {
+	.quote-container {
+	  width: 100%;
+	}
+  }
+
+.small-outer {
+	padding: 1rem;
+}
+
+.trust-title {
+	margin-bottom: 20px;
+  }
+
+.trust-image {
+	max-width: 600px;
+}
+  
+  .trust-container {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+  }
+  
+  .trust-partner {
+	max-width: 15%;
+	padding: 20px;
+  
+	img {
+	  aspect-ratio: attr(width) / attr(height);
+	  -webkit-filter: grayscale(100%);
+	  filter: grayscale(100%);
+	  object-fit: contain;
+	}
+  
+	img:hover {
+	  -webkit-filter: grayscale(0%);
+	  filter: grayscale(0%);
+	}
+  }
+  
+  @media only screen and (max-width: 600px) {
+	.trust-partner {
+	  max-width: 20%;
+	}
+  }

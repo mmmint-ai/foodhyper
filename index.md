@@ -54,7 +54,7 @@ sections:
         image: images/SVG/undraw_people_search.svg
         content: >-
          <div class="iconContainer"><img src="./images/questionmark.png" alt="check" width="40" height="40"> Startups</div>
-         <div class="iconContainer"><img src="./images/questionmark.png" alt="check" width="40" height="40"> Kooperationspartner & Input-Geber</div>
+         <div class="iconContainer"><img src="./images/questionmark.png" alt="check" width="40" height="40"> Kopperationspartner*innen & Input-Geber:innen</div>
          <div class="iconContainer last"><img src="./images/questionmark.png" alt="check" width="40" height="40"> Innovative Ideen im Food-Bereich </div>
         
   - section_id: recent-posts

@@ -1,4 +1,4 @@
-<section id="{{ include.section.section_id }}" class="block reviews-block bg-{{ include.section.bg }} outer">
+<section id="{{ include.section.section_id }}" class="block reviews-block bg-{{ include.section.bg }} small-outer">
     <div class="block-header inner-small">
         <h2 class="block-title">{{ include.section.title }}</h2>
         {% assign subtitle_is_not_empty = include.section.subtitle | is_not_empty %}
@@ -11,19 +11,19 @@
     {% assign images_is_not_empty = include.section.images | is_not_empty %}
     {% if images_is_not_empty %}
     <div class="inner">
-        <div class="grid">
+        <div class="quotes-container">
             {% for review in include.section.images %}
-                <div class="review-inside">
+                <div class="quote-container">
                     {% assign image_is_not_empty = review.image | is_not_empty %}
                     {% if image_is_not_empty %}
                     <a href="{{ review.url | relative_url }}" style="border-bottom: initial;">
-                        <img src="{{ review.image | relative_url }}" alt="Author avatar" style="max-height: 100px;">
+                        <img src="{{ review.image | relative_url }}" alt="Author avatar">
                     </a>
                     {% endif %}
                     <footer class="review-footer">
-                        <p class="review-author">{{ review.name }}</p>
+                        <h4 class="review-author">{{ review.name }}</h4>
                     </footer>
-                    <p class="text">{{ review.content }}</p>
+                    <p class="quote">{{ review.content }}</p>
                 </div><!-- .review-inside -->
             {% endfor %}
         </div><!-- .grid -->

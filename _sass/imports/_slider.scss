@@ -8,9 +8,12 @@
     display: flex;
     justify-content: center;
     align-items: center;
+	flex-direction: column;
 
-    img {
-      max-height: 250px;
-    }
+	.quote {
+		width: 75%;
+		text-align: center;
+		margin: 0;
+	}
   }
 }

@@ -1,0 +1,28 @@
+<section
+  id="{{ include.section.section_id }}"
+  class="block features-block bg-{{ include.section.bg }} outer"
+>
+  <div class="block-header inner-medium">
+    <h3 class="trust-title">{{ include.section.title }}</h3>
+	<img class="trust-image" src="{{ include.section.titleimage }}" alt="{{ include.section.titleimage }}" loading="lazy"/>
+  </div>
+  <!-- .block-header -->
+
+  {% assign linklist_is_not_empty = include.section.linklist | is_not_empty %}
+  {% if linklist_is_not_empty %}
+  <div class="inner">
+    <div class="trust-container">
+      {% for link in include.section.linklist %}
+
+      <div class="trust-partner">
+        <a href="{{ link.url | relative_url }}" style="border-bottom: initial" target="_blank">
+          <img src="{{ link.image | relative_url }}" alt="{{ link.url }}" loading="lazy" style="height: 100px; width: 200px;"/>
+        </a>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  <!-- .inner -->
+  {% endif %}
+</section>
+<!-- .block -->

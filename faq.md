@@ -15,9 +15,6 @@ sections:
         answer: >-
           Der Begriff „Hackathon” setzt sich aus den Begriffen „Hacking” und „Marathon” zusammen. Die Verwendung des Begriffs „Hacking” ist dabei spielerisch gemeint und bezieht sich nicht auf kriminelle Cyberaktivitäten.
           Hackathons sind vielmehr Events, bei denen interdisziplinäre Teams in kurzer Zeit kollaborativ Lösungen für praxisrelevante Herausforderungen der Industrie und Wirtschaft erarbeiten. Beim FoodHyper-Hackathon handelt es sich um Herausforderungen, die speziell aus dem Lebensmittelbereich kommen.
-      - question: Wie lange dauert der Hackathon?
-        answer: >-
-          Der Hackathon dauert insgesamt 28 Stunden. Davon werden 22,5 Stunden dem reinen Hacking zugeschrieben.
       - question: Wie läuft ein Hackathon ab?
         answer: >-
           <b>1. Kick-Off:</b> Zusammenstellen der Teams, Vergabe der Challenges und Vorbereitung auf das Hacking<br>
@@ -29,9 +26,6 @@ sections:
       - question: Was kostet die Teilnahme?
         answer: >-
           Die Teilnahme am Hackathon ist kostenlos!
-      - question: Wann startet der Hackathon?
-        answer: >-
-          Das Programm vom Hackathon startet am 21.04.2022 um 15:00 Uhr. Ab 14:00 Uhr könnt ihr euch bereits in der Location einfinden.
       - question: Wo findet der Hackathon statt?
         answer: >-
           Der Hackathon findet im Alando Palais statt. Adresse: Alando Gastro GmbH, Pottgraben 58-60, 49074 Osnabrück

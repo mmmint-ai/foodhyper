@@ -10,13 +10,22 @@ sections:
     title: Hackathon
     content: >-
       Der erste Hackathon hat <b>am 21. – 22. April 2022 in Osnabrück im Alando Palais</b> stattgefunden. Den Termin für den 2. Hackathon findet ihr bald hier.
+  - section_id: images
+    component: images_block.html
+    images:
+     - image: images/hendrik.png
+       name: Hendrik
+       content: „Ich habe es einfach geschafft in dieser kurzen Zeit bei dem Hackathon von Donnerstag auf Freitag die Arbeit mit einem Team von 5 Leuten zu schaffen, die ich sonst alleine gerade so in einer Woche schaffe!"
+     - image: images/ana.png
+       name: Ana
+       content: „Ich hatte noch nie so viele Ideen so schnell zusammengebracht und am Ende so ein tolles Ergebnis bekommen. Ich denke, man sollte auf jeden Fall mitmachen, um einfach die Erfahrung zu sammeln. Ich finde, die Erfahrung ist das wichtigste im Berufsleben von jungen Menschen.“
+  
   - section_id: feature
     component: features_block.html
     type: featuresblock
     bg: gray
     title: Hackathon
     subtitle: >-
-
     featureslist:
       - title:
         image: images/Hackathon_1.jpg

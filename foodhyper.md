@@ -25,7 +25,7 @@ sections:
       <br>
   
       <br>FoodHyper ist eine Initiative von <b><a href="https://startup.nds.de/">startup.niedersachsen.</a></b>
-      <br>FoodHyper steht <b>Teilnehmern</b> offen, die aus <b>Niedersachsen </b>stammen oder die sich für ein Engagement in Niedersachen interessieren.
+      <br>FoodHyper steht <b>Teilnehmer*innen</b> offen, die aus <b>Niedersachsen </b>stammen oder die sich für ein Engagement in Niedersachen interessieren.
       <br>FoodHyper wird durchgeführt von dem <b><a href="https://www.seedhouse.de/">Seedhouse</a></b>, der <b><a href="https://innovate-os.de/"> innovate!</a></b> und der <b><a href="https://www.dil-ev.de/">DIL</a>.</b> 
     featureslist:
       - title: Seedhouse
