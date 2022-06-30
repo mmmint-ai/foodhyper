@@ -9,13 +9,9 @@ sections:
     image: images/logo.png
     title: FoodLaw
     content: >-
-      Der nächste Termin für die geschlossene Sprechstunde findet am <b>8. und 9. Juni 2022 (online)</b> statt.
-      <br>
-      Die Bewerbungsfrist endet am <b>31. Mai 2022.</b>
-      <br>
-      <br>
+      Der nächste Termin für eine geschlossene Sprechstunde wird demnächst hier veröffentlicht.
 
-      <button data-tf-popup="Ot6oP0VY" data-tf-iframe-props="title=Bewerbung zur lebensmittelrechtlichen Sprechstunde" style="background:  #2c2f3b;color: #FFFFFF !important;height: auto !important;border-radius: 3px;border: 2px solid #b99700;box-sizing: border-box;color: #fff;display: inline-block;font-size: 16px;height: 2.5em;line-height: 1.5;padding: 0.5em 30px;-webkit-transition: opacity 0.15s ease-in-out;transition: opacity 0.15s ease-in-out;font-size: 16px;padding-bottom: 0.625em;padding-top: 0.625em;">Jetzt bewerben!</button><script src="//embed.typeform.com/next/embed.js"></script>
+    #<button data-tf-popup="Ot6oP0VY" data-tf-iframe-props="title=Bewerbung zur lebensmittelrechtlichen Sprechstunde" style="background:  #2c2f3b;color: #FFFFFF !important;height: auto !important;border-radius: 3px;border: 2px solid #b99700;box-sizing: border-box;color: #fff;display: inline-block;font-size: 16px;height: 2.5em;line-height: 1.5;padding: 0.5em 30px;-webkit-transition: opacity 0.15s ease-in-out;transition: opacity 0.15s ease-in-out;font-size: 16px;padding-bottom: 0.625em;padding-top: 0.625em;">Jetzt bewerben!</button><script src="//embed.typeform.com/next/embed.js"></script>
   - section_id: Law
     component: features_block.html
     type: featuresblock
@@ -51,15 +47,7 @@ sections:
       - title: Bewerbung
         image: images/SVG/undraw_subscriber.svg
         content: >-
-          Die Bewerbung zur Teilnahme an der geschlossenen Sprechstunde erfolgt mit einer konkreten Fragestellung über den Bewerbungsbogen.<br><br>
-          Der nächste Termin für die geschlossene Sprechstunde findet am <b>8. und 9. Juni 2022 (online)</b> statt.<br>
-          <br>Die Bewerbungsfrist endet am <b>31. Mai 2022</b>.
-          <br>Nach der Bewerbung nehmen wir mit euch Kontakt auf zur Absprache der Beratungszeit.
-          <br>Die Teilnahme an den Veranstaltungen ist kostenlos.
-          <br>
-          <br>
-
-          <button data-tf-popup="Ot6oP0VY" data-tf-iframe-props="title=Bewerbung zur lebensmittelrechtlichen Sprechstunde" style="background: #b99700;border-radius: 3px;border: 2px solid #b99700;box-sizing: border-box;color: #fff;display: inline-block;font-size: 16px;height: 2.5em;line-height: 1.5;padding: 0.5em 30px;-webkit-transition: opacity 0.15s ease-in-out;transition: opacity 0.15s ease-in-out;font-size: 16px;padding: 0.25em 15px;">Jetzt bewerben!</button><script src="//embed.typeform.com/next/embed.js"></script>
+          Der nächste Termin für eine geschlossene Sprechstunde wird demnächst hier veröffentlicht.
 
   - section_id: call-to-action
     component: cta_block.html
@@ -85,7 +73,7 @@ sections:
       - title:
         image: images/Alexander.jpg
         content: >-
-          Alexander Märdian <br><br> E-Mail:<a href="mailto:A.Maerdian@dil-tec.de">A.Maerdian@dil-tec.de </a>  <br><br> Tel.: 05431 183 354
+          Alexander Märdian <br><br> E-Mail: <a href="mailto:A.Maerdian@dil-tec.de">A.Maerdian@dil-tec.de </a>  <br><br> Tel.: 05431 183 354
 
   
 

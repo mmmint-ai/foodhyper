@@ -9,16 +9,7 @@ sections:
     image: images/logo.png
     title: Hackathon
     content: >-
-      Der erste Hackathon hat <b>am 21. – 22. April 2022 in Osnabrück im Alando Palais</b> stattgefunden. Den Termin für den 2. Hackathon findet ihr bald hier.
-  - section_id: images
-    component: images_block.html
-    images:
-     - image: images/hendrik.png
-       name: Hendrik
-       content: „Ich habe es einfach geschafft in dieser kurzen Zeit bei dem Hackathon von Donnerstag auf Freitag die Arbeit mit einem Team von 5 Leuten zu schaffen, die ich sonst alleine gerade so in einer Woche schaffe!"
-     - image: images/ana.png
-       name: Ana
-       content: „Ich hatte noch nie so viele Ideen so schnell zusammengebracht und am Ende so ein tolles Ergebnis bekommen. Ich denke, man sollte auf jeden Fall mitmachen, um einfach die Erfahrung zu sammeln. Ich finde, die Erfahrung ist das wichtigste im Berufsleben von jungen Menschen.“
+      Der nächste Hackathon wird am 14. & 15. September 2022 im Alando Palais stattfinden. Die Anmeldung ist bald hier möglich!
   
   - section_id: feature
     component: features_block.html
@@ -32,6 +23,25 @@ sections:
         content: >-
           Der Begriff „Hackathon” setzt sich aus den Begriffen „Hacking” und „Marathon” zusammen. Die Verwendung des Begriffs „Hacking” ist dabei spielerisch gemeint und bezieht sich nicht auf kriminelle Cyberaktivitäten.
           Hackathons sind vielmehr Events, bei denen interdisziplinäre Teams in kurzer Zeit kollaborativ Lösungen für praxisrelevante Herausforderungen der Industrie und Wirtschaft erarbeiten. Beim FoodHyper-Hackathon handelt es sich um Herausforderungen, die speziell aus dem Lebensmittelbereich kommen.
+  
+  - section_id: images
+    component: images_block.html
+    images:
+     - image: images/hendrik.png
+       name: Hendrik Kaye, Gründer Esencia Foods
+       content: „Ich habe es einfach geschafft in dieser kurzen Zeit bei dem Hackathon von Donnerstag auf Freitag die Arbeit mit einem Team von 5 Leuten zu schaffen, die ich sonst alleine gerade so in einer Woche schaffe!"
+     - image: images/ana.png
+       name: Ana Tello, Studentin
+       content: „Ich hatte noch nie so viele Ideen so schnell zusammengebracht und am Ende so ein tolles Ergebnis bekommen. Ich denke, man sollte auf jeden Fall mitmachen, um einfach die Erfahrung zu sammeln. Ich finde, die Erfahrung ist das wichtigste im Berufsleben von jungen Menschen.“
+  
+
+  - section_id: feature
+    component: features_block.html
+    type: featuresblock
+    bg: gray
+    title:
+    subtitle: >-
+    featureslist:
       - title: Ziele
         image: images/Hackathon_2.jpg
         content: >-
@@ -159,6 +169,10 @@ sections:
         image: images/Felix.jpg
         content: >-
           Felix Willert <br><br> E-Mail: <a href="mailto:felix@innovate-os.de">felix@innovate-os.de </a><br><br> Tel.: 0541 50798526
+      - title:
+        image: images/kerstin.jpeg
+        content: >-
+          Kerstin Hogrefe <br><br> E-Mail: <a href="mailto:kerstin@seedhouse.de ">kerstin@seedhouse.de  </a> <br><br> Tel.: 0151 67965973
 
 layout: features
 ---

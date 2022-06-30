@@ -32,12 +32,12 @@ sections:
         image: images/Seedhouse_Logo.png
         imagelink: https://www.seedhouse.de/
         content: >-
-         In einem Zusammenschluss aus 34 namenhaften Unternehmen und gefördert durch das Land Niedersachsen <b>bietet das <a href="https://www.seedhouse.de/">Seedhouse</a></b> eine <b>Plattform für Innovationen aus den Bereichen Agrar, Food und Digitalisierung.</b> Der Accelerator ist offen für Startups aus allen Phasen und hilft mit maßgeschneiderten Lösungen in allen Bereichen der Entwicklung. In unserem Gründungs-Ökosystem sind Wirtschaft, Wissenschaft, Investoren, Organisationen und Politik und zahlreiche weitere Stakeholder für die Unterstützung von Startups vertreten. Wir öffnen dir diese Türen
+         In einem Zusammenschluss aus 34 namenhaften Unternehmen und gefördert durch das Land Niedersachsen <b>bietet das <a href="https://www.seedhouse.de/">Seedhouse</a></b> eine <b>Plattform für Innovationen aus den Bereichen Agrar, Food und Digitalisierung.</b> Der Accelerator ist offen für Startups aus allen Phasen und hilft mit maßgeschneiderten Lösungen in allen Bereichen der Entwicklung. In unserem Gründungs-Ökosystem sind Wirtschaft, Wissenschaft, Investoren, Organisationen und Politik und zahlreiche weitere Stakeholder für die Unterstützung von Startups vertreten. Wir öffnen dir diese Türen.
       - title: innovate!
         image: images/logo-innovate.png
         imagelink: https://innovate-os.de/
         content: >-
-          Als <b>Spezialist für innovative Startup-Events</b> mit der eigenen innovate! convention hat sich die 2019 in Osnabrück gegründete innovate! GmbH inzwischen als <b>Full-Service Dienstleister für alle Akteur*innen des Startup-Ökosystems</b> etabliert. Ziel jeder Veranstaltung ist es zukunftsfähige Ideen voranzubringen und die Menschen dahinter zusammen zu bringen. Das Team organisiert dabei vielfältige Events von Hackathons bis hin zu Konferenzen, die Raum für Kreativität und Austausch bieten und durch eine inspirierende Atmosphäre in Erinnerung bleiben
+          Als <b>Spezialist für innovative Startup-Events</b> mit der eigenen innovate!convention hat sich die 2019 in Osnabrück gegründete innovate! GmbH inzwischen als <b>Full-Service Dienstleister für alle Akteur*innen des Startup-Ökosystems</b> etabliert. Ziel jeder Veranstaltung ist es zukunftsfähige Ideen voranzubringen und die Menschen dahinter zusammen zu bringen. Das Team organisiert dabei vielfältige Events von Hackathons bis hin zu Konferenzen, die Raum für Kreativität und Austausch bieten und durch eine inspirierende Atmosphäre in Erinnerung bleiben.
       - title: Deutsches Institut für Lebensmitteltechnik
         image: images/DIL-Logo.png
         imagelink: https://www.dil-ev.de/

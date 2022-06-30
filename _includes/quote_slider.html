@@ -12,17 +12,18 @@
           <ul class="splide__list">
             {% for review in include.section.images %}
             <li class="splide__slide">
-
-				<p class="quote">{{ review.quote }}</p>
-				<h3>{{ review.author }}</h3>
-              <a
-                href="{{ review.companyurl }}"
-                style="border-bottom: initial"
-              >
-			   <p>{{ review.company }}</p>
-              </a>
+              <p class="quote">{{ review.quote }}</p>
+              <h3>
+                {{ review.author }},
+                <a
+                  href="{{ review.companyurl }}"
+                  style="border-bottom: initial"
+                >
+                  {{ review.company }}
+                </a>
+              </h3>
             </li>
-			{% endfor %}
+            {% endfor %}
           </ul>
         </div>
       </div>
@@ -44,7 +45,7 @@
       drag: true,
       easing: "ease",
       heightRatio: 0.5,
-	  pagination: false
+      pagination: false,
     }).mount();
   });
 </script>
