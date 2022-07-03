@@ -18,7 +18,7 @@ sections:
     bg: gray
     title: Was ist FoodHyper?
     subtitle: >-
-      Der FoodHyper ist ein Programm zur <b>Förderung des Standortes Niedersachsens</b> für Gründer:innen und Gründungsinteressierte der Ernährungsbranche. 
+      Der FoodHyper ist ein Programm zur <b>Förderung des Standortes Niedersachsens</b> für Gründer*innen und Gründungsinteressierte der Ernährungsbranche. 
       Es bietet mit seinen unterschiedlichen Formaten sowohl für erste Ideen als auch frühphasige Startups <b>Unterstützung bei Produkt, Geschäftsidee und Netzwerk.</b> 
       Eingebettet in das bestehende Ökosystem verknüpft der FoodHyper Programme und Akteur*innen und bietet somit den optimalen Anlaufpunkt für Food-Startups. <br> 
       <br>

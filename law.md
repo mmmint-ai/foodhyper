@@ -24,7 +24,7 @@ sections:
         image: images/SVG/undraw_education.svg
         content: >-
           Das Lebensmittelrecht ist umfangreich und dynamisch.<br>
-          Um hier einen Überblick zu bekommen und Antworten auf individuelle Fragen zu erhalten, bieten wir Gründer:innen und Gründungsinteressierte in der Kategorie ‚Food Law‘ zwei Formate an:  <br>
+          Um hier einen Überblick zu bekommen und Antworten auf individuelle Fragen zu erhalten, bieten wir Gründer*innen und Gründungsinteressierte in der Kategorie ‚Food Law‘ zwei Formate an:  <br>
           <br><b>Öffentliche Veranstaltungen</b> zu lebensmittelrechtlichen Themen wie Novel Food, Health Claims, Kennzeichnung und Produktsicherheit sowie Patente und Gebrauchsmuster.<br>
           <br><b>Geschlossene Sprechstunden</b> zur individuellen rechtlichen Beratung von Food-Startups in Niedersachsen durch Prof. Dr. Markus Grube, Rechtsanwalt, Lebensmittel- und Verbrauchsgüterjurist.
       - title: Ziele
@@ -34,7 +34,7 @@ sections:
       - title: Teilnehmer*innen
         image: images/SVG/undraw_work_chat.svg
         content: >-
-          <b>Gründer:innen und Gründungsinteressierte</b>  der Food Startup-Szene<br>
+          <b>Gründer*innen und Gründungsinteressierte</b>  der Food Startup-Szene<br>
           <br><b>Junge Forscherteams</b> aus Universitäten und Forschungseinrichtungen, die neue Produkte, Technologien, Verfahren oder Dienstleistungen rund um das Ernährungssystem entwickeln.
       - title: Ablauf
         image: images/SVG/undraw_timeline.svg

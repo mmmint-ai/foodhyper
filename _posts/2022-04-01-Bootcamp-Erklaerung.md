@@ -38,7 +38,7 @@ Zum Ablauf:
 <br>
 <b>Dienstag, 10. Mai</b>: Work I individualisierte Masterclasses und Workshops zu den Themen: Food-Legal / Novel Food, Netzwerk Marketing, Storytelling, Produktentwicklung, Investment, VC und Business Angels u.v.m. mit Mentoren 
 <br>
-<b>Mittwoch, 11. Mai</b>: Research I individuelle Produktberatung mit Experten des [DIL](https://www.dil-ev.de) , Transfer (für Ideen/Produkte ohne Technologiekomponente besteht ein Alternativprogramm im [Seedhouse](https://www.seedhouse.de/) oder es ist ein Pausetag möglich)
+<b>Mittwoch, 11. Mai</b>: Research I individuelle Produktberatung mit Expert*innen des [DIL](https://www.dil-ev.de) , Transfer (für Ideen/Produkte ohne Technologiekomponente besteht ein Alternativprogramm im [Seedhouse](https://www.seedhouse.de/) oder es ist ein Pausetag möglich)
 <br>
 <b>Donnerstag, 12. Mai</b>: Production I Experimente und Produktion zur Entwicklung und Optimierung der Produktidee, Transfer (für Ideen/Produkte ohne Technologiekomponente besteht ein Alternativprogramm im [Seedhouse](https://www.seedhouse.de/) oder es ist ein Pausetag möglich)
 <br>

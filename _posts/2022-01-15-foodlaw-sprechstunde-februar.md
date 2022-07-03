@@ -14,7 +14,7 @@ layout: post
 
 Habt ihr eine Idee oder einen Prototyp für ein innovatives Lebensmittel, einen Herstellungsprozess oder eine neue Technologie und fragt euch: Darf ich das so überhaupt herstellen und vermarkten? Handelt es sich um ein NovelFood? Was muss ich bei der Kennzeichnung beachten und darf ich zur besseren Vermarktung HealthClaims verwenden? Und wie schütze ich eigentlich meine Idee? 
 
-Wir bieten euch die Möglichkeit diese oder ähnliche rechtliche Fragen mit dem Experten für Lebensmittelrecht Herrn Prof. Dr. Markus Grube in einer kostenlosen Beratungsstunde zu besprechen. Der erste Termin findet am 02. Und 03. Februar im [Seedhouse](https://www.seedhouse.de/) Osnabrück statt.
+Wir bieten euch die Möglichkeit diese oder ähnliche rechtliche Fragen mit dem Expert*innen für Lebensmittelrecht Herrn Prof. Dr. Markus Grube in einer kostenlosen Beratungsstunde zu besprechen. Der erste Termin findet am 02. Und 03. Februar im [Seedhouse](https://www.seedhouse.de/) Osnabrück statt.
 
 Informationen zur Bewerbung auf diese einmalige Gelegenheit findet ihr unter [http://www.foodhyper.de/law/](http://www.foodhyper.de/law/)
 

@@ -10,7 +10,7 @@ sections:
     title: Bootcamp
     content: >-
       Das nächste Bootcamp wird vom <b>10. – 14. Oktober 2022 beim <a href="https://www.seedhouse.de/">Seedhouse</a> in Osnabrück und <a href="https://www.dil-ev.de/">DIL</a> in Quakenbrück</b> stattfinden.
-      Bewirb dich mit dem <b><a target="_blank" href="/documents/bootcamp_bewerbung.pdf">Bewerbungsformular</a></b> und deinem <b><a target="_blank" href="/documents/portfolio_dil.pdf">Pitch Deck</a></b> ab sofort hier auf der Seite.
+      <b><a href="#Bewerbung">Bewirb dich jetzt!</a></b>
 
   - section_id: Bootcamp
     component: features_block.html
@@ -28,7 +28,7 @@ sections:
       - title: Benefits
         image: images/Bootcamp_2.jpg
         content: >-
-          Als Teilnehmer:in des Bootcamps profitierst du von:
+          Als Teilnehmer*in des Bootcamps profitierst du von:
 
            - einem individualisierten Input-Angebot
            - Unterstützung in der Konkretisierung des Geschäftsmodells sowie der Kommerzialisierung
@@ -50,7 +50,7 @@ sections:
           Mit dem folgenden Rahmenprogramm werden eure Ideen/ Innovationen auf das nächste Level gebracht:
           <br>
           <br><b>Montag:</b> <i>Kickoff I</i> Vorstellung, Input und Austausch zu Food-Trends, Lessons Learned, u.v.m., Kennenlernen der Teilnehmer\*innen
-          <br><b>Dienstag:</b> <i>Research I</i> individuelle Produktberatung mit Experten des DIL  
+          <br><b>Dienstag:</b> <i>Research I</i> individuelle Produktberatung mit Expert\*innen des DIL  
           <br><b>Mittwoch:</b> <i>Production I</i> Experimente und Produktion zur Entwicklung und Optimierung der Produktidee am DIL 
           <br><b>Donnerstag:</b> <i>Work I</i> individualisierte Gesprächen mit Expert\*innen zu den Themen: Food-Legal / Novel Food, Netzwerk, Marketing, Storytelling, Produktentwicklung, Investment, VC und Business Angels u.v.m. 
           <br><b>Freitag:</b> <i>Network I</i> individuelle Hilfestellungen, Pitch-Event mit anschließender Verkostung vor Vertreter\*innen namenhafter Unternehmen aus dem Food-Bereich, Matchmaking sowie wertvolles Feedback bei anschließendem Netzwerken
@@ -61,7 +61,13 @@ sections:
       - title: Bewerbung
         image: images/SVG/undraw_subscriber.svg
         content: >-
-          <b>Bewirb dich ab sofort hier für das kommende Bootcamp. </b> Bewerben können sich Teams und Startups mit innovativen Ideen rund um den Food-(Tech-) Bereich. Die Bewerbung erfolgt über das <b><a target="_blank" href="/documents/bootcamp_bewerbung.pdf">Bewerbungsformular</a></b> sowie ein <b><a target="_blank" href="/documents/portfolio_dil.pdf">Pitch Deck</a></b>, in dem eure Innovation, deren Umsetzbarkeit und Potential auf dem Markt deutlich werden.
+          <b>Bewirb dich ab sofort hier für das kommende Bootcamp. </b> Bewerben können sich Teams und Startups mit innovativen Ideen rund um den Food-(Tech-) Bereich. Die Bewerbung erfolgt wie folgt:
+          
+          1. Lade dir das <b><a target="_blank" href="/documents/bootcamp_bewerbung.pdf">Bewerbungsformular</a></b> und das begleitende <b><a target="_blank" href="/documents/portfolio_dil.pdf">Portfolio</a></b> runter.
+
+          2. Fülle das Bewerbungsformular aus.
+
+          3. Lade das Bewerbungsformular inklusive aktuellem Pitch Deck hoch. In dem Pitch Deck soll eure Innovation, deren Umsetzbarkeit, der USP und das Potential auf dem Markt deutlich werden.
 
           <br>
           <br>
@@ -89,7 +95,7 @@ sections:
         author: Vincent & Thorsten
         company: Lower Impact
         companyurl: http://www.lowerimpact.de/
-      - quote: „Die Atmosphäre im Bootcamp war hervorragend, vom ersten Tag an war der Austausch mit Gleichgesinnten fruchtbar, wobei der Spaß nicht zu kurz kam. Besonders wertvoll waren für uns die Gespräche mit den Experten des DILs, die auch nach dem Bootcamp weitergeführt wurden.“
+      - quote: „Die Atmosphäre im Bootcamp war hervorragend, vom ersten Tag an war der Austausch mit Gleichgesinnten fruchtbar, wobei der Spaß nicht zu kurz kam. Besonders wertvoll waren für uns die Gespräche mit den Expert*innen des DILs, die auch nach dem Bootcamp weitergeführt wurden.“
         author: Jonas & Max
         company: COLIPI
         companyurl: https://colipi.com/
