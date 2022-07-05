@@ -61,7 +61,7 @@ sections:
       - title: Bewerbung
         image: images/SVG/undraw_subscriber.svg
         content: >-
-          <b>Bewirb dich ab sofort hier für das kommende Bootcamp. </b> Bewerben können sich Teams und Startups mit innovativen Ideen rund um den Food-(Tech-) Bereich. Die Bewerbung erfolgt wie folgt:
+          <b>Bewirb dich ab sofort hier für das kommende Bootcamp. Bewerbungsfrist ist der 10 August. </b> Bewerben können sich Teams und Startups mit innovativen Ideen rund um den Food-(Tech-) Bereich. Die Bewerbung erfolgt wie folgt:
           
           1. Lade dir das <b><a target="_blank" href="/documents/bootcamp_bewerbung.pdf">Bewerbungsformular</a></b> und das begleitende <b><a target="_blank" href="/documents/portfolio_dil.pdf">Portfolio</a></b> runter.
 
