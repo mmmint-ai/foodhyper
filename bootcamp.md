@@ -77,7 +77,7 @@ sections:
   - section_id: bewertungen
     component: image_block.html
     type: imageblock
-    title: Bewertungen Bootcamp
+    title: Stimmen zum ersten Bootcamp
     image: /images/bootcamp/bootcamp.jpeg
 
   - section_id: quotes
