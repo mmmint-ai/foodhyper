@@ -50,16 +50,16 @@ sections:
     component: contact_block.html
     type: featuresblock
     bg: gray
-    title: Ansprechpartner
+    title: Ansprechpartnerinnen
     subtitle: >-
 
     contactlist:
-      - title: 
-        image: images/Felix.jpg
+      - title:
+        image: images/Karin_Hollah.png
         content: >-
-          Felix Willert <br><br> <a href="mailto:felix@innovate-os.de">felix@innovate-os.de </a><br><br> Tel.: 0541 50798526
+          Karin Mastall <br><br> E-Mail: <a href="mailto:K.Mastall@dil-ev.de">K.Mastall@dil-ev.de </a>  <br><br> Tel.: 05431 183 193
       - title: 
-        image: 
+        image: images/kerstin.jpeg
         content: >-
           Kerstin Hogrefe <br><br> E-Mail: <a href="mailto:kerstin@seedhouse.de ">kerstin@seedhouse.de</a>  <br><br> Tel.: 0151 67965973
     

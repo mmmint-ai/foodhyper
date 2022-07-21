@@ -9,8 +9,10 @@ sections:
     image: images/logo.png
     title: Hackathon
     content: >-
-      Der nächste Hackathon wird am 14. & 15. September 2022 im Alando Palais stattfinden. Die Anmeldung ist bald hier möglich!
-  
+      Der nächste Hackathon wird am 14. & 15. September 2022 im Alando Palais (Osnabrück) stattfinden.
+      <br>
+      Melde dich jetzt kostenlos <a href="#Anmeldung">hier</a> an!
+
   - section_id: feature
     component: features_block.html
     type: featuresblock
@@ -22,7 +24,7 @@ sections:
         image: images/Hackathon_1.jpg
         content: >-
           Der Begriff „Hackathon” setzt sich aus den Begriffen „Hacking” und „Marathon” zusammen. Die Verwendung des Begriffs „Hacking” ist dabei spielerisch gemeint und bezieht sich nicht auf kriminelle Cyberaktivitäten.
-          Hackathons sind vielmehr Events, bei denen interdisziplinäre Teams in kurzer Zeit kollaborativ Lösungen für praxisrelevante Herausforderungen der Industrie und Wirtschaft erarbeiten. Beim FoodHyper-Hackathon handelt es sich um Herausforderungen, die speziell aus dem Lebensmittelbereich kommen.
+          Hackathons sind vielmehr Events, bei denen <b>interdisziplinäre Teams</b> in <b>kurzer Zeit</b> kollaborativ <b>Lösungen für praxisrelevante Herausforderungen</b> der Industrie und Wirtschaft erarbeiten. Beim FoodHyper-Hackathon handelt es sich um Herausforderungen, die speziell aus dem <b>Lebensmittelbereich</b> kommen.
   
   - section_id: images
     component: images_block.html
@@ -42,79 +44,77 @@ sections:
     title:
     subtitle: >-
     featureslist:
-      - title: Ziele
-        image: images/Hackathon_2.jpg
-        content: >-
-          - Bearbeitung von Challenges, die als tatsächliche Herausforderung in der Arbeit des Unternehmens oder der Institution aufgekommen sind
-
-          - Begleitung der Teams auf dem Weg zu einer konkreten Lösung
-
-          - innovative Lösungsfindung in Form von technischen Lösungen oder neuen Geschäftsmodellen
-      - title: Zielgruppe
+      - title: Key Facts
         image: images/Hackathon_3.jpg
         content: >-
-          - Visionäre der Food-Branche
+          <b>Was?</b> Foodhyper-Hackathon
+          <br>
+          <b>Wann?</b> 14.September – 15.September 2022
+          <br>
+          <b>Wo?</b> Alando Palais Osnabrück
+          <br>
+          <b>Wer?</b> kann teilnehmen? 
+          <br>
 
-          - Studierende aus Bereichen wie Lebensmitteltechnik, Prozessmanagement, Informatik, BWL uvm.
+          - Alle Visionäre der Food-Branche!
+
+          - Studierende, Auszubildende sowie Berufstätigen aus Bereichen wie Lebensmitteltechnik, Prozessmanagement, Informatik, BWL, u.v.m.
 
           - bestehende Teams oder Startups mit innovativen Ideen im Food(Tech)-Bereich mit eigener Challenge
-
-          - Berufstätige und Auszubildende
-      - title: Das bringt dir die Teilnahme am Hackathon
-        image: images/Hackathon_4.jpg
-        content: >-
-          - Ausbau des eigenen Netzwerkes
-
-          - Kontakte zu etablierten Unternehmen und Startups aus dem Food-Bereich
-
-          - Chance auf die weitere Begleitung zur Umsetzung durch Acceleration-Programme
-
-          - Unterstützung durch Mentoren
-
-          - attraktive Preise und ein Teilnahmezertifikat
-      - title: Ablauf
+      - title: Wie läuft der Hackathon ab?
         image: images/Hackathon_5.jpg
         content: >-
-          Der Hackathon ist in folgende Phasen unterteilt:
+          Der Hackathon startet am 14.09. und endet am 15.09. mit ca. 22 h reiner Hacking-Zeit:
 
           - Kickoff mit Vorstellung der Challenges
 
-          - Teamfindung
+          - Kennenlernen und Teamfindung
 
           - Methodischer Input
 
-          - Ideengenerierung und -ausarbeitung 
+          - Hacking/ Ideengenerierung und -ausarbeitung
 
           - Pitch Building
 
           - Ergebnispräsentation
 
           - Awarding
+  
+          - Networking auf der innovate!convention 
+      - title: Das bringt dir die Teilnahme am Hackathon
+        image: images/Hackathon_4.jpg
+        content: >-
+          - wertvolle Kontakte zu Unternehmen und Startups
+
+          - Chance auf attraktive Preise:
+            -  1. Platz: 1000 Euro
+               2. Platz: 500 Euro
+               3. Platz: 250 Euro 
+            - Teilnahmezertifikat
+            - Verlosung einer Überraschungsbox mit innovative Food-Produkten unter den Teilnehmer*innen
+
+          - Ausbau des eigenen Netzwerkes
+
+          - Chance auf Wildcard für das Bootcamp im Oktober
+
+          - Potential zur Startup-Gründung
+          
+          - frische Impulse und eine einmalige Atmosphäre
+          
+          - Freitickets für die innovate!convention am Donnerstagabend
 
   - section_id: pricing
     component: pricing_image_block.html
     type: pricingblock
     bg: gray
-    title: Challenges der 1. Runde
+    title: Challenges 
     subtitle:
     pricingplans:
-      - description: Neue Anwendungsbereiche für nachhaltig erzeugtes, getrocknetes Obst und Gemüse
-        company: Frudist
-        hashtags: "#business #product #startup"
-        image: images/challenges/frudist.jpg
-        link: /documents/Frudist.pdf
-        highlight: true
       - description: Circular Economy – Nutzung von Nebenströmender Lebensmittelwertschöpfungskette
         company: DIL Deutsches Institut für Lebensmitteltechnik e.V.
         hashtags: "#product #science"
         image: images/challenges/dil.jpg
         link: /documents/Circular Economy.pdf
-        highlight: true
-      - description: Produktlaunch eines HPP-geeigneten Produkts aus pflanzlichen Proteinen
-        company: Uhde High Pressure Technologies GmbH
-        hashtags: "#product #corporate #protein #business"
-        image: images/challenges/uhde.jpg
-        link: /documents/High Pressure Processing.pdf
         highlight: true
       - description: Next Generation of Heating
         company: DIL Deutsches Institut für Lebensmitteltechnik e.V.
@@ -122,19 +122,12 @@ sections:
         image: images/challenges/dil.jpg
         link: /documents/Next Generation of Heating.pdf
         highlight: true
-      - description: Lebensmittelwertschöpfungsketten im Umbruch durch Corona und Krieg
-        company: Team Foodhyper
-        hashtags: "#business #supplychain #open"
+      - description: Weitere Challenges folgen
+        company: Foodhyper
+        hashtags: "#more #to #come"
         image: images/challenges/fh.jpg
-        link: /documents/Wertschöpfungsketten im Umbruch.pdf
         highlight: true
-      - description: Auswertung der Produktbewertungen aller stock keeping units als Datenbasis für die Produktentwicklung.
-        company: foodist.de
-        hashtags: "#startup #it #coding"
-        image: images/challenges/foodist.jpg
-        link: /documents/Review Analyse.pdf
-        highlight: true
-
+      
   - section_id: feature
     component: features_block.html
     type: featuresblock
@@ -146,7 +139,18 @@ sections:
       - title: Anmeldung
         image: images/SVG/undraw_subscriber.svg
         content: >-
-          Die Anmeldung zum Hackathon ist hier bald wieder möglich. Wir freuen uns über deine Teilnahme!
+          Melde dich hier kostenfrei an! Wir freuen uns auf deine Teilnahme.
+
+          <br>
+          <br>
+
+          <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+          <script>hbspt.forms.create({ region: "na1",portalId: "5968998",formId: "fc5a7e2b-5a8d-4fc5-a8a7-07ddd7261fef" });</script>
+
+
+
+
+
 
   - section_id: call-to-action
     component: cta_block.html
@@ -161,7 +165,7 @@ sections:
     component: contact_block.html
     type: contactblock
     bg: gray
-    title: Ansprechpartner
+    title: Ansprechpartner*innen
     subtitle: >-
 
     contactlist:
@@ -176,4 +180,3 @@ sections:
 
 layout: features
 ---
-
