@@ -114,18 +114,25 @@ sections:
         company: DIL Deutsches Institut für Lebensmitteltechnik e.V.
         hashtags: "#product #science"
         image: images/challenges/dil.jpg
-        link: /documents/Circular Economy.pdf
+        link: /documents/Challenge-Beschreibung_Circular Economy.pdf
         highlight: true
       - description: Next Generation of Heating
         company: DIL Deutsches Institut für Lebensmitteltechnik e.V.
         hashtags: "#technology #science #processing"
         image: images/challenges/dil.jpg
-        link: /documents/Next Generation of Heating.pdf
+        link: /documents/Challenge-Beschreibung_Next generation of heating.pdf
         highlight: true
-      - description: Weitere Challenges folgen
-        company: Foodhyper
-        hashtags: "#more #to #come"
-        image: images/challenges/fh.jpg
+      - description: Entwicklung eines Vendingautomaten, der Gerichte frisch zubereitet, sowie dessen Integration in das bestehende Vendingportfolio von coffee perfect
+        company: coffee perfect
+        hashtags: "#science #vending "
+        image: images/challenges/coffeeperfect.jpg
+        link: /documents/Challenge-Beschreibung_Coffee_Perfect.pdf
+        highlight: true
+      - description: Veredelungsmöglichkeiten zur Wertsteigerungvon von regionalen landschaftlichen Rohprodukten durch regionale Verarbeitungs- und Produktionsansätze
+        company: Regionalwert AG
+        hashtags: "#veredelung #science"
+        image: images/challenges/regionalwert.jpg
+        link: /documents/Challenge-Beschreibung_Regionalwert_AG.pdf
         highlight: true
       
   - section_id: feature
