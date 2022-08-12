@@ -128,7 +128,7 @@ sections:
         image: images/challenges/coffeeperfect.jpg
         link: /documents/Challenge-Beschreibung_Coffee_Perfect.pdf
         highlight: true
-      - description: Veredelungsmöglichkeiten zur Wertsteigerungvon von regionalen landschaftlichen Rohprodukten durch regionale Verarbeitungs- und Produktionsansätze
+      - description: Veredelungsmöglichkeiten zur Wertsteigerung von regionalen landschaftlichen Rohprodukten durch regionale Verarbeitungs- und Produktionsansätze
         company: Regionalwert AG
         hashtags: "#veredelung #science"
         image: images/challenges/regionalwert.jpg
