@@ -9,8 +9,7 @@ sections:
     image: images/logo.png
     title: Bootcamp
     content: >-
-      Das nächste Bootcamp wird vom <b>10. – 14. Oktober 2022 beim <a href="https://www.seedhouse.de/">Seedhouse</a> in Osnabrück und <a href="https://www.dil-ev.de/">DIL</a> in Quakenbrück</b> stattfinden.
-      <b><a href="#Bewerbung">Bewirb dich jetzt!</a></b>
+      Das nächste Bootcamp wird vom 10. – 14. Oktober 2022 beim Seedhouse in Osnabrück und DIL in Quakenbrück stattfinden. Die Teilnehmer werden Anfang September bekannt gegeben.
 
   - section_id: Bootcamp
     component: features_block.html
@@ -61,18 +60,7 @@ sections:
       - title: Bewerbung
         image: images/SVG/undraw_subscriber.svg
         content: >-
-          <b>Bewirb dich ab sofort hier für das kommende Bootcamp. Bewerbungsfrist ist der 14. August. </b> Bewerben können sich Teams und Startups mit innovativen Ideen rund um den Food-(Tech-) Bereich. Die Bewerbung erfolgt wie folgt:
-          
-          1. Lade dir das <b><a target="_blank" href="/documents/bootcamp_bewerbung.pdf">Bewerbungsformular</a></b> und das begleitende <b><a target="_blank" href="/documents/portfolio_dil.pdf">Portfolio</a></b> runter.
-
-          2. Fülle das Bewerbungsformular aus.
-
-          3. Lade das Bewerbungsformular inklusive aktuellem Pitch Deck hoch. In dem Pitch Deck soll eure Innovation, deren Umsetzbarkeit, der USP und das Potential auf dem Markt deutlich werden.
-
-          <br>
-          <br>
-
-          <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script> <script> hbspt.forms.create({ region: "na1", portalId: "5968998", formId: "769d882c-ebf5-4f5e-b2da-bdf361740c55" }); </script>
+          Das nächste Bootcamp wird vom 10. – 14. Oktober 2022 beim Seedhouse in Osnabrück und DIL in Quakenbrück stattfinden. Die Teilnehmer werden Anfang September bekannt gegeben.
 
   - section_id: bewertungen
     component: image_block.html
