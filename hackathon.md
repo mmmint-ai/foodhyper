@@ -134,6 +134,12 @@ sections:
         image: images/challenges/regionalwert.jpg
         link: /documents/Challenge-Beschreibung_Regionalwert_AG.pdf
         highlight: true
+      - description: Neue Diebstahlsicherung / Tracker für die mobilen Coffee-Bikes (weltweit)
+        company: Coffee Bike
+        hashtags: "#tracking #diebstahlsicherung"
+        image: images/challenges/logo_coffee-bike.png
+        link: /documents/Challenge-Beschreibung_Coffee-Bike.pdf
+        highlight: true
       
   - section_id: feature
     component: features_block.html
