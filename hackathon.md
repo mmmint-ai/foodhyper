@@ -50,7 +50,7 @@ sections:
         content: >-
           <b>Was?</b> Foodhyper-Hackathon
           <br>
-          <b>Wann?</b> 14.September – 15.September 2022
+          <b>Wann?</b> 14.September 12 Uhr – 15.September 2022 18 Uhr mit anschließender Teilnahme auf der innovate!convention
           <br>
           <b>Wo?</b> Alando Palais Osnabrück
           <br>
@@ -65,7 +65,7 @@ sections:
       - title: Wie läuft der Hackathon ab?
         image: images/Hackathon_5.jpg
         content: >-
-          Der Hackathon startet am 14.09. und endet am 15.09. mit ca. 22 h reiner Hacking-Zeit:
+          Der Hackathon startet am 14.09. um 12 Uhr und endet am 15.09. gegen 18 Uhr auf den innovate!convention mit ca. 22 h reiner Hacking-Zeit:
 
           - Kickoff mit Vorstellung der Challenges
 
