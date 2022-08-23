@@ -21,7 +21,8 @@ sections:
     subtitle: >-
     featureslist:
       - title:
-        image: images/Hackathon_1.jpg
+        image: images/Hackathon_3.jpg
+        video: /videos/teaser.mp4
         content: >-
           Der Begriff „Hackathon” setzt sich aus den Begriffen „Hacking” und „Marathon” zusammen. Die Verwendung des Begriffs „Hacking” ist dabei spielerisch gemeint und bezieht sich nicht auf kriminelle Cyberaktivitäten.
           Hackathons sind vielmehr Events, bei denen <b>interdisziplinäre Teams</b> in <b>kurzer Zeit</b> kollaborativ <b>Lösungen für praxisrelevante Herausforderungen</b> der Industrie und Wirtschaft erarbeiten. Beim FoodHyper-Hackathon handelt es sich um Herausforderungen, die speziell aus dem <b>Lebensmittelbereich</b> kommen.
