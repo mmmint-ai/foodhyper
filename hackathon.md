@@ -141,6 +141,12 @@ sections:
         image: images/challenges/logo_coffee-bike.png
         link: /documents/Challenge-Beschreibung_Coffee-Bike.pdf
         highlight: true
+      - description: Veganes Grillsortiment – Entwicklung einer veganen Fleischalternative für die Grillsaison
+        company: The Plantly Butchers
+        hashtags: "#vegan #butchers"
+        image: images/challenges/the-plantly-butchers.png
+        link: /documents/Challenge-Beschreibung_The_Plantly_Butchers.pdf
+        highlight: true
       
   - section_id: feature
     component: features_block.html
