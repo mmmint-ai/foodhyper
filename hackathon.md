@@ -11,7 +11,7 @@ sections:
     content: >-
       Der nächste Hackathon wird am 14. & 15. September 2022 im Alando Palais (Osnabrück) stattfinden.
       <br>
-      Melde dich jetzt kostenlos <a href="#Anmeldung">hier</a> an!
+      Melde dich jetzt noch bis zum 11.09. kostenlos <a href="#Anmeldung">hier</a> an!
 
   - section_id: feature
     component: features_block.html
@@ -48,9 +48,9 @@ sections:
       - title: Key Facts
         image: images/Hackathon_3.jpg
         content: >-
-          <b>Was?</b> Foodhyper-Hackathon
+          <b>Was?</b> FoodHyper-Hackathon
           <br>
-          <b>Wann?</b> 14.September 12 Uhr – 15.September 2022 18 Uhr mit anschließender Teilnahme auf der innovate!convention
+          <b>Wann?</b> 14. September, 12 Uhr – 15. September 2022, 18 Uhr mit anschließendem Ausklang auf der innovate!convention
           <br>
           <b>Wo?</b> Alando Palais Osnabrück
           <br>
@@ -59,7 +59,7 @@ sections:
 
           - Alle Visionäre der Food-Branche!
 
-          - Studierende, Auszubildende sowie Berufstätigen aus Bereichen wie Lebensmitteltechnik, Prozessmanagement, Informatik, BWL, u.v.m.
+          - Studierende, Auszubildende sowie Berufstätige aus Bereichen wie Lebensmitteltechnik, Prozessmanagement, Informatik, BWL, u.v.m.
 
           - bestehende Teams oder Startups mit innovativen Ideen im Food(Tech)-Bereich mit eigener Challenge
       - title: Wie läuft der Hackathon ab?
@@ -92,7 +92,7 @@ sections:
                2. Platz: 500 Euro
                3. Platz: 250 Euro 
             - Teilnahmezertifikat
-            - Verlosung einer Überraschungsbox mit innovative Food-Produkten unter den Teilnehmer*innen
+            - Verlosung einer Überraschungsbox mit innovativen Food-Produkten unter den Teilnehmer*innen
 
           - Ausbau des eigenen Netzwerkes
 
