@@ -9,7 +9,7 @@ sections:
     image: images/logo.png
     title: FoodLaw
     content: >-
-      Der nächste Termin für die geschlossene Sprechstunde findet am 15. September 2022 auf der <a href="https://innovate-convention.de/">innovate!convention</a> in Osnabrück statt.
+      Der nächste Termin für die geschlossene Sprechstunde findet am 15. September 2022 auf der <a href="https://innovate-convention.de/">innovate!convention</a> in Osnabrück statt.Meldet euch hierzu noch bis zum 11. September an und bekommt eurer Convention-Ticket gratis!
 
       <br>
       <br>
