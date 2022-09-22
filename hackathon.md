@@ -9,7 +9,7 @@ sections:
     image: images/logo.png
     title: Hackathon
     content: >-
-      Der nächste Hackathon wird am 14. & 15. September 2022 im Alando Palais (Osnabrück) stattfinden.
+      Der Hackathon hat am 14. & 15. September 2022 im Alando Palais (Osnabrück) stattgefunden.
 
   - section_id: feature
     component: features_block.html
@@ -48,11 +48,7 @@ sections:
         content: >-
           <b>Was?</b> FoodHyper-Hackathon
           <br>
-          <b>Wann?</b> 14. September, 12 Uhr – 15. September 2022, 18 Uhr mit anschließendem Ausklang auf der innovate!convention
-          <br>
-          <b>Wo?</b> Alando Palais Osnabrück
-          <br>
-          <b>Wer?</b> kann teilnehmen? 
+          <b>Wer</b> kann teilnehmen? 
           <br>
 
           - Alle Visionäre der Food-Branche!
@@ -69,7 +65,7 @@ sections:
 
           - Kennenlernen und Teamfindung
 
-          - Methodischer Input
+          - methodischer Input
 
           - Hacking/ Ideengenerierung und -ausarbeitung
 
@@ -79,34 +75,29 @@ sections:
 
           - Awarding
   
-          - Networking auf der innovate!convention 
+          - Networking
       - title: Das bringt dir die Teilnahme am Hackathon
         image: images/Hackathon_4.jpg
         content: >-
           - wertvolle Kontakte zu Unternehmen und Startups
 
-          - Chance auf attraktive Preise:
-            -  1. Platz: 1000 Euro
-               2. Platz: 500 Euro
-               3. Platz: 250 Euro 
-            - Teilnahmezertifikat
-            - Verlosung einer Überraschungsbox mit innovativen Food-Produkten unter den Teilnehmer*innen
-
+          - Chance auf attraktive Preise
+          
+          - Teilnahmezertifikat
+          
           - Ausbau des eigenen Netzwerkes
 
-          - Chance auf Wildcard für das Bootcamp im Oktober
+          - Chance auf Wildcard für das Bootcamp
 
           - Potential zur Startup-Gründung
           
           - frische Impulse und eine einmalige Atmosphäre
           
-          - Freitickets für die innovate!convention am Donnerstagabend
-
   - section_id: pricing
     component: pricing_image_block.html
     type: pricingblock
     bg: gray
-    title: Challenges 
+    title: Challenges des letzten Hackathons
     subtitle:
     pricingplans:
       - description: Circular Economy – Nutzung von Nebenströmender Lebensmittelwertschöpfungskette
