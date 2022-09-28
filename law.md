@@ -9,7 +9,7 @@ sections:
     image: images/logo.png
     title: FoodLaw
     content: >-
-      Der nächste Termin für die geschlossene Sprechstunde findet am 15. September 2022 auf der <a href="https://innovate-convention.de/">innovate!convention</a> in Osnabrück statt.
+      Die nächste öffentliche Sprechstunde findet am 3. November 2022 in Osnabrück statt.
   - section_id: Law
     component: features_block.html
     type: featuresblock
@@ -45,7 +45,7 @@ sections:
       - title: Bewerbung
         image: images/SVG/undraw_subscriber.svg
         content: >-
-          Der nächste Termin für   die geschlossene Sprechstunde findet am 15. September 2022 auf der <a href="https://innovate-convention.de/">innovate!convention</a> in Osnabrück statt.
+          Die nächste öffentliche Sprechstunde findet am 3. November 2022 in Osnabrück statt.
 
   - section_id: call-to-action
     component: cta_block.html
