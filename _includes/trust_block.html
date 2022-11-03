@@ -31,12 +31,18 @@
             src="{{ link.image | relative_url }}"
             alt="{{ link.url }}"
             loading="lazy"
-            style="height: 100px; width: 200px"
+            style="height: 75px; width: 150px"
           />
         </a>
         {% endif %} {% assign linktitle_is_not_empty = link.title| is_not_empty
         %} {% if linktitle_is_not_empty %}
-        <h5>{{ link.title }}</h5>
+        <a
+          href="{{ link.url | relative_url }}"
+          style="border-bottom: initial"
+          target="_blank"
+        >
+          <h4>{{ link.title }}</h4>
+        </a>
         {% endif %}
       </div>
       {% endfor %}

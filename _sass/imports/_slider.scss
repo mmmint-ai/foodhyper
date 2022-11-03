@@ -1,4 +1,4 @@
-#image-slider {
+#quote-slider {
   height: 100%;
   width: 100%;
 
@@ -8,12 +8,25 @@
     display: flex;
     justify-content: center;
     align-items: center;
-	flex-direction: column;
+    flex-direction: column;
 
-	.quote {
-		width: 75%;
-		text-align: center;
-		margin: 0;
-	}
+    .quote {
+      width: 75%;
+      text-align: center;
+      margin: 0;
+    }
+  }
+}
+
+#image-slider {
+  height: 100%;
+  width: 100%;
+
+  .splide__slide {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
   }
 }

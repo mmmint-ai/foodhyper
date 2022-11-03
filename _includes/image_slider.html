@@ -2,25 +2,20 @@
   id="{{ include.section.section_id }}"
   class="block reviews-block bg-{{ include.section.bg }} small-outer"
 >
+<div class="block-header inner-medium">
+    <h3 class="trust-title">{{ include.section.title }}</h3>
+  </div>
+
   {% assign images_is_not_empty = include.section.images | is_not_empty %} {% if
   images_is_not_empty %}
   <div class="inner">
     <div class="grid">
-      <div id="quote-slider" class="splide">
+      <div id="image-slider" class="splide">
         <div class="splide__track">
           <ul class="splide__list">
-            {% for review in include.section.images %}
+            {% for image in include.section.images %}
             <li class="splide__slide">
-              <p class="quote">{{ review.quote }}</p>
-              <h3>
-                {{ review.author }},
-                <a
-                  href="{{ review.companyurl }}"
-                  style="border-bottom: initial"
-                >
-                  {{ review.company }}
-                </a>
-              </h3>
+				<img class="slider-image" src="{{ image.src }}"></img>
             </li>
             {% endfor %}
           </ul>
@@ -36,9 +31,9 @@
 
 <script>
   window.addEventListener("load", (event) => {
-    new Splide("#quote-slider", {
+    new Splide("#image-slider", {
       type: "loop",
-      speed: 500,
+      speed: 750,
       cover: true,
       lazyLoad: true,
       drag: true,
