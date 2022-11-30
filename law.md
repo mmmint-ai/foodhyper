@@ -9,8 +9,8 @@ sections:
     image: images/logo.png
     title: FoodLaw
     content: >-
-      Die nächste öffentliche Sprechstunde findet am 3. November 2022 in Osnabrück statt.
-      Am 9. und 10. November wird die geschlossene Sprechstunde angeboten. 
+      Die lebensmittelrechtliche Beratung fand in Form von öffentlichen und geschlossenen Sprechstunden statt.
+      Für das Jahr 2022 sind alle Termine abgeschlossen.
   - section_id: Law
     component: features_block.html
     type: featuresblock
@@ -47,25 +47,7 @@ sections:
         image: images/SVG/undraw_subscriber.svg
         content: >-
           <br>
-          <b>Öffentliche Sprechstunde:</b> mit Dr. Christian Newton, Patentingenieur.<br>
-          <i>IP für Start-ups - Die wichtigsten Schutzrechte für unternehmerischen Erfolg im Überblick - Vom Patent bis zum Urheberrecht </i><br> Impuls + Q&A
-          <br>
-          <b>Wann?</b> 3. November 2022, 14:00 – 17:00 Uhr
-          <br>
-          <b>Wo?</b> Seedhouse Accelerator, Marie-Curie-Straße 3, 49076 Osnabrück
-          <br><br>
-          <button data-tf-popup="SHk5Vdtn" data-tf-iframe-props="title=Bewerbung zur lebensmittelrechtlichen Sprechstunde" data-tf-medium="snippet" style="background: #b99700;border-radius: 3px;border: 2px solid #b99700;box-sizing: border-box;color: #fff;display: inline-block;font-size: 16px;height: 2.5em;line-height: 1.5;padding: 0.5em 30px;-webkit-transition: opacity 0.15s ease-in-out;transition: opacity 0.15s ease-in-out;font-size: 16px;padding: 0.25em 15px;">Anmelden</button><script src="//embed.typeform.com/next/embed.js"></script>
-        
-          <br>
-          <br>
-
-          <b>Geschlossene Sprechstunde</b> mit Prof. Dr. Markus Grube
-          <br>
-          <b>Wann?</b> 9. & 10. November 2022
-          <br>
-          <b>Wo?</b> Online über Zoom
-          <br><br>
-          <button data-tf-popup="Ot6oP0VY" data-tf-iframe-props="title=Bewerbung zur lebensmittelrechtlichen Sprechstunde" data-tf-medium="snippet" style="background: #b99700;border-radius: 3px;border: 2px solid #b99700;box-sizing: border-box;color: #fff;display: inline-block;font-size: 16px;height: 2.5em;line-height: 1.5;padding: 0.5em 30px;-webkit-transition: opacity 0.15s ease-in-out;transition: opacity 0.15s ease-in-out;font-size: 16px;padding: 0.25em 15px;">Anmelden</button><script src="//embed.typeform.com/next/embed.js"></script>
+          <b>Für das Jahr 2022 sind alle Termine abgeschlossen. Aktuell gibt es keine neuen Termine.</b>
 
   - section_id: call-to-action
     component: cta_block.html
