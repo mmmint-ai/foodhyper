@@ -59,7 +59,7 @@ sections:
       - title: Wie läuft der Hackathon ab?
         image: images/Hackathon_5.jpg
         content: >-
-          Der Hackathon startet am 14.09. um 12 Uhr und endet am 15.09. gegen 18 Uhr auf den innovate!convention mit ca. 22 h reiner Hacking-Zeit:
+          Der Hackathon dauert ca. 24 Stunden und gliedert sich wie folgt:
 
           - Kickoff mit Vorstellung der Challenges
 
