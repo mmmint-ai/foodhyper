@@ -288,9 +288,30 @@ sections:
 
           <p> <b>Email:</b><br>  <a href="mailto:julia.kuemper@region-hannover.de">julia.kuemper@region-hannover.de </a>  </p>
 
-           <p> <b>LinkedIn-Profil:</b><br> <a href="https://de.linkedin.com/in/juliakuemper" target="_blank"> https://de.linkedin.com/in/juliakuemper</a>  </p>
+          <p> <b>Telefonnummer:</b><br>  0531 4703447 </p>
 
-          <p> <img class="footpate-img" src="/images/foodpaten/logos/wifö.png" alt="lenchen" /> </p>
+          <p> <b>LinkedIn-Profil:</b><br> <a href="https://de.linkedin.com/in/juliakuemper" target="_blank"> https://de.linkedin.com/in/juliakuemper</a>  </p>
+
+          <p> <img class="footpate-img" src="/images/foodpaten/logos/wifö.png" alt="Julia" /> </p>
+      - image: images/foodpaten/Sabrina.jpg
+        description: >-
+          <br>
+
+          <p> <b>Name:</b> <br> Sabrina Kirchholtes </p>
+
+          <p> <b>Organisation/Unternehmen:</b> <br> Braunschweig Zukunft GmbH / Startup Akademie W.IN</p>
+
+          <p> <b>Anschrift:</b> <br> Sack 17, 38100 Braunschweig</p>
+
+          <p class="about-me"> <b>Über mich:</b> <br> Ich arbeite seit 2021 bei der Wirtschaftsförderungsgesellschaft Braunschweig Zukunft GmbH. In unserer Startup Akademie W.IN unterstützen wir ungefähr 20 Teams jährlich während ihres Gründungsprozesses.  Ob Geschäftsmodellentwicklung, Vertriebsstrategieerarbeitung oder Wachstumsfragen – wir versuchen gemeinsam eine Lösung zu finden. In unserem breiten Netzwerk findet sich fast immer jemand, der die gestellten Fragen beantworten kann :)</a> </p>
+
+          <p> <b>Email:</b><br> <a href="mailto:sabrina.kirchholtes@braunschweig.de">sabrina.kirchholtes@braunschweig.de </a>  </p>
+
+           <p> <b>LinkedIn-Profil:</b><br> <a href="https://www.linkedin.com/in/sabrina-kirchholtes-45bab8215/" target="_blank"> https://www.linkedin.com/in/sabrina-kirchholtes</a>  </p>
+
+          <p> <img class="footpate-img" src="/images/foodpaten/logos/Braunschweig.jpg" alt="Sabrina" /> </p>
+
+          <p> <img class="footpate-img" src="/images/foodpaten/logos/startup.jpg" alt="Sabrina" /> </p>
 
 layout: features
 ---
