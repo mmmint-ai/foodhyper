@@ -42,8 +42,6 @@ sections:
           <b>Öffentliche Veranstaltung:</b> Fachvorträge und Q&A Session.<br><br>
           Die Termine finden an wechselnden Orten in Niedersachsen statt und werden auf dieser Webseite bekannt gegeben. Rechtliche Fragestellungen können im Vorfeld bei den Ansprechpartner*innen eingereicht werden.<br>
           <br><b>Geschlossene Sprechstunde:</b> Am Veranstaltungstag sind wir vom FoodHyper Team vor Ort dabei und stehen für Fragen rund um den FoodHyper und Angeboten für Startups zur Verfügung.<br>
-          <br>Die Termine finden online über Zoom statt. Die Beratung dauert ca. 50 Minuten.
-          <br>Am Veranstaltungstag sind wir vom FoodHyper Team vor Ort und stehen für Fragen rund um den FoodHyper und Angeboten für Startups zur Verfügung.
       - title: Termine
         image: images/SVG/undraw_subscriber.svg
         content: >-
