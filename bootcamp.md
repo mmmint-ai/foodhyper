@@ -9,7 +9,10 @@ sections:
     image: images/logo.png
     title: Bootcamp
     content: >-
-      Das zweite Bootcamp hat am 10. – 14. Oktober 2022 am Seedhouse in Osnabrück und am Deutschen Institut für Lebensmitteltechnik in Quakenbrück stattgefunden.
+      Das nächste Bootcamp findet vom 8.-12. Mai 2023 am Seedhouse in Osnabrück und am Deutschen
+      Institut für Lebensmitteltechnik in Quakenbrück statt. 
+      <br>
+      Bewerbt euch <a href="#Bewerbung">jetzt!</a>
 
   - section_id: Bootcamp
     component: features_block.html
@@ -118,7 +121,7 @@ sections:
       - url:
         title: TiMaLa / Cattle Track
 
-  - section_id: Bootcamp
+  - section_id: Bewerbung
     component: features_block.html
     type: featuresblock
     bg: gray
@@ -128,7 +131,37 @@ sections:
       - title: Bewerbung
         image: images/SVG/undraw_subscriber.svg
         content: >-
-          Momentan ist keine Bewerbung möglich.
+          Ihr möchtet mit eurem Food-Startup richtig durchstarten?
+          Dann bewerbt euch ab sofort bis zum 19. März hier für das kommende Bootcamp!
+          
+          <br>
+
+          Bewerben können sich Teams und Startups mit innovativen Ideen rund um den Food-(Tech-) Bereich.
+          <a target="_blank" href="/documents/FoodHyper_Bootcamp_Portfolio_DIL.pdf">Hier</a> gibt es einen Überblick des Portfolios.
+          Die Bewerbung erfolgt über das <a target="_blank" href="/documents/2023_FoodHyper_Bootcamp_Bewerbungsformular_interaktiv.pdf"><b>Bewerbungsformular</b></a> sowie ein <b>Pitch Deck</b>, in dem ihr folgende
+          Punkte überzeugend darstellt:
+           <br>
+          - Vorstellung des Startups und der Gründer
+           <br>
+          - Problem, das von euch gelöst werden soll
+           <br>
+          - euer Lösungsansatz und Produkt
+           <br>
+          - USP
+           <br>
+          - aktuelle Marktsituation und Marktpotentiale
+           <br>
+          - Geschäftsmodell und Prognose
+
+          <br>
+          <br>
+
+          <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+          <script>hbspt.forms.create({ region: "na1",portalId: "26476055",formId: "543634f0-3010-427f-b716-27b201231e04" });</script>
+
+        
+
+          
 
   - section_id: call-to-action
     component: cta_block.html
@@ -143,7 +176,7 @@ sections:
     component: contact_block.html
     type: featuresblock
     bg: gray
-    title: Ansprechpartnerin
+    title: Ansprechpartnerinnen
     subtitle: >-
 
     contactlist:

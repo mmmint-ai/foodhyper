@@ -8,35 +8,6 @@ sections:
     component: faq_block.html
     type: faqblock
     bg: gray
-    title: Häufige Fragen zum Hackathon
-    subtitle:
-    faqitems:
-      - question: Was ist ein Hackathon?
-        answer: >-
-          Der Begriff „Hackathon” setzt sich aus den Begriffen „Hacking” und „Marathon” zusammen. Die Verwendung des Begriffs „Hacking” ist dabei spielerisch gemeint und bezieht sich nicht auf kriminelle Cyberaktivitäten.
-          Hackathons sind vielmehr Events, bei denen interdisziplinäre Teams in kurzer Zeit kollaborativ Lösungen für praxisrelevante Herausforderungen der Industrie und Wirtschaft erarbeiten. Beim FoodHyper-Hackathon handelt es sich um Herausforderungen, die speziell aus dem Lebensmittelbereich kommen.
-      - question: Wie läuft ein Hackathon ab?
-        answer: >-
-          <b>1. Kick-Off:</b> Zusammenstellen der Teams, Vergabe der Challenges und Vorbereitung auf das Hacking<br>
-          <b>2. Arbeitsphase:</b> Bearbeitung der Challenges gemeinsam mit Challenge-Gebern<br>
-          <b>3. Abschluss:</b> Prämierung aller erarbeiteten Lösungen  <br>
-      - question: Wer kann am Hackathon teilnehmen?
-        answer: >-
-          Willkommen, ist jeder Interessierte der Food-Branche, Studierende in den Bereichen Lebensmitteltechnik, Prozessmanagement und Technik sowie Berufstätige und Auszubildende.
-      - question: Was kostet die Teilnahme?
-        answer: >-
-          Die Teilnahme am Hackathon ist kostenlos!
-      - question: Wo findet der Hackathon statt?
-        answer: >-
-          Der Hackathon findet im Alando Palais statt. Adresse: Alando Gastro GmbH, Pottgraben 58-60, 49074 Osnabrück
-      - question: Wo findet der Hackathon statt?
-        answer: >-
-          Der nächste Hackathon findet am 14. & 15. September 2022 statt.
-
-  - section_id: faq
-    component: faq_block.html
-    type: faqblock
-    bg: gray
     title: Häufige Fragen zum Foodlaw
     subtitle:
     faqitems:
@@ -83,10 +54,10 @@ sections:
           Ein Bootcamp dauert 5 Tage. Nach dem Anreisetag ist der Aufenthalt auf zwei Tage im Seedhouse (Osnabrück) und zwei Tage im DIL (Quakenbrück) gesplittet.
       - question: Wann findet das nächste Bootcamp statt?
         answer: >-
-          Das nächste Bootcamp findet vom 10. – 14. Oktober 2002 im Seedhouse (Osnabrück) und im DIL (Quakenbrück) statt.
+          Das nächste Bootcamp findet vom 8. – 12. Mai 2023 im Seedhouse (Osnabrück) und im DIL (Quakenbrück) statt.
       - question: Was kostet das Bootcamp?
         answer: >-
-          Die Teilnahme am Bootcamp ist komplett kostenlos!
+          Die Teilnahme am Bootcamp ist komplett kostenlos! Ihr müsst euch nur um eure An- und Abreise kümmern, wir erledigen den Rest (Unterkunft, Verpflegung, Transfer Osnabrück-Quakenbrück).
 layout: faq
 ---
 

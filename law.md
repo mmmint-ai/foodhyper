@@ -9,8 +9,9 @@ sections:
     image: images/logo.png
     title: FoodLaw
     content: >-
-      Die lebensmittelrechtliche Beratung fand in Form von öffentlichen und geschlossenen Sprechstunden statt.
-      Für das Jahr 2022 sind alle Termine abgeschlossen.
+      Die lebensmittelrechtliche Beratung wird auch im Jahr 2023 wieder in Form von geschlossenen
+      Sprechstunden sowie einer öffentlichen Sprechstunde angeboten. Die nächsten Termine werden
+      zeitnah bekanntgegeben.
   - section_id: Law
     component: features_block.html
     type: featuresblock
@@ -40,14 +41,14 @@ sections:
         content: >-
           <b>Öffentliche Veranstaltung:</b> Fachvorträge und Q&A Session.<br><br>
           Die Termine finden an wechselnden Orten in Niedersachsen statt und werden auf dieser Webseite bekannt gegeben. Rechtliche Fragestellungen können im Vorfeld bei den Ansprechpartner*innen eingereicht werden.<br>
-          <br><b>Geschlossene Sprechstunde:</b> 1:1 Gespräche mit <a href="https://gpkh.eu/team/prof-dr-markus-grube/">Herrn Prof. Dr. Markus Grube </a>.<br>
+          <br><b>Geschlossene Sprechstunde:</b> Am Veranstaltungstag sind wir vom FoodHyper Team vor Ort dabei und stehen für Fragen rund um den FoodHyper und Angeboten für Startups zur Verfügung.<br>
           <br>Die Termine finden online über Zoom statt. Die Beratung dauert ca. 50 Minuten.
           <br>Am Veranstaltungstag sind wir vom FoodHyper Team vor Ort und stehen für Fragen rund um den FoodHyper und Angeboten für Startups zur Verfügung.
       - title: Termine
         image: images/SVG/undraw_subscriber.svg
         content: >-
           <br>
-          <b>Für das Jahr 2022 sind alle Termine abgeschlossen. Aktuell gibt es keine neuen Termine.</b>
+          <b>Die nächsten Termine werden hier in Kürze veröffentlicht.</b>
 
   - section_id: call-to-action
     component: cta_block.html

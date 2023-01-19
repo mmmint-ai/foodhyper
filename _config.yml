@@ -14,11 +14,11 @@ header:
   has_nav: true
   nav:
     Allgemeines: "foodhyper"
-    Hackathon: "hackathon"
     Bootcamp: "bootcamp"
     FoodLaw: "law"
-    News: "blog"
     Foodpaten: "foodpaten"
+    Hackathon: "hackathon"
+    News: "blog"
     FAQ: "faq"
   palette: blue
   
