@@ -9,9 +9,7 @@ sections:
     image: images/logo.png
     title: FoodLaw
     content: >-
-      Die lebensmittelrechtliche Beratung wird auch im Jahr 2023 wieder in Form von geschlossenen
-      Sprechstunden sowie einer öffentlichen Sprechstunde angeboten. Die nächsten Termine werden
-      zeitnah bekanntgegeben.
+      Am 28. und 29. März finden die nächsten lebensmittelrechtlichen Sprechstunden statt.
   - section_id: Law
     component: features_block.html
     type: featuresblock
@@ -46,7 +44,12 @@ sections:
         image: images/SVG/undraw_subscriber.svg
         content: >-
           <br>
-          <b>Die nächsten Termine werden hier in Kürze veröffentlicht.</b>
+          <b>Am 28. und 29. März finden die nächsten lebensmittelrechtlichen Sprechstunden statt.</b>
+          
+          <br>
+          <br>
+
+          <button data-tf-popup="Ot6oP0VY" data-tf-iframe-props="title=Hier anmelden" style="background: #b99700;border-radius: 3px;border: 2px solid #b99700;box-sizing: border-box;color: #fff;display: inline-block;font-size: 16px;height: 2.5em;line-height: 1.5;padding: 0.5em 30px;-webkit-transition: opacity 0.15s ease-in-out;transition: opacity 0.15s ease-in-out;font-size: 16px;padding: 0.25em 15px;">Anmelden</button><script src="//embed.typeform.com/next/embed.js"></script>
 
   - section_id: call-to-action
     component: cta_block.html
