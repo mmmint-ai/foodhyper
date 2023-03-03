@@ -38,31 +38,6 @@ sections:
           <p> <b>LinkedIn-Profil:</b><br> <a href=" https://www.linkedin.com/in/andreas-bernaczek" target="_blank"> linkedin.com/in/andreas-bernaczek</a>  </p>
 
           <p> <img class="footpate-img" src="/images/foodpaten/logos/Conventure-Logo.png" alt="Coventure" /> </p>
-
-      - image: images/foodpaten/Gekel.jpg
-        description: >-
-          <br>
-
-          <p> <b>Name:</b> <br> Dr. Isabella Gekel </p>
-
-          <p> <b>Organisation/Unternehmen:</b> <br>  SNIC Life Science Accelerator / GWG mbH </p>
-
-          <p> <b>Anschrift:</b> <br>  Philipp-Reis-Straße 2A, 37075 Göttingen  </p>
-
-          <p class="about-me"> <b>Über mich:</b> <br>  Die nachhaltige Umstellung der Nahrungsmittelproduktion und unserer Ernährung trägt maßgeblich
-          zum Erreichen der Klimaziele bei. Ernährung und Klimaschutz müssen gemeinsam gedacht werden.
-          Nicht nur als Biochemikerin und leidenschaftliche Hobbyköchin, sondern auch als Leiterin eines Startup-Zentrums liegt mir die Unterstützung innovativer biotechnologischer Ideen zur Gestaltung der
-          Ernährung der Zukunft sehr am Herzen. Gerne helfe ich dabei, diese Ideen unternehmerisch auf den Weg zu bringen. Meine über 10-jährige Expertise: Marketing, Finanzen und Kommunikation. </p>
-
-          <p> <b>Email:</b><br> <a href="mailto:isabella.gekel@snic.de ">isabella.gekel@snic.de </a></p>
-
-          <p> <b>Telefonnummer:</b><br>  +49 174 7813510 </p>
-
-          <p> <b>LinkedIn-Profil Privat:</b><br> <a href="https://www.linkedin.com/in/isabellagekel/" target="_blank"> linkedin.com/in/isabellagekel/</a>   </p>
-
-          <p> <b>LinkedIn-Profil Accelerator:</b><br> <a href="https://www.linkedin.com/company/snic-life-science-accelerator/" target="_blank"> linkedin.com/company/snic-life-science-accelerator/</a>  </p>
-
-          <p> <img class="footpate-img" src="/images/foodpaten/logos/Logo_LSA.png" alt="SNIC" /> </p>
       - image: images/foodpaten/Juliane und Hemant 2021_Lukas Campen.jpg
         description: >-
           <br>
