@@ -177,7 +177,7 @@ sections:
       - title:
         image: images/Felix.jpg
         content: >-
-          Felix Willert <br><br> E-Mail: <a href="mailto:felix@innovate-os.de">felix@innovate-os.de </a><br><br> Tel.: 0541 50798526
+          Felix Willert <br><br> E-Mail: <a href="mailto:felix@innovate-os.de">felix@innovate-os.de </a><br><br> Tel.: 01579 2377036
       - title:
         image: images/kerstin.jpeg
         content: >-
