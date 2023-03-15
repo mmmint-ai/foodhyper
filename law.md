@@ -71,7 +71,7 @@ sections:
       - title:
         image: images/Karin_Hollah.png
         content: >-
-          Karin Mastall <br><br> E-Mail: <a href="mailto:K.Mastall@dil-ev.de">K.Mastall@dil-ev.de </a>  <br><br> Tel.: 05431 183 193
+          Karin Mastall <br><br> E-Mail: <a href="mailto:K.Mastall@dil-ev.de">K.Mastall@dil-ev.de </a>  <br><br> Tel.: 05431 183 292
       - title:
         image: images/Alexander.jpg
         content: >-
