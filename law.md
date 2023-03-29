@@ -9,7 +9,9 @@ sections:
     image: images/logo.png
     title: FoodLaw
     content: >-
-      Am 28. und 29. März finden die nächsten lebensmittelrechtlichen Sprechstunden statt.
+      Am 10. Mai findet eine öffentliche Sprechstunde in Quakenbrück statt.
+      <br>
+      Die geschlossene Sprechstunde bieten wir am 6. & 7. Juni im online Format an.
   - section_id: Law
     component: features_block.html
     type: featuresblock
@@ -44,12 +46,61 @@ sections:
         image: images/SVG/undraw_subscriber.svg
         content: >-
           <br>
-          <b>Am 28. und 29. März finden die nächsten lebensmittelrechtlichen Sprechstunden statt.</b>
+          <b>Öffentliche Sprechstunde (hybrid)</b>
+           <br>
+
+          Wann? 10. Mai 2023, 15:30 Uhr 
+          <br>
+          <br>
+          
+          Wo? DIL Deutsches Institut für Lebensmitteltechnik e.V., Prof.-von-Klitzing-Str. 7, 49610 Quakenbrück 
+          <br>
+          <br>
+          
+          Programm:
+          <br>
+          15:30 – 16:15 Uhr
+          Impulsvortrag von Prof. Markus Grube über die aktuelle rechtliche Lage und Entwicklungen bei der Nachhaltigkeitskommunikation, Health Claims, Novel Food sowie verpflichtende und freiwillige Lebensmittelinformationen anhand einer fiktiven Startup-Idee
+          <br>
+          <br>
+          
+          16:15 – 17:30 Uhr:
+           <br>
+          Q & A zu rechtlichen Fragestellungen
+          <br>
+          <br>
+          
+          Ab 17:30 Uhr
+          <br>
+          Gemeinsamer Abschluss mit den Teilnehmern vom FoodHyper Bootcamp bei Kaltgetränken und leckerem Essen
           
           <br>
           <br>
 
-          <button data-tf-popup="Ot6oP0VY" data-tf-iframe-props="title=Hier anmelden" style="background: #b99700;border-radius: 3px;border: 2px solid #b99700;box-sizing: border-box;color: #fff;display: inline-block;font-size: 16px;height: 2.5em;line-height: 1.5;padding: 0.5em 30px;-webkit-transition: opacity 0.15s ease-in-out;transition: opacity 0.15s ease-in-out;font-size: 16px;padding: 0.25em 15px;">Anmelden</button><script src="//embed.typeform.com/next/embed.js"></script>
+          <button data-tf-popup="SHk5Vdtn" data-tf-iframe-props="title=Hier anmelden" style="background: #b99700;border-radius: 3px;border: 2px solid #b99700;box-sizing: border-box;color: #fff;display: inline-block;font-size: 16px;height: 2.5em;line-height: 1.5;padding: 0.5em 30px;-webkit-transition: opacity 0.15s ease-in-out;transition: opacity 0.15s ease-in-out;font-size: 16px;padding: 0.25em 15px;">Anmelden</button><script src="//embed.typeform.com/next/embed.js"></script>
+
+          <br>
+          <br>
+
+          <b>Geschlossene Sprechstunde, 1:1 Beratung (online)</b>
+
+          <br>
+          <br>
+
+          Wann? 6. / 7. Juni 2023
+          <br>
+          <br>
+
+          Wo? Online über Zoom
+
+          <br>
+          <br>
+
+          Melde dich hier für ein Einzelgespräch (50 Minuten) mit Prof. Dr. Markus Grube an.
+
+          <br>
+
+           <button data-tf-popup="Ot6oP0VY" data-tf-iframe-props="title=Hier anmelden" style="background: #b99700;border-radius: 3px;border: 2px solid #b99700;box-sizing: border-box;color: #fff;display: inline-block;font-size: 16px;height: 2.5em;line-height: 1.5;padding: 0.5em 30px;-webkit-transition: opacity 0.15s ease-in-out;transition: opacity 0.15s ease-in-out;font-size: 16px;padding: 0.25em 15px;">Anmelden</button><script src="//embed.typeform.com/next/embed.js"></script>
 
   - section_id: call-to-action
     component: cta_block.html

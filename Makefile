@@ -1,6 +1,6 @@
 
 current_dir=$(shell pwd)
-JEKYLL_VERSION=4.0
+JEKYLL_VERSION=3.8.4
 
 new:
 	docker run --rm --volume="$(current_dir):/srv/jekyll" -it jekyll/jekyll:$(JEKYLL_VERSION) jekyll new .

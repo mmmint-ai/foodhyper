@@ -131,11 +131,7 @@ sections:
         content: >-
           Die Bewerbungsphase ist geschlossen.
           Vielen Dank für die zahlreichen Bewerbungen!
-          
-
-        
-
-          
+              
 
   - section_id: call-to-action
     component: cta_block.html
