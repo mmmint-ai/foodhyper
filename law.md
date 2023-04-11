@@ -9,7 +9,7 @@ sections:
     image: images/logo.png
     title: FoodLaw
     content: >-
-      Am 10. Mai findet eine öffentliche Sprechstunde in Quakenbrück statt.
+      Am 10. Mai findet eine öffentliche Sprechstunde in Quakenbrück hybrid (in Quakenbrück und online) statt.
       <br>
       Die geschlossene Sprechstunde bieten wir am 6. & 7. Juni im online Format an.
   - section_id: Law
@@ -55,6 +55,8 @@ sections:
           
           Wo? DIL Deutsches Institut für Lebensmitteltechnik e.V., Prof.-von-Klitzing-Str. 7, 49610 Quakenbrück 
           <br>
+          und online per Teams/Zoom
+          <br>
           <br>
           
           Programm:
@@ -91,7 +93,7 @@ sections:
           <br>
           <br>
 
-          Wo? Online über Zoom
+          Wo? Online über Teams/Zoom
 
           <br>
           <br>
