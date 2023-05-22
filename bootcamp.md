@@ -133,7 +133,7 @@ sections:
       - url: https://www.getspacefood.com/de/startseite
         image: /images/bootcamp/spacefood_avatar.png
       - url: 
-        image: /images/bootcamp/spicebreaker.png
+        image: /images/bootcamp/spicebreaker.PNG
 
   - section_id: Bewerbung
     component: features_block.html
