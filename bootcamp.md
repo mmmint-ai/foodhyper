@@ -9,8 +9,7 @@ sections:
     image: images/logo.png
     title: Bootcamp
     content: >-
-      Das nächste Bootcamp findet vom 8.-12. Mai 2023 am Seedhouse in Osnabrück und am Deutschen
-      Institut für Lebensmitteltechnik in Quakenbrück statt. 
+      Das dritte Bootcamp fand vom 8.-12. Mai 2023 am Seedhouse in Osnabrück und am Deutschen Institut für Lebensmitteltechnik in Quakenbrück statt. Der Termin für das nächste Bootcamp wird zeitnah bekanntgegeben.
 
   - section_id: Bootcamp
     component: features_block.html
@@ -48,9 +47,10 @@ sections:
     type: imageblock
     title: Stimmen zum Bootcamp
     images:
-      - src: /images/bootcamp/bootcamp.jpeg
+      - src: /images/bootcamp/bootcamp3.png
       - src: /images/bootcamp/bootcamp2.JPG
-
+      - src: /images/bootcamp/bootcamp.jpeg
+      
   - section_id: quotes
     component: quote_slider.html
     images:
@@ -118,6 +118,22 @@ sections:
         title: Mind Vacations
       - url:
         title: TiMaLa / Cattle Track
+      - url: https://www.andenkraft.de
+        image: /images/bootcamp/andenkraft.png
+      - url: http://www.evomip.de/
+        image: /images/bootcamp/evomip.png
+      - url: https://koyyanis.com/
+        image: /images/bootcamp/koyyanis.png
+      - url: https://no-sweets.de/
+        image: /images/bootcamp/nosweets.png
+      - url: https://www.lykaia-nutrition.de/
+        image: /images/bootcamp/lykaia.png
+      - url: http://papayorgo.de/
+        image: /images/bootcamp/papayorgo.png
+      - url: https://www.getspacefood.com/de/startseite
+        image: /images/bootcamp/spacefood_avatar.png
+      - url: 
+        image: /images/bootcamp/spicebreaker.png
 
   - section_id: Bewerbung
     component: features_block.html
@@ -129,10 +145,8 @@ sections:
       - title: Bewerbung
         image: images/SVG/undraw_subscriber.svg
         content: >-
-          Die Bewerbungsphase ist geschlossen.
-          Vielen Dank für die zahlreichen Bewerbungen!
+          Die Bewerbungsphase wird bald wieder für euch geöffnet!
               
-
   - section_id: call-to-action
     component: cta_block.html
     type: ctablock

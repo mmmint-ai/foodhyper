@@ -249,25 +249,25 @@ sections:
           <p> <b>Email:</b><br>  <a href="mailto:annie@lenchen.de">annie@lenchen.de </a>  </p>
 
           <p> <img class="footpate-img" src="/images/foodpaten/logos/lenchen.png" alt="lenchen" /> </p>
-      - image: images/foodpaten/julia.jpg
+      - image: images/foodpaten/Melanie.jpg
         description: >-
           <br>
 
-          <p> <b>Name:</b> <br> Julia Kümper </p>
+          <p> <b>Name:</b> <br> Melanie Albrecht </p>
 
           <p> <b>Organisation/Unternehmen:</b> <br>  Region Hannover</p>
 
           <p> <b>Anschrift:</b> <br>  Vahrenwalder Str. 7, 30165 Hannover </p>
 
-          <p class="about-me"> <b>Über mich:</b> <br> Durch meine langjährige Tätigkeit als Geschäftsführerin verschiedener, junger Unternehmen und der Beratung von Startups freue ich mich darauf, Geschäftsideen zu challengen und strategisch zu Finanzierungsrunden zu beraten.  </a> </p>
+          <p class="about-me"> <b>Über mich:</b> <br> Ich arbeite bei der Region Hannover in der Betriebsberatung Innovation und Technologie. Zuvor habe ich langjährige Erfahrung in der Beratung zu Fördermöglichkeiten und Projektarbeit im Bereich Innovation und Internationalisierung sowie als Beteiligungsmanagerin bei der NBank gesammelt. Ich teile gerne Kontakte und Erfahrungen aus meinem Netzwerk und Erfahrungshintergrund mit Euch!</a> </p>
 
-          <p> <b>Email:</b><br>  <a href="mailto:julia.kuemper@region-hannover.de">julia.kuemper@region-hannover.de </a>  </p>
+          <p> <b>Email:</b><br> <a href="mailto:melanie.albrecht@region-hannover.de">melanie.albrecht@region-hannover.de </a>  </p>
 
-          <p> <b>Telefonnummer:</b><br>  0531 4703447 </p>
+          <p> <b>Telefonnummer:</b><br>  +49 (511) 616-28791 </p>
 
-          <p> <b>LinkedIn-Profil:</b><br> <a href="https://de.linkedin.com/in/juliakuemper" target="_blank"> https://de.linkedin.com/in/juliakuemper</a>  </p>
+          <p> <b>LinkedIn-Profil:</b><br> <a href="https://de.linkedin.com/in/melanie-albrecht-258a26117" target="_blank"> https://de.linkedin.com/in/melanie-albrecht</a>  </p>
 
-          <p> <img class="footpate-img" src="/images/foodpaten/logos/wifö.png" alt="Julia" /> </p>
+          <p> <img class="footpate-img" src="/images/foodpaten/logos/wifö.png" alt="Melanie" /> </p>
       - image: images/foodpaten/Sabrina.jpg
         description: >-
           <br>

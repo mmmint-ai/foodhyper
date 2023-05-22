@@ -137,24 +137,24 @@ sections:
         link: /documents/Challenge-Beschreibung_The_Plantly_Butchers.pdf
         highlight: true
       
-  - section_id: feature
-    component: features_block.html
-    type: featuresblock
-    bg: gray
-    title:
-    subtitle: >-
+  # - section_id: feature
+  #   component: features_block.html
+  #   type: featuresblock
+  #   bg: gray
+  #   title:
+  #   subtitle: >-
 
-    featureslist:
-      - title: Anmeldung
-        image: images/SVG/undraw_subscriber.svg
-        content: >-
-          Melde dich hier kostenfrei an! Wir freuen uns auf deine Teilnahme.
+  #   featureslist:
+  #     - title: Anmeldung
+  #       image: images/SVG/undraw_subscriber.svg
+  #       content: >-
+  #         Melde dich hier kostenfrei an! Wir freuen uns auf deine Teilnahme.
 
-          <br>
-          <br>
+  #         <br>
+  #         <br>
 
-          <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
-          <script>hbspt.forms.create({ region: "na1",portalId: "5968998",formId: "fc5a7e2b-5a8d-4fc5-a8a7-07ddd7261fef" });</script>
+  #         <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+  #         <script>hbspt.forms.create({ region: "na1",portalId: "5968998",formId: "fc5a7e2b-5a8d-4fc5-a8a7-07ddd7261fef" });</script>
 
 
   - section_id: call-to-action
