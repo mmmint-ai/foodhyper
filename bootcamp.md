@@ -9,7 +9,7 @@ sections:
     image: images/logo.png
     title: Bootcamp
     content: >-
-      Das nächste Bootcamp findet vom 4.-6. Oktober 2023 im Seedhouse in Osnabrück und am Deutschen Institut für Lebensmitteltechnik in Quakenbrück statt. Die Bewerbung hierfür ist bald wieder möglich!
+      Das nächste Bootcamp findet vom 4.- 6. Oktober 2023 im Seedhouse in Osnabrück und am Deutschen Institut für Lebensmitteltechnik in Quakenbrück statt. Die Bewerbung ist ab sofort wieder <a href="#call-to-action-bewerbung">hier</a> möglich!
   - section_id: Bootcamp
     component: features_block.html
     type: featuresblock
@@ -49,7 +49,7 @@ sections:
       - src: /images/bootcamp/bootcamp3.png
       - src: /images/bootcamp/bootcamp2.JPG
       - src: /images/bootcamp/bootcamp.jpeg
-      
+
   - section_id: quotes
     component: quote_slider.html
     images:
@@ -131,9 +131,16 @@ sections:
         image: /images/bootcamp/papayorgo.png
       - url: https://www.getspacefood.com/de/startseite
         image: /images/bootcamp/spacefood_avatar.png
-      - url: 
+      - url:
         image: /images/bootcamp/spicebreaker.PNG
-
+  - section_id: call-to-action-bewerbung
+    component: cta_block.html
+    type: ctablock
+    title: Ihr möchtet mit eurem Food (Tech)-Startup richtig durchstarten?
+    subtitle:
+    actions:
+      - label: Jetzt bewerben
+        url: https://share-eu1.hsforms.com/13MV7-EzMTBKzQASP3ivIdwfrh1z
   - section_id: Bewerbung
     component: features_block.html
     type: featuresblock
@@ -144,8 +151,21 @@ sections:
       - title: Bewerbung
         image: images/SVG/undraw_subscriber.svg
         content: >-
-          Die Bewerbungsphase wird bald wieder für euch geöffnet!
-              
+          Ihr möchtet mit eurem Food (Tech)-Startup richtig durchstarten? Dann <a href="https://share-eu1.hsforms.com/13MV7-EzMTBKzQASP3ivIdwfrh1z"><b>bewerbt</b></a> euch bis zum 6. August für das kommende Bootcamp! Bewerben können sich Teams und Startups mit innovativen Ideen rund um den Food-(Tech-) Bereich. Die Bewerbung erfolgt über das Bewerbungsformular sowie Einsendung eures Pitch Decks, in dem ihr folgende Punkte überzeugend darstellt:
+
+          - Vorstellung des Startups und der Gründer:innen
+
+          - Problem, das von euch gelöst werden soll
+
+          - euer Lösungsansatz und Produkt
+
+          - USP
+
+          - aktuelle Marktsituation und Marktpotentiale
+
+          - Geschäftsmodell und Prognose
+
+
   - section_id: call-to-action
     component: cta_block.html
     type: ctablock
@@ -174,4 +194,3 @@ sections:
 
 layout: features
 ---
-
