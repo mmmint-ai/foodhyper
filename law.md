@@ -9,9 +9,7 @@ sections:
     image: images/logo.png
     title: FoodLaw
     content: >-
-      Am 10. Mai findet eine öffentliche Sprechstunde in Quakenbrück hybrid (in Quakenbrück und online) statt.
-      <br>
-      Die geschlossene Sprechstunde bieten wir am 6. & 7. Juni im online Format an.
+      Die nächste geschlossene Sprechstunde findet am 5. & 6. September 2023 im Online-Format statt. Sichert euch jetzt ganz unkompliziert <a href="#Termine">hier</a> einen Platz.
   - section_id: Law
     component: features_block.html
     type: featuresblock
@@ -48,7 +46,7 @@ sections:
          <b>Geschlossene Sprechstunde, 1:1 Beratung (online)</b>
           <br>
           <br>
-          Wann? 6. / 7. Juni 2023
+          Wann? 5. & 6. September 2023
           <br>
           <br>
           Wo? Online über Teams/Zoom
