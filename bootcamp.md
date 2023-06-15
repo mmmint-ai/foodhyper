@@ -9,7 +9,7 @@ sections:
     image: images/logo.png
     title: Bootcamp
     content: >-
-      Das nächste Bootcamp findet vom 4.- 6. Oktober 2023 im Seedhouse in Osnabrück und am Deutschen Institut für Lebensmitteltechnik in Quakenbrück statt. Die Bewerbung ist ab sofort wieder <a href="#call-to-action-bewerbung">hier</a> möglich!
+      Das nächste Bootcamp findet vom 4.-6. Oktober 2023 im Seedhouse in Osnabrück und am Deutschen Institut für Lebensmitteltechnik in Quakenbrück statt. Die Bewerbung ist ab sofort wieder <a href="#call-to-action-bewerbung">hier</a> möglich!
   - section_id: Bootcamp
     component: features_block.html
     type: featuresblock
