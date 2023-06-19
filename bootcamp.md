@@ -151,7 +151,12 @@ sections:
       - title: Bewerbung
         image: images/SVG/undraw_subscriber.svg
         content: >-
-          Ihr möchtet mit eurem Food (Tech)-Startup richtig durchstarten? Dann <a href="https://share-eu1.hsforms.com/13MV7-EzMTBKzQASP3ivIdwfrh1z"><b>bewerbt</b></a> euch bis zum 6. August für das kommende Bootcamp! Bewerben können sich Teams und Startups mit innovativen Ideen rund um den Food-(Tech-) Bereich. Die Bewerbung erfolgt über das Bewerbungsformular sowie Einsendung eures Pitch Decks, in dem ihr folgende Punkte überzeugend darstellt:
+          Ihr möchtet mit eurem Food (Tech)-Startup richtig durchstarten? Dann <a href="https://share-eu1.hsforms.com/13MV7-EzMTBKzQASP3ivIdwfrh1z"><b>bewerbt</b></a> euch bis zum 6. August für das kommende Bootcamp! 
+          
+          <br>
+          <br>
+
+          Bewerben können sich Teams und Startups mit innovativen Ideen rund um den Food-(Tech-) Bereich. Die Bewerbung erfolgt über das <a href="/documents/2023_FoodHyper_Bootcamp_2_Bewerbungsformular.pdf" target="_blank">Bewerbungsformular</a> sowie Einsendung eures Pitch Decks, in dem ihr folgende Punkte überzeugend darstellt:
 
           - Vorstellung des Startups und der Gründer:innen
 
@@ -165,6 +170,10 @@ sections:
 
           - Geschäftsmodell und Prognose
 
+          <br>
+          <br>
+
+          Einen Einblick über die Möglichkeiten am DIL findet ihr <a href="/documents/DIL_Portfolio.pdf" target="_blank">hier</a>.
 
   - section_id: call-to-action
     component: cta_block.html
