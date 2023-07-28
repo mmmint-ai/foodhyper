@@ -40,6 +40,46 @@ sections:
         image: images/Bootcamp_3.jpg
         content: >-
           Teilnehmen können Teams oder Startups, die überzeugende Ideen/ Prototypen für Innovationen im Lebensmittelsektor mitbringen.
+      - title: Ablauf
+        image: images/Bootcamp_4.jpg
+        content: >-
+          <b>Dienstag (3.10):</b>
+          <br>
+          - Kennenlernen bei Abendessen
+          <br>
+          <br>
+          <b>Mittwoch (04.10): Kick-off & Expert-Input:</b>
+          <br>
+          - Start 8:00 Uhr: Eröffnung, Vorstellungsrunde mit Erfahrungsaustausch
+          <br>
+          - Workshops Pitch Deck & Zielgruppe und Customer Journey
+          <br>
+          - individuelle Expertengespräche im 1:1-Format zu Themen wie Förderung, VC, Legal, Netzwerk, u.v.m.*
+          <br>
+          - Learnings des Tages
+          <br>
+          <br>
+          <b>Donnerstag (05.10.): Production</b>
+          <br>
+          - Führung durch das Deutsche Institut für Lebensmitteltechnik
+          <br>
+          - Experten-Input *
+          <br>
+          - individuelle Produktberatung und -entwicklung mit Expert*innen des DIL
+          <br>
+          <br>
+          <b>Freitag (06.10.): Pitch & Networking</b>
+          <br>
+          - Experten-Input *
+          <br>
+          - Vorbereitung auf Pitch mit Beratung
+          <br>
+          - Pitch mit anschließendem Networking (bis ca. 16:00 Uhr)
+          <br>
+          <br>
+
+          *Inhalte werden auf die Bedürfnisse der teilnehmenden Startups zugeschnitten und daher nach Auswahl der Teilnehmer ermittelt und bekannt gegeben.
+    
 
   - section_id: bewertungen
     component: image_slider.html
