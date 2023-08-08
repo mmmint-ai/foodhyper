@@ -9,7 +9,7 @@ sections:
     image: images/logo.png
     title: Bootcamp
     content: >-
-      Das nächste Bootcamp findet vom 4.-6. Oktober 2023 im Seedhouse in Osnabrück und am Deutschen Institut für Lebensmitteltechnik in Quakenbrück statt. Die Bewerbung ist ab sofort wieder <a href="#call-to-action-bewerbung">hier</a> möglich!
+      Danke für die zahlreichen Bewerbungen! Das Bewerbungsfenster ist geschlossen und die eingegangenen Bewerbungen werden aktuell gesichtet. Eine Rückmeldung erfolgt am 14. August.
   - section_id: Bootcamp
     component: features_block.html
     type: featuresblock
@@ -173,14 +173,14 @@ sections:
         image: /images/bootcamp/spacefood_avatar.png
       - url:
         image: /images/bootcamp/spicebreaker.PNG
-  - section_id: call-to-action-bewerbung
-    component: cta_block.html
-    type: ctablock
-    title: Ihr möchtet mit eurem Food (Tech)-Startup richtig durchstarten?
-    subtitle:
-    actions:
-      - label: Jetzt bewerben
-        url: https://share-eu1.hsforms.com/13MV7-EzMTBKzQASP3ivIdwfrh1z
+  # - section_id: call-to-action-bewerbung
+  #   component: cta_block.html
+  #   type: ctablock
+  #   title: Ihr möchtet mit eurem Food (Tech)-Startup richtig durchstarten?
+  #   subtitle:
+  #   actions:
+  #     - label: Jetzt bewerben
+  #       url: https://share-eu1.hsforms.com/13MV7-EzMTBKzQASP3ivIdwfrh1z
   - section_id: Bewerbung
     component: features_block.html
     type: featuresblock
