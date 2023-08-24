@@ -9,7 +9,7 @@ sections:
     image: images/logo.png
     title: Bootcamp
     content: >-
-      Danke für die zahlreichen Bewerbungen! Das Bewerbungsfenster ist geschlossen und die eingegangenen Bewerbungen werden aktuell gesichtet. Eine Rückmeldung erfolgt am 14. August.
+      Das nächste Bootcamp findet vom 4.-6. Oktober 2023 im Seedhouse in Osnabrück und am Deutschen Institut für Lebensmitteltechnik in Quakenbrück statt.
   - section_id: Bootcamp
     component: features_block.html
     type: featuresblock
@@ -181,6 +181,40 @@ sections:
   #   actions:
   #     - label: Jetzt bewerben
   #       url: https://share-eu1.hsforms.com/13MV7-EzMTBKzQASP3ivIdwfrh1z
+  # - section_id: Bewerbung
+  #   component: features_block.html
+  #   type: featuresblock
+  #   bg: gray
+  #   title:
+  #   subtitle:
+  #   featureslist:
+  #     - title: Bewerbung
+  #       image: images/SVG/undraw_subscriber.svg
+  #       content: >-
+  #         Ihr möchtet mit eurem Food (Tech)-Startup richtig durchstarten? Dann <a href="https://share-eu1.hsforms.com/13MV7-EzMTBKzQASP3ivIdwfrh1z"><b>bewerbt</b></a> euch bis zum 6. August für das kommende Bootcamp! 
+          
+  #         <br>
+  #         <br>
+
+  #         Bewerben können sich Teams und Startups mit innovativen Ideen rund um den Food-(Tech-) Bereich. Die Bewerbung erfolgt über das <a href="/documents/2023_FoodHyper_Bootcamp_2_Bewerbungsformular.pdf" target="_blank">Bewerbungsformular</a> sowie Einsendung eures Pitch Decks, in dem ihr folgende Punkte überzeugend darstellt:
+
+  #         - Vorstellung des Startups und der Gründer:innen
+
+  #         - Problem, das von euch gelöst werden soll
+
+  #         - euer Lösungsansatz und Produkt
+
+  #         - USP
+
+  #         - aktuelle Marktsituation und Marktpotentiale
+
+  #         - Geschäftsmodell und Prognose
+
+  #         <br>
+  #         <br>
+
+  #         Einen Einblick über die Möglichkeiten am DIL findet ihr <a href="/documents/DIL_Portfolio.pdf" target="_blank">hier</a>.
+
   - section_id: Bewerbung
     component: features_block.html
     type: featuresblock
@@ -190,30 +224,8 @@ sections:
     featureslist:
       - title: Bewerbung
         image: images/SVG/undraw_subscriber.svg
-        content: >-
-          Ihr möchtet mit eurem Food (Tech)-Startup richtig durchstarten? Dann <a href="https://share-eu1.hsforms.com/13MV7-EzMTBKzQASP3ivIdwfrh1z"><b>bewerbt</b></a> euch bis zum 6. August für das kommende Bootcamp! 
-          
-          <br>
-          <br>
-
-          Bewerben können sich Teams und Startups mit innovativen Ideen rund um den Food-(Tech-) Bereich. Die Bewerbung erfolgt über das <a href="/documents/2023_FoodHyper_Bootcamp_2_Bewerbungsformular.pdf" target="_blank">Bewerbungsformular</a> sowie Einsendung eures Pitch Decks, in dem ihr folgende Punkte überzeugend darstellt:
-
-          - Vorstellung des Startups und der Gründer:innen
-
-          - Problem, das von euch gelöst werden soll
-
-          - euer Lösungsansatz und Produkt
-
-          - USP
-
-          - aktuelle Marktsituation und Marktpotentiale
-
-          - Geschäftsmodell und Prognose
-
-          <br>
-          <br>
-
-          Einen Einblick über die Möglichkeiten am DIL findet ihr <a href="/documents/DIL_Portfolio.pdf" target="_blank">hier</a>.
+        content: >- 
+          Die Bewerbung für das kommende Bootcamp ist abgeschlossen. Danke für die zahlreichen Bewerbungen!
 
   - section_id: call-to-action
     component: cta_block.html
