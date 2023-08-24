@@ -2,8 +2,9 @@
 <html lang="de">
   <head>
     <title>
-      {% assign title_is_not_empty = page.title | is_not_empty %}{% if
-      title_is_not_empty %}{{ page.title }} - {% endif %}{{ site.title }}
+      {% assign title_is_not_empty = page.title | is_not_empty %} {% if
+      title_is_not_empty %} {{ page.title }} {% else %} {{ site.title }} {%
+      endif %}
     </title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -31,27 +32,37 @@
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/@splidejs/splide@latest/dist/css/splide.min.css"
     />
-
-    {% if page.meta-title %}
-    <meta property="og:title" content="{{ page.meta-title }}" />
+  {% if page.meta-title %}
+    <meta name="og:title" content="{{ page.meta-title }}" />
     {% elsif page.title %}
+    <meta name="og:title" content="{{ page.title }}" />
     <meta property="og:title" content="{{ page.title }}" />
     {% else %}
+    <meta name="og:title" content="{{ site.title }}" />
     <meta property="og:title" content="{{ site.title }}" />
     {% endif %} {% if page.meta-description %}
-    <meta property="og:description" content="{{ page.meta-description }}" />
-    <meta property="description" content="{{ page.meta-description }}" />
+    <meta name="og:description" content="{{ page.meta-description }}" />
+    <meta name="description" content="{{ page.meta-description }}" />
     {% elsif page.subtitle %}
-    <meta property="og:description" content="{{ page.subtitle }}" />
-    <meta property="description" content="{{ page.subtitle }}" />
-    {% else %}
+    <meta name="og:description" content="{{ page.subtitle }}" />
+    <meta name="description" content="{{ page.subtitle }}" />
+    {% elsif page.excerpt %}
     <meta
       property="og:description"
-      content="{{ page.content | strip_html | xml_escape | truncatewords: 100 }}"
+      content="{{ page.excerpt  | strip_html | xml_escape | strip_newlines | truncatewords: 100 }}"
     />
     <meta
       property="description"
-      content="{{ page.content | strip_html | xml_escape | truncatewords: 100 }}"
+      content="{{ page.excerpt  | strip_html | xml_escape | strip_newlines | truncatewords: 100 }}"
+    />
+    {% else %}
+    <meta
+      property="og:description"
+      content="{{ page.content | strip_html | xml_escape | strip_newlines | truncatewords: 100 }}"
+    />
+    <meta
+      property="description"
+      content="{{ page.content | strip_html | xml_escape | strip_newlines | truncatewords: 100 }}"
     />
     {% endif %}
 
