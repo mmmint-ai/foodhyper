@@ -9,7 +9,7 @@ sections:
     image: images/logo.png
     title: FoodLaw
     content: >-
-      Die nächste geschlossene Sprechstunde findet im November 2023 im Online-Format statt. Haltet euch hier auf dem Laufenden! 
+      Die nächste geschlossene Sprechstunde findet am 6. und 7. Dezember 2023 im Online-Format statt. Haltet euch hier auf dem Laufenden! 
   - section_id: Law
     component: features_block.html
     type: featuresblock
@@ -46,7 +46,7 @@ sections:
          <b>Geschlossene Sprechstunde, 1:1 Beratung (online)</b>
           <br>
           <br>
-          Die nächsten Termine werden bald bekanntgegeben.
+          Die nächsten Termine finden am 6. und 7. Dezember statt. Die Anmeldung hierzu ist bald wieder möglich.
           <br>
           <br>
 
