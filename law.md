@@ -9,7 +9,7 @@ sections:
     image: images/logo.png
     title: FoodLaw
     content: >-
-      Die nächste geschlossene Sprechstunde findet am 6. und 7. Dezember 2023 im Online-Format statt. Haltet euch hier auf dem Laufenden! 
+      Neue Termine für 2024 werden bald bekanntgegeben!
   - section_id: Law
     component: features_block.html
     type: featuresblock
@@ -46,7 +46,8 @@ sections:
          <b>Geschlossene Sprechstunde, 1:1 Beratung (online)</b>
           <br>
           <br>
-          Melde dich hier für ein Einzelgespräch (50 Minuten) mit Prof. Dr. Markus Grube an.
+          Lass dich auf die Warteliste für ein Einzelgespräch (50 Minuten) mit Prof. Dr. Markus Grube setzen.<br>
+          Wir melden uns bei dir, sobald neue Termine verfügbar sind.
           <br>
           <br>
            <button data-tf-popup="Ot6oP0VY" data-tf-iframe-props="title=Hier anmelden" style="background: #b99700;border-radius: 3px;border: 2px solid #b99700;box-sizing: border-box;color: #fff;display: inline-block;font-size: 16px;height: 2.5em;line-height: 1.5;padding: 0.5em 30px;-webkit-transition: opacity 0.15s ease-in-out;transition: opacity 0.15s ease-in-out;font-size: 16px;padding: 0.25em 15px;">Anmelden</button><script src="//embed.typeform.com/next/embed.js"></script>
