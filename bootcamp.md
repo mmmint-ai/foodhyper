@@ -185,7 +185,6 @@ sections:
         image: images/SVG/undraw_subscriber.svg
         content: >- 
           Die Bewerbung ist bis zum 15.08. über das Bewerbungsformular möglich:
-            actions:
       - label: FAQ
         url: /faq
 
