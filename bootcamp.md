@@ -184,7 +184,10 @@ sections:
       - title: Bewerbung
         image: images/SVG/undraw_subscriber.svg
         content: >- 
-          Aktuell ist keine Bewerbung für das Bootcamp möglich. 
+          Die Bewerbung ist bis zum 15.08. über das Bewerbungsformular möglich:
+            actions:
+      - label: FAQ
+        url: /faq
 
   - section_id: call-to-action
     component: cta_block.html
