@@ -187,7 +187,7 @@ sections:
           Die Bewerbung ist bis zum 15.08. über das Bewerbungsformular möglich:
           <br>
           <br>
-           <button data-tf-popup="Ot6oP0VY" data-tf-iframe-props="title=Hier bewerben" style="background: #b99700;border-radius: 3px;border: 2px solid #b99700;box-sizing: border-box;color: #fff;display: inline-block;font-size: 16px;height: 2.5em;line-height: 1.5;padding: 0.5em 30px;-webkit-transition: opacity 0.15s ease-in-out;transition: opacity 0.15s ease-in-out;font-size: 16px;padding: 0.25em 15px;" src="//https://share-eu1.hsforms.com/1G3LUep1KQwiJ8n7AS4f4gwfrh1z">Bewerben</button>
+           <button data-tf-popup="Ot6oP0VY" data-tf-iframe-props="title=Hier bewerben" style="background: #b99700;border-radius: 3px;border: 2px solid #b99700;box-sizing: border-box;color: #fff;display: inline-block;font-size: 16px;height: 2.5em;line-height: 1.5;padding: 0.5em 30px;-webkit-transition: opacity 0.15s ease-in-out;transition: opacity 0.15s ease-in-out;font-size: 16px;padding: 0.25em 15px;" URL="//https://share-eu1.hsforms.com/1G3LUep1KQwiJ8n7AS4f4gwfrh1z">Bewerben</button>
           <br>
 
   - section_id: call-to-action
