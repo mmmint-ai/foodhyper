@@ -166,22 +166,6 @@ sections:
       - label: FAQ
         url: /faq
 
-  - section_id: ansprechpartner
-    component: contact_block.html
-    type: contactblock
-    bg: gray
-    title: Ansprechpartner*innen
-    subtitle: >-
-
-    contactlist:
-      - title:
-        image: images/Felix.jpg
-        content: >-
-          Felix Willert <br><br> E-Mail: <a href="mailto:felix@innovate-os.de">felix@innovate-os.de </a><br><br> Tel.: 01579 2377036
-      - title:
-        image: images/kerstin.jpeg
-        content: >-
-          Kerstin Hogrefe <br><br> E-Mail: <a href="mailto:kerstin@seedhouse.de ">kerstin@seedhouse.de  </a> <br><br> Tel.: 0151 67965973
 
 layout: features
 ---
