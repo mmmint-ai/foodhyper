@@ -28,7 +28,7 @@ sections:
       <br>
       <br>
       <br>
-      <img width="300px" src="./images/StartupNiedersachsen.png" alt="startup-logo">
+      <img width="300px" src="./images/li2019logo2.jpg" alt="LI-Food Logo">
       <br>
       <br>
       
