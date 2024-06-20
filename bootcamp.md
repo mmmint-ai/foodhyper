@@ -205,9 +205,9 @@ sections:
 
     contactlist:
       - title:
-        image: images/kerstin.jpeg
+        image: images/laura_n.png
         content: >-
-          Kerstin Hogrefe <br><br> E-Mail: <a href="mailto:kerstin@seedhouse.de ">kerstin@seedhouse.de  </a> <br><br> Tel.: 0151 67965973
+          Laura Niemann <br><br> E-Mail: <a href="mailto:laura.niemann@seedhouse.de ">laura.niemann@seedhouse.de</a>  <br><br> Tel.: 0151 67965973
       - title:
         image: images/Karin_Hollah.png
         content: >-
