@@ -24,20 +24,15 @@ sections:
       <br>
       <br>
   
-      <br>FoodHyper ist eine Initiative von <b><a href="https://startup.nds.de/">startup.niedersachsen.</a></b>
-      <br>FoodHyper steht <b>Teilnehmer*innen</b> offen, die aus <b>Niedersachsen </b>stammen oder die sich für ein Engagement in Niedersachen interessieren.
+      <br>Der FoodHyper wurde von von <b><a href="https://startup.nds.de/">Niedersachsen.next Startup</a></b> ins Leben gerufen und wird von den Konsortialpartnern seedhouse und DIL als Teil der <b><a href="https://www.li-food.de/">Landesinitiative Ernährungswirtschaft (LI-Food)</a></b> fortgeführt.
+      <br>FoodHyper steht <b>interessierten Food-Startups</b> offen, die aus <b>Niedersachsen </b>stammen oder die sich für ein Engagement in Niedersachen interessieren.
       <br>FoodHyper wird durchgeführt von dem <b><a href="https://www.seedhouse.de/">Seedhouse</a></b>, der <b><a href="https://innovate-os.de/"> innovate!</a></b> und der <b><a href="https://www.dil-ev.de/">DIL</a>.</b> 
     featureslist:
       - title: Seedhouse
         image: images/Seedhouse_Logo.png
         imagelink: https://www.seedhouse.de/
         content: >-
-         In einem Zusammenschluss aus 34 namenhaften Unternehmen und gefördert durch das Land Niedersachsen <b>bietet das <a href="https://www.seedhouse.de/">Seedhouse</a></b> eine <b>Plattform für Innovationen aus den Bereichen Agrar, Food und Digitalisierung.</b> Der Accelerator ist offen für Startups aus allen Phasen und hilft mit maßgeschneiderten Lösungen in allen Bereichen der Entwicklung. In unserem Gründungs-Ökosystem sind Wirtschaft, Wissenschaft, Investoren, Organisationen und Politik und zahlreiche weitere Stakeholder für die Unterstützung von Startups vertreten. Wir öffnen dir diese Türen.
-      - title: innovate!
-        image: images/logo-innovate.png
-        imagelink: https://innovate-os.de/
-        content: >-
-          Als <b>Spezialist für innovative Startup-Events</b> mit der eigenen innovate!convention hat sich die 2019 in Osnabrück gegründete innovate! GmbH inzwischen als <b>Full-Service Dienstleister für alle Akteur*innen des Startup-Ökosystems</b> etabliert. Ziel jeder Veranstaltung ist es zukunftsfähige Ideen voranzubringen und die Menschen dahinter zusammen zu bringen. Das Team organisiert dabei vielfältige Events von Hackathons bis hin zu Konferenzen, die Raum für Kreativität und Austausch bieten und durch eine inspirierende Atmosphäre in Erinnerung bleiben.
+         In einem Zusammenschluss aus 32 namenhaften Unternehmen und gefördert durch das Land Niedersachsen <b>bietet das <a href="https://www.seedhouse.de/">Seedhouse</a></b> eine <b>Plattform für Innovationen aus den Bereichen Agrar, Food und Digitalisierung.</b> Der Accelerator ist offen für Startups aus allen Phasen und hilft mit maßgeschneiderten Lösungen in allen Bereichen der Entwicklung. In unserem Gründungs-Ökosystem sind Wirtschaft, Wissenschaft, Investoren, Organisationen und Politik und zahlreiche weitere Stakeholder für die Unterstützung von Startups vertreten. Wir öffnen dir diese Türen.
       - title: Deutsches Institut für Lebensmitteltechnik
         image: images/DIL-Logo.png
         imagelink: https://www.dil-ev.de/
@@ -59,9 +54,9 @@ sections:
         content: >-
           Karin Mastall <br><br> E-Mail: <a href="mailto:K.Mastall@dil-ev.de">K.Mastall@dil-ev.de </a>  <br><br> Tel.: 05431 183 193
       - title: 
-        image: images/kerstin.jpeg
+        image: images/laura_n.png
         content: >-
-          Kerstin Hogrefe <br><br> E-Mail: <a href="mailto:kerstin@seedhouse.de ">kerstin@seedhouse.de</a>  <br><br> Tel.: 0151 67965973
+          Laura Niemann <br><br> E-Mail: <a href="mailto:laura.niemann@seedhouse.de ">laura.niemann@seedhouse.de</a>  <br><br> Tel.: 0151 67965973
     
 layout: features
 ---
