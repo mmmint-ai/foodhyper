@@ -22,8 +22,7 @@ sections:
       Es bietet mit seinen unterschiedlichen Formaten sowohl für erste Ideen als auch frühphasige Startups <b>Unterstützung bei Produkt, Geschäftsidee und Netzwerk.</b> 
       Eingebettet in das bestehende Ökosystem verknüpft der FoodHyper Programme und Akteur*innen und bietet somit den optimalen Anlaufpunkt für Food-Startups. <br> 
       <br>
-      FoodHyper ist eine Initiative von <b>startup.niedersachsen.</b>
-      Weitere Informationen unter: <a href="https://startup.nds.de/">www.startup.nds.de</a>
+      <br>Der FoodHyper wird von den Konsortialpartnern Seedhouse und DIL als Teil der <b><a href="https://www.li-food.de/">Landesinitiative Ernährungswirtschaft (LI-Food)</a></b> durchgeführt.
       <br>
       <br>
       <br>
