@@ -1,12 +1,12 @@
 ---
 title: Hackathon
 subtitle: >-
-share-img: images/logo.png
+share-img:  images/foodhyper_Logo_neu.png
 sections:
   - section_id: hero
     component: hero_block.html
     type: heroblock
-    image: images/logo.png
+    image:  images/foodhyper_Logo_neu.png
     title: Hackathon
     content: >-
       Der Hackathon hat am 14. & 15. September 2022 im Alando Palais (Osnabrück) stattgefunden.

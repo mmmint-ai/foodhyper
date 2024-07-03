@@ -1,15 +1,15 @@
 ---
 title: Bootcamp
 subtitle: >-
-share-img: images/logo.png
+share-img:  images/foodhyper_Logo_neu.png
 sections:
   - section_id: hero
     component: hero_block.html
     type: heroblock
-    image: images/logo.png
+    image:  images/foodhyper_Logo_neu.png
     title: Bootcamp
     content: >-
-      Das vierte Bootcamp hat am 4.-6. Oktober 2023 im Seedhouse in Osnabrück und am Deutschen Institut für Lebensmitteltechnik in Quakenbrück stattgefunden.
+      Am 18. und 19. September 2024 findet ein zweitägiges FoodHyper Bootcamp gesponsert von der <a href="https://www.li-food.de/">LI Food</a> im Seedhouse Osnabrück und am Deutschen Institut für Lebensmitteltechnik in Quakenbrück statt.
   - section_id: Bootcamp
     component: features_block.html
     type: featuresblock
@@ -21,25 +21,27 @@ sections:
       - title:
         image: images/Bootcamp_1.jpg
         content: >-
-          Wie bündelt man die gesamte Stärke des <b>Food-Clusters aus Niedersachsen</b> in einer Woche? 
-          Indem Startups und ambitionierte Teams innerhalb kürzester Zeit <b>Zugang zur hochtechnologischen Infrastruktur</b> und zum <b>Know-How</b> des Deutschen Instituts für Lebensmitteltechnik erhalten und von den Startup-Erfahrungen und dem Netzwerk des <a href="https://www.seedhouse.de/">Seedhouse</a> und der darum versammelten 34 Unternehmen aus der gesamten Lebensmittelwertschöpfungskette profitieren.
+          Wie bündelt man die gesamte Stärke des Food-Clusters aus Niedersachsen in zwei Tagen? Indem Startups und ambitionierte Teams innerhalb kürzester Zeit Zugang zum
+          Knowhow des Deutschen Instituts für Lebensmitteltechnik erhalten und von den
+          Startup-Erfahrungen und dem Netzwerk des Seedhouse und der darum versammelten
+          32 Unternehmen aus der gesamten Lebensmittelwertschöpfungskette profitieren.
       - title: Benefits
         image: images/Bootcamp_2.jpg
         content: >-
           Als Teilnehmer*in des Bootcamps profitierst du von:
-
-           - einem individualisierten Input-Angebot
-           - Unterstützung in der Konkretisierung des Geschäftsmodells sowie der Kommerzialisierung
-           - Zugang zu der hochtechnologischen Infrastruktur und dem Knowhow des <a href="https://www.dil-ev.de/">DIL</a>
-           - einer wertvollen Vernetzung in der regionalen Food-Branche
-           - einer nachhaltigen und langfristigen Betreuung durch das <a href="https://www.seedhouse.de/">Seedhouse</a> und das DIL
-           - einer kostenfreien Unterbringung und Verpflegung
-
-             Und das alles in nur einer Woche!
+          
+            - einem individuellen Input-Angebot
+            - der Unterstützung bei der Konkretisierung des Geschäftsmodells und der Kommerzialisierung
+            - dem Zugang zum Knowhow des DIL
+            - einem wertvollen Netzwerk in der regionalen Lebensmittelbranche
+            - einer nachhaltigen und langfristigen Betreuung durch das Seedhouse und das DIL
+            - einer kostenfreien Unterkunft und Verpflegung
+        
+          Und das alles gekürzt auf 2 Tage! 
       - title: Teilnehmer*innen
         image: images/Bootcamp_3.jpg
         content: >-
-          Teilnehmen können Teams oder Startups, die überzeugende Ideen/ Prototypen für Innovationen im Lebensmittelsektor mitbringen.
+          Teilnehmen können Teams oder Startups, die überzeugende Ideen/Prototypen für Innovationen im Lebensmittelsektor mitbringen.
   - section_id: bewertungen
     component: image_slider.html
     type: imageblock
@@ -132,47 +134,6 @@ sections:
         image: /images/bootcamp/spacefood_avatar.png
       - url:
         image: /images/bootcamp/spicebreaker.PNG
-  # - section_id: call-to-action-bewerbung
-  #   component: cta_block.html
-  #   type: ctablock
-  #   title: Ihr möchtet mit eurem Food (Tech)-Startup richtig durchstarten?
-  #   subtitle:
-  #   actions:
-  #     - label: Jetzt bewerben
-  #       url: https://share-eu1.hsforms.com/13MV7-EzMTBKzQASP3ivIdwfrh1z
-  # - section_id: Bewerbung
-  #   component: features_block.html
-  #   type: featuresblock
-  #   bg: gray
-  #   title:
-  #   subtitle:
-  #   featureslist:
-  #     - title: Bewerbung
-  #       image: images/SVG/undraw_subscriber.svg
-  #       content: >-
-  #         Ihr möchtet mit eurem Food (Tech)-Startup richtig durchstarten? Dann <a href="https://share-eu1.hsforms.com/13MV7-EzMTBKzQASP3ivIdwfrh1z"><b>bewerbt</b></a> euch bis zum 6. August für das kommende Bootcamp! 
-          
-  #         <br>
-  #         <br>
-
-  #         Bewerben können sich Teams und Startups mit innovativen Ideen rund um den Food-(Tech-) Bereich. Die Bewerbung erfolgt über das <a href="/documents/2023_FoodHyper_Bootcamp_2_Bewerbungsformular.pdf" target="_blank">Bewerbungsformular</a> sowie Einsendung eures Pitch Decks, in dem ihr folgende Punkte überzeugend darstellt:
-
-  #         - Vorstellung des Startups und der Gründer:innen
-
-  #         - Problem, das von euch gelöst werden soll
-
-  #         - euer Lösungsansatz und Produkt
-
-  #         - USP
-
-  #         - aktuelle Marktsituation und Marktpotentiale
-
-  #         - Geschäftsmodell und Prognose
-
-  #         <br>
-  #         <br>
-
-  #         Einen Einblick über die Möglichkeiten am DIL findet ihr <a href="/documents/DIL_Portfolio.pdf" target="_blank">hier</a>.
 
   - section_id: Bewerbung
     component: features_block.html
@@ -183,10 +144,9 @@ sections:
     featureslist:
       - title: Bewerbung
         image: images/SVG/undraw_subscriber.svg
-        content: >- 
-          Die Bewerbung ist aktuell nicht möglich.
-          <br>
-
+        content: >-
+          Ihr möchtet mit eurem Food (Tech)-Startup richtig durchstarten? Dann <a href="https://share-eu1.hsforms.com/1G3LUep1KQwiJ8n7AS4f4gwfrh1z"><b>bewerbt</b></a> euch für das kommende Bootcamp! 
+          
   - section_id: call-to-action
     component: cta_block.html
     type: ctablock

@@ -1,12 +1,12 @@
 ---
 title: Foodpaten
 subtitle: >-
-share-img: images/logo.png
+share-img:  images/foodhyper_Logo_neu.png
 sections:
   - section_id: hero
     component: hero_block.html
     type: heroblock
-    image: images/logo.png
+    image:  images/foodhyper_Logo_neu.png
     title: Unsere Foodpaten
     content: >-
       Die Food Paten sind Ansprechpartner*innen aus allen Regionen in Niedersachsen und bilden damit ein kompetentes und diverses Netzwerk für Food-Startups und Gründungsinteressierte.  Sie unterstützen Startups und Gründungs-Teams mit ihrer Erfahrung und ihrem Netzwerk, um sie bei der Entwicklung zu unterstützen 

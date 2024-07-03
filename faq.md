@@ -2,7 +2,7 @@
 title: Häufig gestellte Fragen
 subtitle: >-
   Häufig gestellte Fragen rund um Foodhyper
-share-img: images/logo.png
+share-img:  images/foodhyper_Logo_neu.png
 sections:
   - section_id: faq
     component: faq_block.html
@@ -35,7 +35,7 @@ sections:
     faqitems:
       - question: Was ist ein Bootcamp?
         answer: >-
-          Das Bootcamp ist eine fünftägige Veranstaltung zur Unterstützung in der Konkretisierung des Geschäftsmodells. Durch den Zugang zum hochtechnologischen Technikum des DIL sowie dem Startup-Ökosystem des Seedhouse bekommen die Teams die Chance ihre Idee voranzutreiben.
+          Das Bootcamp ist eine mehrtägige Veranstaltung zur Unterstützung in der Konkretisierung des Geschäftsmodells. Durch den Zugang zum Knowhow des DIL sowie dem Startup-Ökosystem des Seedhouse bekommen die Teams die Chance ihre Idee voranzutreiben.
       - question: Wer kann am Bootcamp teilnehmen?
         answer: >-
           Teilnehmen können Teams oder Startups, die überzeugende Ideen/ Prototypen für Innovationen im Lebensmittelsektor mitbringen.
@@ -43,21 +43,17 @@ sections:
         answer: >-
           Das Programm des Bootcamps stellt sich aus individuellem Input verschiedenster Bereiche zusammen. Konkret sieht der Ablauf folgendermaßen aus:
           <br>
-          <br><b>Montag:</b> <i>Kickoff I</i> Vorstellung, Input und Austausch zu Food-Trends, Lessons Learned, u.v.m., Kennenlernen der Teilnehmer\*innen
-          <br><b>Dienstag:</b> <i>Research I</i> individuelle Produktberatung mit Experten des DIL  
-          <br><b>Mittwoch:</b> <i>Production I</i> Experimente und Produktion zur Entwicklung und Optimierung der Produktidee am DIL 
-          <br><b>Donnerstag:</b> <i>Work I</i> individualisierte Gesprächen mit Expert\*innen zu den Themen: Food-Legal / Novel Food, Netzwerk, Marketing, Storytelling, Produktentwicklung, Investment, VC und Business Angels u.v.m. 
-          <br><b>Freitag:</b> <i>Network I</i> individuelle Hilfestellungen, Pitch-Event mit anschließender Verkostung vor Vertreter\*innen namenhafter Unternehmen aus dem Food-Bereich, Matchmaking sowie wertvolles Feedback bei anschließendem Netzwerken
-          <br>
+          <br><b>1.Tag (Mittwoch):</b> Vorstellung, Vorstellung Seedhouse, 1:1 ExpertenCoachings am Seedhouse, Corporates und Startups, Netzwerkveranstaltung am DIL
+          <br><b>2.Tag (Donnerstag)</b> Führung durch das DIL, Individuelle Produktberatung durch Wissenschaftler des DIL
       - question: Wie lange geht ein Bootcamp?
         answer: >-
-          Ein Bootcamp dauert 5 Tage. Nach dem Anreisetag ist der Aufenthalt auf zwei Tage im Seedhouse (Osnabrück) und zwei Tage im DIL (Quakenbrück) gesplittet.
+          Das Bootcamp dauert 2 Tage und findet am Seedhouse in <b>Osnabrück</b> und am DIL in <b>Quakenbrück</b>  statt. Eine Übernachtung und der Transfer zwischen Osnabrück und Quakenbrück ist inkludiert. 
       - question: Wann findet das nächste Bootcamp statt?
         answer: >-
-          Das nächste Bootcamp findet vom 8. – 12. Mai 2023 im Seedhouse (Osnabrück) und im DIL (Quakenbrück) statt.
+          Das nächste Bootcamp findet vom <b>18. – 19. September 2024</b> im Seedhouse (Osnabrück) und im DIL (Quakenbrück) statt.
       - question: Was kostet das Bootcamp?
         answer: >-
-          Die Teilnahme am Bootcamp ist komplett kostenlos! Ihr müsst euch nur um eure An- und Abreise kümmern, wir erledigen den Rest (Unterkunft, Verpflegung, Transfer Osnabrück-Quakenbrück).
+          Die Teilnahme am Bootcamp ist komplett kostenlos und wird von der Landesinitiative Ernährungswirtschaft (LI Food) finanziert. Ihr müsst euch nur um eure An- und Abreise kümmern, wir erledigen den Rest (Unterkunft, Verpflegung, Transfer Osnabrück-Quakenbrück).
 layout: faq
 ---
 

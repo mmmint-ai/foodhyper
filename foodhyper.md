@@ -2,12 +2,12 @@
 title: FoodHyper
 subtitle: >-
   Der FoodHyper ist ein Programm zur Förderung von Food-Startups in Niedersachsen für Gründerinnen, Gründer und Gründungsinteressierte der Ernährungsbranche. Es bietet mit seinen unterschiedlichen Formaten sowohl für erste Ideen als auch frühphasige Startups Unterstützung bei Produkt, Geschäftsidee und Netzwerk. Eingebettet in das bestehende Ökosystem verknüpft der FoodHyper bestehende Programme und Akteur*innen und bietet somit den optimalen Anlaufpunkt für Food-Startups.
-share-img: images/logo.png
+share-img:  images/foodhyper_Logo_neu.png
 sections:
   - section_id: hero
     component: hero_block.html
     type: heroblock
-    image: images/logo.png
+    image: images/foodhyper_Logo_neu.png
     title: Allgemeines
     content: >-
      Wir haben uns zum Ziel gesetzt, die Akteur*innen der niedersächsischen Food-Gründerszene stärker miteinander zu vernetzen und (technologische) Innovationen in der Lebensmittelbranche zu fördern.
@@ -39,7 +39,12 @@ sections:
         content: >-
           Das <a href="https://www.dil-ev.de/">DIL</a> <b>entwickelt nachhaltige und effiziente Lösungen für Prozesstechnologien und neue Produktentwicklungen für den Lebensmittelbereich</b>. Problemstellungen können aus den verschiedenen Perspektiven der Lebensmitteltechnologie unter den Kriterien der Innovation, Digitalisierung und Nachhaltigkeit bearbeitet werden. 
           Als Bindeglied zwischen Wissenschaft und Praxis unterstützt das DIL Kunden und Partner kontinuierlich im Innovationsprozess und sorgt für einen Technologietransfer in die Lebensmittelindustrie. 
-          Dem DIL angegliedert ist der <b><a href="https://www.dil-innovationhub.de/">DIL </a></b> als Plattform um <b>Innovationen im Bereich der Lebensmittelwirtschaft zu fördern</b> und <b>Akteur*innen</b> aus diesem Bereich <b>zu vernetzen</b>.​ 
+          Dem DIL angegliedert ist der <b><a href="https://www.dil-innovationhub.de/">DIL </a></b> als Plattform um <b>Innovationen im Bereich der Lebensmittelwirtschaft zu fördern</b> und <b>Akteur*innen</b> aus diesem Bereich <b>zu vernetzen</b>.​
+      - title: LI Food
+        image: images/LI_Food.png
+        imagelink: https://www.li-food.de
+        content: >-
+          Mit der Geschäftsstelle am DIL Deutsches Institut für Lebensmitteltechnik e. V. und dem Seedhouse Accelerator als Partner, <b>bündelt die <a href="https://www.li-food.de/">LI Food</a> Kompetenzen und Knowhow in allen Bereichen der Ernährungswirtschaft für ganz Niedersachsen</b>. Die Landesinitiative versteht sich als branchen- und technologieübergreifendes Kompetenznetz mit hoher Markt- und Anwendungsorientierung. <b>Ziel ist die Mobilisierung und Erschließung niedersächsischer Innovationspotenziale für eine wirtschaftlich, ökologisch und sozial nachhaltige Entwicklung der Branche</b>. In allen Handlungsfeldern erhält die LI Food Unterstützung durch strategische Netzwerkpartner aus Niedersachsen, die eng in die Aktivitäten der <a href="https://www.li-food.de/">LI Food</a> eingebunden sind.
 
   - section_id: ansprechpartner
     component: contact_block.html

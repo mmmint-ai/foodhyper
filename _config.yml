@@ -2,6 +2,7 @@ title: FoodHyper
 subtitle: Der FoodHyper ist ein Programm zur Förderung von Food-Startups in Niedersachsen!
 baseurl: /
 permalink: "/:year/:month/:day/:title/"
+repository: mmmint-ai/foodhyper.de
 # Google Analytics
 google_analytics: G-4MM29SQSZG
 collections:
@@ -10,7 +11,7 @@ collections:
 
 header:
   title: FoodHyper
-  logo_img: images/logo.png
+  logo_img:  images/foodhyper_Logo_neu.png
   has_nav: true
   nav:
     Allgemeines: "foodhyper"

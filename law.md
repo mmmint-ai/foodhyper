@@ -6,7 +6,7 @@ sections:
   - section_id: hero
     component: hero_block.html
     type: heroblock
-    image: images/logo.png
+    image:  images/foodhyper_Logo_neu.png
     title: FoodLaw
     content: >-
       Neue Termine für 2024 werden bald bekanntgegeben!

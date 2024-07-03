@@ -2,12 +2,12 @@
 title: FoodHyper - Das Programm zur Förderung von Food-Startups in Niedersachsen.
 subtitle: >-
   Wir haben uns zum Ziel gesetzt, die Akteur*innen der niedersächsischen Food-Gründerszene stärker miteinander zu vernetzen und technologische Innovationen in der Lebensmittelbranche zu fördern.
-share-image: images/logo.png
+share-image:  images/foodhyper_Logo_neu.png
 sections:
   - section_id: hero
     component: hero_block.html
     type: heroblock
-    image: images/logo.png
+    image:  images/foodhyper_Logo_neu.png
     title: FoodHyper
     content: >-
       Wir haben uns zum Ziel gesetzt, die Akteur*innen der niedersächsischen Food-Gründerszene stärker miteinander zu vernetzen und (technologische) Innovationen in der Lebensmittelbranche zu fördern.
