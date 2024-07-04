@@ -45,13 +45,13 @@
           {% if imagelink_is_not_empty %}
           <a class="imagelink" href=" {{feature.imagelink }}" target="_blank">
             <img
-              class="block_image"
+              class="block_image {{ feature.customclass }}"
               src="{{ feature.image | relative_url }}"
               alt="{{ feature.title }}"
           /></a>
           {% else %}
           <img
-            class="block_image"
+            class="block_image {{ feature.customclass }}"
             src="{{ feature.image | relative_url }}"
             alt="{{ feature.title }}"
           />

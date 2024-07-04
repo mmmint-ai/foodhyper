@@ -43,6 +43,7 @@ sections:
       - title: LI Food
         image: images/LI_Food.png
         imagelink: https://www.li-food.de
+        customclass: liimage
         content: >-
           Mit der Geschäftsstelle am DIL Deutsches Institut für Lebensmitteltechnik e. V. und dem Seedhouse Accelerator als Partner, <b>bündelt die <a href="https://www.li-food.de/">LI Food</a> Kompetenzen und Knowhow in allen Bereichen der Ernährungswirtschaft für ganz Niedersachsen</b>. Die Landesinitiative versteht sich als branchen- und technologieübergreifendes Kompetenznetz mit hoher Markt- und Anwendungsorientierung. <b>Ziel ist die Mobilisierung und Erschließung niedersächsischer Innovationspotenziale für eine wirtschaftlich, ökologisch und sozial nachhaltige Entwicklung der Branche</b>. In allen Handlungsfeldern erhält die LI Food Unterstützung durch strategische Netzwerkpartner aus Niedersachsen, die eng in die Aktivitäten der <a href="https://www.li-food.de/">LI Food</a> eingebunden sind.
 

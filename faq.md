@@ -44,7 +44,7 @@ sections:
           Das Programm des Bootcamps stellt sich aus individuellem Input verschiedenster Bereiche zusammen. Konkret sieht der Ablauf folgendermaßen aus:
           <br>
           <br><b>1.Tag (Mittwoch):</b> Vorstellung, Vorstellung Seedhouse, 1:1 ExpertenCoachings am Seedhouse, Corporates und Startups, Netzwerkveranstaltung am DIL
-          <br><b>2.Tag (Donnerstag)</b> Führung durch das DIL, Individuelle Produktberatung durch Wissenschaftler des DIL
+          <br><b>2.Tag (Donnerstag):</b> Führung durch das DIL, Individuelle Produktberatung durch Wissenschaftler des DIL
       - question: Wie lange geht ein Bootcamp?
         answer: >-
           Das Bootcamp dauert 2 Tage und findet am Seedhouse in <b>Osnabrück</b> und am DIL in <b>Quakenbrück</b>  statt. Eine Übernachtung und der Transfer zwischen Osnabrück und Quakenbrück ist inkludiert. 
