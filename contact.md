@@ -6,4 +6,4 @@ layout: page
 ---
 
 Du hast Lust an der lebensmittelrechtlichen Sprechstunde, dem Hackathon oder Bootcamp teilzunehmen, hast aber noch offene Fragen? 
-Dann freuen wir uns auf deine <a href="mailto:hallo@seedhouse.de">Anfrage</a>!
+Dann freuen wir uns auf deine <a href="https://share-eu1.hsforms.com/1Ox53MzCATn24f-PcyHakZAfrh1z">Anfrage</a>!
