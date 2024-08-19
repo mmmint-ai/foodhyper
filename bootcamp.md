@@ -9,10 +9,7 @@ sections:
     image:  images/foodhyper_Logo_neu.png
     title: Bootcamp
     content: >-
-      Am 18. und 19. September 2024 findet ein zweitägiges FoodHyper Bootcamp gesponsert von der <a href="https://www.li-food.de/">LI Food</a> im Seedhouse Osnabrück und am Deutschen Institut für Lebensmitteltechnik in Quakenbrück statt.
-    actions:
-      - label: Jetzt bewerben!
-        url: https://share-eu1.hsforms.com/1G3LUep1KQwiJ8n7AS4f4gwfrh1z
+      Am 18. und 19. September 2024 findet ein zweitägiges FoodHyper Bootcamp unterstützt von der <a href="https://www.li-food.de/">LI Food</a> im Seedhouse Osnabrück und am Deutschen Institut für Lebensmitteltechnik in Quakenbrück statt.
 
   - section_id: Bootcamp
     component: features_block.html
@@ -149,7 +146,7 @@ sections:
       - title: Bewerbung
         image: images/SVG/undraw_subscriber.svg
         content: >-
-          Ihr möchtet mit eurem Food (Tech)-Startup richtig durchstarten? Dann <a href="https://share-eu1.hsforms.com/1G3LUep1KQwiJ8n7AS4f4gwfrh1z"><b>bewerbt</b></a> euch für das kommende Bootcamp! 
+          Die Bewerbungsphase ist beendet. Sobald ein neues Bootcamp in Planung ist, könnt ihr euch hier wieder bewerben. 
           
   - section_id: call-to-action
     component: cta_block.html
